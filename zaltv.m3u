@@ -271,6 +271,13 @@ http://62.210.127.217:8080/WdJsemMHzV/vuSWRd5Vjx/28674?play_token=pC1Dfx6rU7&tok
 #EXTINF:-1 group-title="ZML Sports",FOX SPORT 3HD
 http://62.210.127.217:8080/WdJsemMHzV/vuSWRd5Vjx/28673?play_token=pC1Dfx6rU7&token=QhVcUhcJRggXUFQABARVBFUEUgBUUQYFVFIBBV9aWlcMDwNWVABTAgFGGURBEkJRAFtpWgVEXlBWVgBUSkAXElxFa1oAQ14QB1EGXgBVEhhDQl9eBEReUlBdAFlVW1NXCRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 
+#EXTINF:-1 group-title="ZML Sports",ZML EPL LIVE
+https://v.wyljc.com/live/sd-1-3428801-stream/playlist.m3u8?wsSecret=937662db319341e39fb7cb27e425863e&wsABSTime=5f70a752&wsSession=295dff1fe1578d80262812ac-160121479134437&wsIPSercert=9fb88fa037540884c70334b70fe50760&wsMonitor=0
+#EXTINF:-1 group-title="ZML Sports",ZML Serie A LIVE
+https://v.wyljc.com/live/hd-zh-1-3441049-stream/playlist.m3u8?wsSecret=0bba076799dddb2d05b04be42652d309&wsABSTime=5f70aa73&wsSession=295dff1fe1578d80262812ac-160121558924111&wsIPSercert=9fb88fa037540884c70334b70fe50760&wsMonitor=0
+#EXTINF:-1 group-title="ZML Sports",ZML Ligue Live
+https://v.wyljc.com/live/hd-zh-1-3399209-stream/playlist.m3u8?wsSecret=b817193374e338de635339e7a5ee6de4&wsABSTime=5f70ac0b&wsSession=295dff1fe1578d80262812ac-160121599997539&wsIPSercert=9fb88fa037540884c70334b70fe50760&wsMonitor=0
+
 #EXTINF:-1 tvg-id="BOM.Asia" tvg-logo="https://static.epg.best/br/Boomerang.br.png" group-title="CARTOON",Boomerang
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="BF1.Asia" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="CARTOON",Baby First
