@@ -15,9 +15,9 @@ https://59nyq69ndwap-hls-live.5centscdn.com/myanmar/fortune.stream/chunks.m3u8?w
 #EXTINF:0 tvg-country="MM" tvg-logo="http://www.mizzima.tv/wp-content/uploads/2018/03/mizzima_tv_logo_transparant.png" group-title="Myanmar TV",Mizzima TV
 http://220.158.149.28:8180/TV00000000000000000170@HHZT?checkedby:hlscat.com
 #EXTINF:-1 group-title="Myanmar TV",DVB
-https://59nyq69ndwap-hls-live.5centscdn.com/myanmar/dvb.stream/playlist.m3u8
+https://l1-xl1.myanmarnet.com/relay/dvb/ch1/stream_hi/index.m3u8
 #EXTINF:-1 group-title="Myanmar TV",MWD Movie
-http://59nyq69ndwap-hls-live.5centscdn.com/myanmar/mwdmovie.stream/chunks.m3u8
+http://203.81.84.130/hls/mwd_serie/index.m3u8
 #EXTINF:-1 group-title="Myanmar TV",MWD Variety
 http://203.81.84.130/hls/mwd_variety/index.m3u8
 #EXTINF:-1 group-title="Myanmar TV",MWD
@@ -88,7 +88,8 @@ https://mkctv.net/vidbos/champion.m3u8
 
 #EXTINF: -1 tvg-name="Champion TV 2" tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Sports",UCL 2 
 https://mkctv.net/vidbos/useesports2.m3u8
- 
+#EXTINF:-1 group-title="Sports",TVRI SPORT
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 group-title="Sports",PPTV_HD
 http://183.182.100.184/live/pptvthai/index.m3u8
 #EXTINF:-1 tvg-id="CT5.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="Sports",CCTV-5 体育
@@ -101,9 +102,10 @@ https://www.livedoomovies.com/02_ChelseaTV_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_MUTV_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports",LFCTV
 https://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://fcbayern.com/fcb/images/fcbayerntv-live.jpg" group-title="Sports",Bayern Munich TV
 http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8?@amarnettv.live
+#EXTINF:-1 group-title="Sports",NBCSN
+http://dal2p2086.securepoint.io:25461/streaming/clients_live.php?username=wickeduk&password=etqyhww45e&stream=149&extension=ts&@&token=TREMWUEJGlxBVlNWVgJcUVcAAFUGVlFWAQIBAABWAAIGV1IMClJcBVRDShFEQUtSVw5vDwcXDwQHDxRBEBVVQGlaABoIQwFeW1BWChUZG0NfDlVEWQQDBQIFDVJQUgUeFEMNXBBbGlVbVVADDhcVFVMbRAMRW1RZbFJdFQwFVRAMXRFUXk0aCQ0+AlZaVFdTFFkSVkEZF1xARhpZCxNcXhoRBlFGE1kSBkNcEQAEAQYUTxIFDEBbQUFPGllHK30QGhEBQEYEVhUKDggRDRdNRBRPEg8QakdQQEJKBgQLVUAUCUYJEE0aCwIZOVBYW1dSVRdZCQ1GFw8RAAhTR0oSX1ldDUxdE2cWCgVECRUBDQMDVQhEHg==
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTI1AMs.jpg" group-title="Sports",Real Madrid TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?@amarnettv.live?sd=10&rebase=on
@@ -313,6 +315,11 @@ https://www.livedoomovies.com/02_DiscoveryHDWorld/chunklist.m3u8
 https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Discovery",H2 HD
 https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="MUSIC",THEBOX MUSIC
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+#EXTINF:-1 group-title="MUSIC",BOXHITS MUSIC
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
 #EXTINF:-1 group-title="XXX" tvg-logo="http://adultiptv.net/lists/logo.png",AdultIPTV.net Live Cams
 http://cdn.adultiptv.net/livecams.m3u8
