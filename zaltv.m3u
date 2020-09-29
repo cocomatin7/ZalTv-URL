@@ -105,7 +105,7 @@ https://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://fcbayern.com/fcb/images/fcbayerntv-live.jpg" group-title="Sports",Bayern Munich TV
 http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8?@amarnettv.live
 #EXTINF:-1 group-title="Sports",NBCSN
-http://dal2p2086.securepoint.io:25461/streaming/clients_live.php?username=wickeduk&password=etqyhww45e&stream=149&extension=ts&@&token=TREMWUEJGlxBVlNWVgJcUVcAAFUGVlFWAQIBAABWAAIGV1IMClJcBVRDShFEQUtSVw5vDwcXDwQHDxRBEBVVQGlaABoIQwFeW1BWChUZG0NfDlVEWQQDBQIFDVJQUgUeFEMNXBBbGlVbVVADDhcVFVMbRAMRW1RZbFJdFQwFVRAMXRFUXk0aCQ0+AlZaVFdTFFkSVkEZF1xARhpZCxNcXhoRBlFGE1kSBkNcEQAEAQYUTxIFDEBbQUFPGllHK30QGhEBQEYEVhUKDggRDRdNRBRPEg8QakdQQEJKBgQLVUAUCUYJEE0aCwIZOVBYW1dSVRdZCQ1GFw8RAAhTR0oSX1ldDUxdE2cWCgVECRUBDQMDVQhEHg==
+http://185.232.53.5:2086/wickeduk/etqyhww45e/149?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTI1AMs.jpg" group-title="Sports",Real Madrid TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?@amarnettv.live?sd=10&rebase=on
