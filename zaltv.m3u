@@ -75,13 +75,63 @@ http://136.243.177.164/AXN/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
 #EXTINF:-1 group-title="Movies" tvg-logo="https://images.iptvhero.com/channel/sd-fox.png",Fox Thai
 https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY: FOX HD http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/158356 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY: FOX HD 
+http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/158356 
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY: FOX Life HD http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/171961
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY: FOX Life HD 
+http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/171961
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGXK0m4k/Screenshot-142.png" group-title="Movies",MOVIE NOW HD https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGXK0m4k/Screenshot-142.png" group-title="Movies",MOVIE NOW HD 
+https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGXK0m4k/Screenshot-142.png" group-title="Movies",MOVIE NOW https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGXK0m4k/Screenshot-142.png" group-title="Movies",MOVIE NOW 
+https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8 
+
+#EXTINF:-1 group-title="Movies",MBC MAX
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8?@amarnettv.live
+
+#EXTINF:-1 group-title="Movies",MBC 2
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8?@amarnettv.live
+
+#EXTINF:-1 group-title="Movies",MBC Action
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8?@amarnettv.live
+
+#EXTINF:-1 group-title="Movies",Prive HD
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andprivehd/index.m3u8
+
+#EXTINF:-1 group-title="Movies",STAR MOVIE
+http://198.255.87.59:8080/INDIA_ENGLISH/STAR_MOVIES_HD/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 group-title="Movies",STAR MOVIE SELECT
+http://198.255.87.59:8080/INDIA_ENGLISH/STAR_MOVIES_SELECT_HD/tracks-v1a1/mono.m3u8?token=test
+
+#EXTINF:-1 group-title="Movies",TV1000
+http://live-ng-01.more.tv/hls/TV1000_HD/master.m3u8?@amarnettv.live
+
+#EXTINF:-1 group-title="Movies",TC1000 Ac
+http://live-ng-01.more.tv/hls/TV1000_Action_HD/master.m3u8?@amarnettv.live
+
+#EXTINF:-1 group-title="Movies",ViP_Premiere_HD
+http://live-ng-01.more.tv/hls/ViP_Premiere_HD/master.m3u8?@amarnettv.live
+
+#EXTINF:-1 group-title="Movies",VIP Megahit
+http://live-ng-01.more.tv/hls/ViP_Megahit_HD/master.m3u8?@amarnettv.live
+
+#EXTINF:-1 group-title="Movies",VIP Comedy
+http://live-ng-01.more.tv/hls/ViP_Comedy_HD/master.m3u8?@amarnettv.live
+
+#EXTINF:-1 group-title="Movies",24BOX TV
+http://51.158.190.97/hls/stream.m3u8?@amarnettv.live
+
+#EXTINF:-1 group-title="Movies",Cine Film
+https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8?@amarnettv.live
+
+#EXTINF:-1 group-title="Movies",FOX Action
+http://dootvthai-hd.com/cmd/api/true/Fox-Action/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies",WB TV
+http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
+
 
 #EXTINF: -1 tvg-name="Champion TV 1" tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Sports",UCL 1 
 https://mkctv.net/vidbos/champion.m3u8 
@@ -304,6 +354,16 @@ http://198.255.87.59:8080/INDIA_HINDI/SONY_YAY/tracks-v1a1/mono.m3u8?token=test
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
 #EXTINF:-1 group-title="CARTOON",Astro Cartoon
 http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
+#EXTINF:-1 group-title="CARTOON",SPACETOON
+http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8?@amarnettv.live
+#EXTINF:-1 group-title="CARTOON",EBS KIDS
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8?@amarnettv.live
+#EXTINF:-1 group-title="CARTOON",CTC KIDS
+http://live-ng-01.more.tv/hls/CTC_Kids/index_1.m3u8
+#EXTINF:-1 group-title="CARTOON",SHEMAROOME KIDS
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?@amarnettv.live
+#EXTINF:-1 group-title="CARTOON",CARTOON NETWORK
+http://zufreelist.net:8080/o9jxkjzuzuzuzo9jxkjzuzuzuzo9jxkjzuzuzuzo9jxkjzuzuzuzo9jxkjzuzuzuzo9jxkjzuzuzuzo9jxkjzuzuzuzo9jxkjzuzuzuzo9jxkjzuzuzuzo9jxkjzuzuzuz/o9jxkjzuzuzuzo9jxkjzuzuzuzo9jxkjzuzuzuzo9jxkjzuzuzuzo9jxkjzuzuzuzo9jxkjzuzuzuzo9jxkjzuzuzuzo9jxkjzuzuzuzo9jxkjzuzuzuzo9jxkjzuzuzuz/715
 
 #EXTINF:-1 group-title="Discovery",NATGEO HD
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
@@ -321,11 +381,37 @@ https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Discovery",OUTDOOR Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Discovery",SONY BBC EARTH
+http://198.255.87.59:8080/INDIA_ENGLISH/BBC_EARTH_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="Discovery",NAT GEO HD
+http://198.255.87.59:8080/INDIA_HINDI/NAT_GEO_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 group-title="Discovery",NAT GEO WILD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?@amarnettv.live
 
 #EXTINF:-1 group-title="MUSIC",THEBOX MUSIC
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 #EXTINF:-1 group-title="MUSIC",BOXHITS MUSIC
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1 group-title="MUSIC",ZING MUSIC
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zing/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",POP MUSIC
+https://live.hungama.com/linear/pop-pataka/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",KADAK HITS
+https://live.hungama.com/linear/kadak-hits/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",AAHO MUSIC
+https://v.aaho.tv/live/aahomusic.m3u8
+#EXTINF:-1 group-title="MUSIC",CHANNEL V
+https://www.fanmingming.cn/hls/channelv.m3u8
+#EXTINF:-1 group-title="MUSIC",MTV MUSIC
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 group-title="MUSIC",ZETA TV
+http://rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist.m3u8
+#EXTINF:-1 group-title="MUSIC",RUTV
+https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
+#EXTINF:-1 group-title="MUSIC",CONTACT
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
+#EXTINF:-1 group-title="MUSIC",VH1 Music
+http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
 #EXTINF:-1 group-title="XXX" tvg-logo="http://adultiptv.net/lists/logo.png",AdultIPTV.net Live Cams
 http://cdn.adultiptv.net/livecams.m3u8
