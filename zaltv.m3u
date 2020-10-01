@@ -168,7 +168,7 @@ http://iptv.zqstream.com/zqsport-gen/video.m3u8?token=vQqPVtl-k0
 #EXTINF:-1 group-title="Sports",FIGHT TIME
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
 #EXTINF:-1 group-title="Sports",FIGHT BOX
-http://ott-cdn.ucom.am/s86/04.m3u8
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="Sports",WWE TV
 https://www.livedoomovies.com/02_WWE_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports",EUROHD1
@@ -293,32 +293,6 @@ https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports",BT SPORTHD_2 HD
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="ZML Sports",EPL LIVE1
-http://163.172.209.250:8090/FT/2/index.m3u8
-#EXTINF:-1 group-title="ZML Sports",EPL LIVE2
-https://fdaily.dailysportlist.xyz/epl1/1.m3u8
-#EXTINF:-1 group-title="ZML Sports",EPL LIVE3
-http://163.172.209.250:8090/FT/9/index.m3u8
-#EXTINF:-1 group-title="ZML Sports",EPL LIVE4
-http://163.172.209.250:8090/FT/11/index.m3u8
-#EXTINF:-1 group-title="ZML Sports",LaLiga LIVE1
-http://163.172.209.250:8090/FT/7/index.m3u8
-#EXTINF:-1 group-title="ZML Sports",LaLiga LIVE2
-http://163.172.209.250:8090/FT/8/index.m3u8
-#EXTINF:-1 group-title="ZML Sports",LaLiga LIVE3
-https://fdaily.dailysportlist.xyz/2/2.m3u8
-#EXTINF:-1 group-title="ZML Sports",Ligue Live1
-http://163.172.209.250:8090/FT/4/index.m3u8
-#EXTINF:-1 group-title="ZML Sports",Serie A Live1
-http://163.172.209.250:8090/FT/3/index.m3u8
-
-#EXTINF:-1 group-title="ZML Sports",Live SPORT1
-http://163.172.209.250:8090/FT/1/index.m3u8
-#EXTINF:-1 group-title="ZML Sports",Live SPORT2
-http://163.172.209.250:8090/FT/6/index.m3u8
-#EXTINF:-1 group-title="ZML Sports",Live SPORT3
-http://163.172.209.250:8090/FT/10/index.m3u8
 
 #EXTINF:-1 group-title="ZML Sports",FOX SPORT 1HD
 http://62.210.127.217:8080/WdJsemMHzV/vuSWRd5Vjx/28675?play_token=pC1Dfx6rU7&token=QhVcUhcJRggXUFQABARVBFUEUgBUUQYFVFIBBV9aWlcMDwNWVABTAgFGGURBEkJRAFtpWgVEXlBWVgBUSkAXElxFa1oAQ14QB1EGXgBVEhhDQl9eBEReUlBdAFlVW1NXCRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
