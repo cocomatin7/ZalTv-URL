@@ -132,10 +132,12 @@ http://dootvthai-hd.com/cmd/api/true/Fox-Action/playlist.m3u8
 #EXTINF:-1 group-title="Movies",WB TV
 http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
 
-
+#EXTINF:-1 group-title="Sports",USEE SPORT1
+https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w1291473306_b1344100_sleng.m3u8?enc=drZrL_xTZRQ8gNLf5CEOmg&id=NTg1YWU4YjY3MzhhNzBkZTM1ZmQ0MDE4ZWY5YTI2NzI=&exp=1601568455
+#EXTINF:-1 group-title="Sports",USEE SPORT2
+https://vcdnjt.useetv.com/joss/15/useesports2/chunklist_w1531578797_b1344100_sleng.m3u8?enc=1FXhq4_JJvd6owoefyLNog&id=NTg1YWU4YjY3MzhhNzBkZTM1ZmQ0MDE4ZWY5YTI2NzI=&exp=1601568455
 #EXTINF: -1 tvg-name="Champion TV 1" tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Sports",UCL 1 
 https://mkctv.net/vidbos/champion.m3u8 
-
 #EXTINF: -1 tvg-name="Champion TV 2" tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Sports",UCL 2 
 https://mkctv.net/vidbos/useesports2.m3u8
 #EXTINF:-1 group-title="Sports",TVRI SPORT
