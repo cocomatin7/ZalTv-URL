@@ -137,9 +137,9 @@ https://cdngb196.useetv.com/joss/15/useesport/chunklist_w135121529_b1344100_slen
 #EXTINF:-1 group-title="Sports",USEE SPORT2
 https://cdngb196.useetv.com/joss/15/useesports2/chunklist_w1748910527_b1344100_sleng.m3u8?enc=eLL_8tXfVrZzzoGabK9C8w&id=NTg1YWU4YjY3MzhhNzBkZTM1ZmQ0MDE4ZWY5YTI2NzI=&exp=1601611653
 #EXTINF: -1 tvg-name="Champion TV 1" tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Sports",UCL 1 
-https://mkctv.net/vidbos/champion.m3u8 
+https://mkctv.net/usetvvv/champion1.m3u8
 #EXTINF: -1 tvg-name="Champion TV 2" tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Sports",UCL 2 
-https://mkctv.net/vidbos/useesports2.m3u8
+https://mkctv.net/usetvvv/champion2.m3u8
 #EXTINF:-1 group-title="Sports",TVRI SPORT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 group-title="Sports",PPTV_HD
