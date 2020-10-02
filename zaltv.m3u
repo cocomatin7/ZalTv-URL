@@ -145,7 +145,7 @@ https://mkctv.net/usetvvv/bein1.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein2_big1.png" group-title="Sports", BEINSPORT2
 https://mkctv.net/usetvvv/bein2.m3u8
 #EXTINF:-1 group-title="Sports",ZQ Sport 
-http://iptv.zqstream.com/zqsport-gen/video.m3u8?token=vQqPVtl-k0
+https://zqtv.tk:1111/LIVE/streams/131738354367082206362416.m3u8?token=null
 #EXTINF:-1 group-title="Sports",NBCSN EPL
 https://mkctv.net/josmkc/nbcsn.m3u8
 #EXTINF:-1 group-title="Sports",CBC SPORT
