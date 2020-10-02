@@ -389,6 +389,61 @@ http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
 #EXTINF:-1 group-title="MUSIC",VH1 Music
 http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
+#EXTINF: -1  group-title="(USEETV)",NET TV FHD
+https://mkctv.net/vidbos/net.m3u8
+#EXTINF: -1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" group-title="(USEETV)",CNN Indonesia SD
+https://mkctv.net/vidbos/cnn.m3u8
+#EXTINF: -1 group-title="(USEETV)",Astro Ceria
+http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
+#EXTINF: -1  group-title="(USEETV)",Bisnet Adventure 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF: -1 group-title="(USEETV)",BBC Earth
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 group-title="(USEETV)",Animal Planet
+http://136.243.177.164/ANIMALPLANET/playlist.m3u8
+#EXTINF: -1 group-title="(USEETV)",AFC
+https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 group-title="(USEETV)",Horee
+https://mkctv.net/usetvvv/horee.m3u8
+#EXTINF: -1 group-title="(USEETV)",Boomerang
+https://mkctv.net/usetvvv/boomerang.m3u8
+#EXTINF: -1  group-title="(USEETV)",My Kids
+https://mkctv.net/usetvvv/mykids.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png" group-title="(USEETV)",Dreamworks HD
+https://mkctv.net/usetvvv/dreamwork.m3u8
+#EXTINF: -1  group-title="(USEETV)",Histori
+https://mkctv.net/usetvvv/histori.m3u8
+#EXTINF: -1  group-title="(USEETV)",Nat Geo HD
+https://mkctv.net/usetvvv/natgeo.m3u8
+#EXTINF: -1 group-title="(USEETV)",Nat Geo People HD
+https://mkctv.net/usetvvv/ngp.m3u8
+#EXTINF: -1  group-title="(USEETV)",Nat Geo Wild HD
+https://mkctv.net/usetvvv/ngw.m3u8
+#EXTINF: -1  group-title="(USEETV)",Discovery Channel HD
+https://mkctv.net/usetvvv/disco.m3u8
+#EXTINF: -1  group-title="(USEETV)",AXN HD
+https://mkctv.net/usetvvv/axn.m3u8
+#EXTINF: -1  group-title="(USEETV)",Citra Drama
+https://mkctv.net/usetvvv/bioskop.m3u8
+#EXTINF: -1  group-title="(USEETV)",Celestial Movie
+https://mkctv.net/usetvvv/clestial.m3u8
+#EXTINF: -1  group-title="(USEETV)",Flik
+https://mkctv.net/usetvvv/flik.m3u8
+#EXTINF: -1  group-title="(USEETV)",Galaxy Premium SD
+https://mkctv.net/usetvvv/galaxiprem.m3u8
+#EXTINF: -1  group-title="(USEETV)",Galaxy SD
+https://mkctv.net/usetvvv/galaxi.m3u8
+#EXTINF: -1  group-title="(USEETV)",Thrill
+https://mkctv.net/usetvvv/thrill.m3u8
+#EXTINF: -1group-title="(USEETV)",SONE SD
+https://mkctv.net/usetvvv/sone.m3u8
+#EXTINF: -1  group-title="(USEETV)",TVN Movies HD
+https://mkctv.net/usetvvv/tvnm.m3u8
+#EXTINF: -1  group-title="(USEETV)",TVN HD
+https://mkctv.net/usetvvv/tvn.m3u8
+#EXTINF:-1  group-title="(USEETV)",DRAKOR TV
+http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
+
 #EXTINF:-1 group-title="XXX" tvg-logo="http://adultiptv.net/lists/logo.png",AdultIPTV.net Live Cams
 http://cdn.adultiptv.net/livecams.m3u8
 #EXTINF:-1 group-title="XXX" tvg-logo="http://adultiptv.net/lists/logo.png",AdultIPTV.net Anal
