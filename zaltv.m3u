@@ -140,13 +140,34 @@ https://cdngb196.useetv.com/joss/15/useesports2/chunklist_w1748910527_b1344100_s
 https://mkctv.net/usetvvv/champion1.m3u8
 #EXTINF: -1 tvg-name="Champion TV 2" tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Sports",UCL 2 
 https://mkctv.net/usetvvv/champion2.m3u8
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Sports", BEINSPORT1
+https://mkctv.net/usetvvv/bein1.m3u8
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein2_big1.png" group-title="Sports", BEINSPORT2
+https://mkctv.net/usetvvv/bein2.m3u8
+#EXTINF:-1 group-title="Sports",ZQ Sport 
+http://iptv.zqstream.com/zqsport-gen/video.m3u8?token=vQqPVtl-k0
+#EXTINF:-1 group-title="Sports",NBCSN EPL
+https://mkctv.net/josmkc/nbcsn.m3u8
+#EXTINF:-1 group-title="Sports",CBC SPORT
+http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sports",Eleven Sport 1
+http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1874?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Sports",Eleven Sport 2
+http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1875?checkedby:iptvcat.com 
+#EXTINF:-1 group-title="Sports",SANTANA SPORT1
+http://ott-cdn.ucom.am/s81/04.m3u8
+#EXTINF:-1 group-title="Sports",SANTANA SPORT2
+http://ott-cdn.ucom.am/s82/04.m3u8
+
+#EXTINF: -1  group-title="(USEETV)",NET TV FHD
+https://mkctv.net/vidbos/net.m3u8
 #EXTINF:-1 group-title="Sports",TVRI SPORT
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 group-title="Sports",PPTV_HD
 http://183.182.100.184/live/pptvthai/index.m3u8
-#EXTINF:-1 tvg-id="CT5.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="Sports",CCTV-5 体育
+#EXTINF:-1 tvg-id="CT5.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="Sports",CCTV-5
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
-#EXTINF:-1 tvg-id="C5P.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="Sports",CCTV-5+ 体育赛事
+#EXTINF:-1 tvg-id="C5P.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="Sports",CCTV-5+
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
 #EXTINF:-1 group-title="Sports",ChelseaTV
 https://www.livedoomovies.com/02_ChelseaTV_720p/chunklist.m3u8
@@ -156,15 +177,9 @@ https://www.livedoomovies.com/02_MUTV_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://fcbayern.com/fcb/images/fcbayerntv-live.jpg" group-title="Sports",Bayern Munich TV
 http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8?@amarnettv.live
-#EXTINF:-1 group-title="Sports",NBCSN EPL
-https://mkctv.net/josmkc/nbcsn.m3u8
-#EXTINF:-1 group-title="Sports",CBC SPORT
-http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTI1AMs.jpg" group-title="Sports",Real Madrid TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?@amarnettv.live?sd=10&rebase=on
-#EXTINF:-1 group-title="Sports",ZQ Sport 
-http://iptv.zqstream.com/zqsport-gen/video.m3u8?token=vQqPVtl-k0
 #EXTINF:-1 group-title="Sports",FIGHT TIME
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
 #EXTINF:-1 group-title="Sports",FIGHT BOX
@@ -175,15 +190,7 @@ https://www.livedoomovies.com/02_WWE_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_EUROHD1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports",EUROHD2
 https://www.livedoomovies.com/02_EUROHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Sports",Eleven Sport 1
-http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1874?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Sports",Eleven Sport 2
-http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1875?checkedby:iptvcat.com
- 
-#EXTINF:-1 group-title="Sports",SANTANA SPORT1
-http://ott-cdn.ucom.am/s81/04.m3u8
-#EXTINF:-1 group-title="Sports",SANTANA SPORT2
-http://ott-cdn.ucom.am/s82/04.m3u8
+
 
 #EXTINF:-1 group-title="Sports",True Sport Hd 1
 https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
@@ -389,8 +396,6 @@ http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
 #EXTINF:-1 group-title="MUSIC",VH1 Music
 http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
-#EXTINF: -1  group-title="(USEETV)",NET TV FHD
-https://mkctv.net/vidbos/net.m3u8
 #EXTINF: -1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" group-title="(USEETV)",CNN Indonesia SD
 https://mkctv.net/vidbos/cnn.m3u8
 #EXTINF: -1 group-title="(USEETV)",Astro Ceria
