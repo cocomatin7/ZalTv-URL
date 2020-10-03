@@ -423,7 +423,7 @@ https://mkctv.net/usetvvv/horee.m3u8
 https://mkctv.net/usetvvv/boomerang.m3u8
 #EXTINF: -1  group-title="USEETV",My Kids
 https://mkctv.net/usetvvv/mykids.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png" group-title="(USEETV)",Dreamworks HD
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png" group-title="USEETV",Dreamworks HD
 https://mkctv.net/usetvvv/dreamwork.m3u8
 #EXTINF: -1  group-title="USEETV",Histori
 https://mkctv.net/usetvvv/histori.m3u8
