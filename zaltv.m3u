@@ -312,7 +312,7 @@ https://mkctv.net/josmkc/usesport.m3u8
 #EXTINF:-1 group-title="ZML Sports",ZML EPL LIVE
 https://v.wyljc.com/live/sd-1-3428810-stream/playlist.m3u8?wsSecret=18c0c4d0adada00e8280d96f5534ab15&wsABSTime=5f787030&wsSession=295dff1fe1578d80262812ac-160172486735346&wsIPSercert=c57c38469866a68ef9bab7e53eade965&wsMonitor=0
 #EXTINF:-1 group-title="ZML Sports",ZML Serie A LIVE
-https://v.wyljc.com/live/hd-zh-1-3441049-stream/playlist.m3u8?wsSecret=0bba076799dddb2d05b04be42652d309&wsABSTime=5f70aa73&wsSession=295dff1fe1578d80262812ac-160121558924111&wsIPSercert=9fb88fa037540884c70334b70fe50760&wsMonitor=0
+https://v.wyljc.com/live/sd-1-3441058-stream/playlist.m3u8?wsSecret=ddac7991764bf8be16cbade26431c826&wsABSTime=5f7882ed&wsSession=295dff1fe1578d80262812ac-160172975956418&wsIPSercert=c57c38469866a68ef9bab7e53eade965&wsMonitor=0
 #EXTINF:-1 group-title="ZML Sports",ZML Laliga Live
 https://v.wyljc.com/live/hd-zh-1-3438979-stream/playlist.m3u8?wsSecret=677caa062c25dce237474b51c06a696e&wsABSTime=5f786fd1&wsSession=295dff1fe1578d80262812ac-160172486735346&wsIPSercert=c57c38469866a68ef9bab7e53eade965&wsMonitor=0
 #EXTINF:-1 group-title="ZML Sports",ZML Ligue Live
@@ -400,57 +400,57 @@ http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
 #EXTINF:-1 group-title="MUSIC",VH1 Music
 http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
-#EXTINF: -1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" group-title="(USEETV)",CNN Indonesia SD
+#EXTINF: -1 tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png" group-title="USEETV",CNN Indonesia SD
 https://mkctv.net/vidbos/cnn.m3u8
-#EXTINF: -1 group-title="(USEETV)",Astro Ceria
+#EXTINF: -1 group-title="USEETV",Astro Ceria
 http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
-#EXTINF: -1  group-title="(USEETV)",Bisnet Adventure 4K
+#EXTINF: -1  group-title="USEETV",Bisnet Adventure 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-#EXTINF: -1 group-title="(USEETV)",BBC Earth
+#EXTINF: -1 group-title="USEETV",BBC Earth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 group-title="(USEETV)",Animal Planet
+#EXTINF: -1 group-title="USEETV",Animal Planet
 http://136.243.177.164/ANIMALPLANET/playlist.m3u8
-#EXTINF: -1 group-title="(USEETV)",AFC
+#EXTINF: -1 group-title="USEETV",AFC
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 group-title="(USEETV)",Horee
+#EXTINF: -1 group-title="USEETV",Horee
 https://mkctv.net/usetvvv/horee.m3u8
-#EXTINF: -1 group-title="(USEETV)",Boomerang
+#EXTINF: -1 group-title="USEETV",Boomerang
 https://mkctv.net/usetvvv/boomerang.m3u8
-#EXTINF: -1  group-title="(USEETV)",My Kids
+#EXTINF: -1  group-title="USEETV",My Kids
 https://mkctv.net/usetvvv/mykids.m3u8
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png" group-title="(USEETV)",Dreamworks HD
 https://mkctv.net/usetvvv/dreamwork.m3u8
-#EXTINF: -1  group-title="(USEETV)",Histori
+#EXTINF: -1  group-title="USEETV",Histori
 https://mkctv.net/usetvvv/histori.m3u8
-#EXTINF: -1  group-title="(USEETV)",Nat Geo HD
+#EXTINF: -1  group-title="USEETV",Nat Geo HD
 https://mkctv.net/usetvvv/natgeo.m3u8
-#EXTINF: -1 group-title="(USEETV)",Nat Geo People HD
+#EXTINF: -1 group-title="USEETV",Nat Geo People HD
 https://mkctv.net/usetvvv/ngp.m3u8
-#EXTINF: -1  group-title="(USEETV)",Nat Geo Wild HD
+#EXTINF: -1  group-title="USEETV",Nat Geo Wild HD
 https://mkctv.net/usetvvv/ngw.m3u8
-#EXTINF: -1  group-title="(USEETV)",Discovery Channel HD
+#EXTINF: -1  group-title="USEETV",Discovery Channel HD
 https://mkctv.net/usetvvv/disco.m3u8
-#EXTINF: -1  group-title="(USEETV)",AXN HD
+#EXTINF: -1  group-title="USEETV",AXN HD
 https://mkctv.net/usetvvv/axn.m3u8
-#EXTINF: -1  group-title="(USEETV)",Citra Drama
+#EXTINF: -1  group-title="USEETV",Citra Drama
 https://mkctv.net/usetvvv/bioskop.m3u8
-#EXTINF: -1  group-title="(USEETV)",Celestial Movie
+#EXTINF: -1  group-title="USEETV",Celestial Movie
 https://mkctv.net/usetvvv/clestial.m3u8
-#EXTINF: -1  group-title="(USEETV)",Flik
+#EXTINF: -1  group-title="USEETV",Flik
 https://mkctv.net/usetvvv/flik.m3u8
-#EXTINF: -1  group-title="(USEETV)",Galaxy Premium SD
+#EXTINF: -1  group-title="USEETV",Galaxy Premium SD
 https://mkctv.net/usetvvv/galaxiprem.m3u8
-#EXTINF: -1  group-title="(USEETV)",Galaxy SD
+#EXTINF: -1  group-title="USEETV",Galaxy SD
 https://mkctv.net/usetvvv/galaxi.m3u8
-#EXTINF: -1  group-title="(USEETV)",Thrill
+#EXTINF: -1  group-title="USEETV",Thrill
 https://mkctv.net/usetvvv/thrill.m3u8
-#EXTINF: -1group-title="(USEETV)",SONE SD
+#EXTINF: -1group-title="USEETV",SONE SD
 https://mkctv.net/usetvvv/sone.m3u8
-#EXTINF: -1  group-title="(USEETV)",TVN Movies HD
+#EXTINF: -1  group-title="USEETV",TVN Movies HD
 https://mkctv.net/usetvvv/tvnm.m3u8
-#EXTINF: -1  group-title="(USEETV)",TVN HD
+#EXTINF: -1  group-title="USEETV",TVN HD
 https://mkctv.net/usetvvv/tvn.m3u8
-#EXTINF:-1  group-title="(USEETV)",DRAKOR TV
+#EXTINF:-1  group-title="USEETV",DRAKOR TV
 http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
 
 #EXTINF:-1 group-title="XXX" tvg-logo="http://adultiptv.net/lists/logo.png",AdultIPTV.net Live Cams
