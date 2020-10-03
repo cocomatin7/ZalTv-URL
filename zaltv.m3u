@@ -324,6 +324,9 @@ https://v.wyljc.com/live/sd-1-3418293-stream/playlist.m3u8?wsSecret=6784f338b98c
 #EXTINF:-1 group-title="ZML Sports",ZML Bundesliga Live3
 https://v.wyljc.com/live/sd-1-3418291-stream/playlist.m3u8?wsSecret=3a29da0366a4b77adef8c3f948bc7a52&wsABSTime=5f788ac0&wsSession=295dff1fe1578d80262812ac-160173172513855&wsIPSercert=c57c38469866a68ef9bab7e53eade965&wsMonitor=0
 
+#EXTINF:-1 group-title="ZML Sports",ZML ChampionShip Live
+https://v.wyljc.com/live/hd-en-1-3431038-stream/playlist.m3u8?wsSecret=6881eaa1320498a54fa9fc7846e61b69&wsABSTime=5f7891a0&wsSession=295dff1fe1578d80262812ac-160173352221122&wsIPSercert=c57c38469866a68ef9bab7e53eade965&wsMonitor=0
+
 #EXTINF:-1 tvg-id="BOM.Asia" tvg-logo="https://static.epg.best/br/Boomerang.br.png" group-title="CARTOON",Boomerang
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="BF1.Asia" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="CARTOON",Baby First
