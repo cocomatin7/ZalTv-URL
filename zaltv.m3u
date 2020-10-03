@@ -132,10 +132,10 @@ http://dootvthai-hd.com/cmd/api/true/Fox-Action/playlist.m3u8
 #EXTINF:-1 group-title="Movies",WB TV
 http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports",FEED SPORT1
-https://cdngb196.useetv.com/joss/15/useesport/chunklist_w135121529_b1344100_sleng.m3u8?enc=H1ZqExe7v1kht52LQCK92w&id=NTg1YWU4YjY3MzhhNzBkZTM1ZmQ0MDE4ZWY5YTI2NzI=&exp=1601611653
-#EXTINF:-1 group-title="Sports",FEED SPORT2
-https://cdngb196.useetv.com/joss/15/useesports2/chunklist_w1748910527_b1344100_sleng.m3u8?enc=eLL_8tXfVrZzzoGabK9C8w&id=NTg1YWU4YjY3MzhhNzBkZTM1ZmQ0MDE4ZWY5YTI2NzI=&exp=1601611653
+#EXTINF:-1 group-title="Sports",USEE SPORT1
+https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=useesport
+#EXTINF:-1 group-title="Sports",USEE SPORT2
+https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=useesports2
 #EXTINF: -1 tvg-name="Champion TV 1" tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Sports",UCL 1 
 https://mkctv.net/usetvvv/champion1.m3u8
 #EXTINF: -1 tvg-name="Champion TV 2" tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Sports",UCL 2 
@@ -358,7 +358,7 @@ http://live-ng-01.more.tv/hls/CTC_Kids/index_1.m3u8
 #EXTINF:-1 group-title="CARTOON",SHEMAROOME KIDS
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?@amarnettv.live
 #EXTINF:-1 group-title="CARTOON",CARTOON NETWORK
-http://zufreelist.net:8080/o9jxkjzuzuzuzo9jxkjzuzuzuzo9jxkjzuzuzuzo9jxkjzuzuzuzo9jxkjzuzuzuzo9jxkjzuzuzuzo9jxkjzuzuzuzo9jxkjzuzuzuzo9jxkjzuzuzuzo9jxkjzuzuzuz/o9jxkjzuzuzuzo9jxkjzuzuzuzo9jxkjzuzuzuzo9jxkjzuzuzuzo9jxkjzuzuzuzo9jxkjzuzuzuzo9jxkjzuzuzuzo9jxkjzuzuzuzo9jxkjzuzuzuzo9jxkjzuzuzuz/715
+https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=cartoonnetwork
 
 #EXTINF:-1 group-title="Discovery",NATGEO HD
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
