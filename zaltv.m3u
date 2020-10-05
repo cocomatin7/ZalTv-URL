@@ -132,10 +132,6 @@ http://dootvthai-hd.com/cmd/api/true/Fox-Action/playlist.m3u8
 #EXTINF:-1 group-title="Movies",WB TV
 http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports",USEE SPORT1
-https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=useesport
-#EXTINF:-1 group-title="Sports",USEE SPORT2
-https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=useesports2
 #EXTINF: -1 tvg-name="Champion TV 1" tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Sports",UCL 1 
 https://mkctv.net/usetvvv/champion1.m3u8
 #EXTINF: -1 tvg-name="Champion TV 2" tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Sports",UCL 2 
@@ -144,18 +140,11 @@ https://mkctv.net/usetvvv/champion2.m3u8
 https://mkctv.net/usetvvv/bein1.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein2_big1.png" group-title="Sports", BEINSPORT2
 https://mkctv.net/usetvvv/bein2.m3u8
-#EXTINF:-1 group-title="Sports",FOX SPORT 1HD
-https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=foxsport1
-#EXTINF:-1 group-title="Sports",FOX SPORT 2HD
-https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=foxsport2
-#EXTINF:-1 group-title="Sports",FOX SPORT 3HD
-https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=foxsport3
+
 #EXTINF:-1 group-title="Sports",ZQ Sport 
 https://zqtv.tk:1111/LIVE/streams/131738354367082206362416.m3u8?token=null
 #EXTINF:-1 group-title="Sports",NBCSN EPL
 https://mkctv.net/josmkc/nbcsn.m3u8
-#EXTINF:-1 group-title="Sports",CBC SPORT
-http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sports",Eleven Sport 1
 http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1874?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sports",Eleven Sport 2
@@ -256,9 +245,10 @@ https://www.livedoomovies.com/02_PremierHD4_480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="Sports",Star Sports Select 1 HD
 http://103.214.202.218:8081/live/select1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="Sports",Star Sports Select 2 HD 
-http://103.214.202.218:8081/live/select2/chunks.m3u8
-
+#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="Sports",StarSports Select 2 HD 
+http://103.84.253.5/live/fastfeed1001/index.m3u8
+#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="Sports",StarSports Select 2
+http://103.102.136.106:8080/cmcltv/livesports.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1HD
 http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="Sports",Sony Ten 2HD
@@ -372,12 +362,6 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8?@amarnett
 http://live-ng-01.more.tv/hls/CTC_Kids/index_1.m3u8
 #EXTINF:-1 group-title="CARTOON",SHEMAROOME KIDS
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?@amarnettv.live
-#EXTINF:-1 group-title="CARTOON",CARTOON NETWORK
-https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=cartoonnetwork
-#EXTINF:-1 group-title="CARTOON",Animax
-https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=animax
-#EXTINF:-1 group-title="CARTOON",ANIPlus
-https://riyancoday.xyz/get-link.m3u8?shinta=sayang&cdy=aniplus
 
 #EXTINF:-1 group-title="Discovery",NATGEO HD
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
