@@ -132,6 +132,9 @@ http://dootvthai-hd.com/cmd/api/true/Fox-Action/playlist.m3u8
 #EXTINF:-1 group-title="Movies",WB TV
 http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
 
+#EXTINF:-1 group-title="Movies",TNT MOVIE
+http://cdnak8.cast4u.info/channels/3/10803.m3u8
+
 #EXTINF: -1 tvg-name="Champion TV 1" tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Sports",UCL 1 
 https://mkctv.net/usetvvv/champion1.m3u8
 #EXTINF: -1 tvg-name="Champion TV 2" tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Sports",UCL 2 
@@ -141,10 +144,14 @@ https://mkctv.net/usetvvv/bein1.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein2_big1.png" group-title="Sports", BEINSPORT2
 https://mkctv.net/usetvvv/bein2.m3u8
 
+#EXTINF:-1 group-title="Sports",SKYSPORT EPL SD
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/5287ef2dc1aba35.m3u8
+#EXTINF:-1 group-title="Sports",SKYSPORT EPL HD
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/7cd55cbdb8421e2.m3u8
 #EXTINF:-1 group-title="Sports",ZQ Sport 
 https://zqtv.tk:1111/LIVE/streams/131738354367082206362416.m3u8?token=null
 #EXTINF:-1 group-title="Sports",NBCSN EPL
-https://mkctv.net/josmkc/nbcsn.m3u8
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/a7c8b3630f5fe86.m3u8
 #EXTINF:-1 group-title="Sports",Eleven Sport 1
 http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1874?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Sports",Eleven Sport 2
@@ -178,13 +185,16 @@ http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTI1AMs.jpg" group-title="Sports",Real Madrid TV HD
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?@amarnettv.live?sd=10&rebase=on
 #EXTINF:-1 group-title="Sports",UFC FIGHT
-http://live-ng-01.more.tv/hls/UFC/index_1.m3u8
+http://live-ng-01.more.tv/hls/UFC/master.m3u8
 #EXTINF:-1 group-title="Sports",FIGHT TIME
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
 #EXTINF:-1 group-title="Sports",FIGHT BOX
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="Sports",WWE TV
 https://www.livedoomovies.com/02_WWE_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Sports",WWE 1
+http://cdnak10.cast4u.info/channels/4/10804.m3u8
+
 #EXTINF:-1 group-title="Sports",EUROHD1
 https://www.livedoomovies.com/02_EUROHD1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports",EUROHD2
@@ -303,8 +313,10 @@ https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports",BT SPORTHD_2 HD
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 
-#EXTINF: -1 group-title="ZML Sports",FOOTBALL LIVE
-https://mkctv.net/josmkc/usesport.m3u8
+#EXTINF: -1 group-title="ZML Sports",FOOTBALL LIVE1
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/7d58c543420239a.m3u8
+#EXTINF: -1 group-title="ZML Sports",FOOTBALL LIVE2
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/fd4a89e609f9ce8.m3u8
 #EXTINF:-1 group-title="ZML Sports",ZML EPL LIVE1
 https://v.wyljc.com/live/sd-1-3428811-stream/playlist.m3u8?wsSecret=eb3e5fd6ca12de5ac881898200e5ef65&wsABSTime=5f79f83e&wsSession=295dff1fe1578d80262812ac-160182533220271&wsIPSercert=a3138485eb4d93943a9431347941ded7&wsMonitor=0
 #EXTINF:-1 group-title="ZML Sports",ZML EPL LIVE2
