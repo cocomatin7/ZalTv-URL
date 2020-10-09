@@ -140,9 +140,16 @@ https://mkctv.net/usetvvv/champion1.m3u8
 #EXTINF: -1 tvg-name="Champion TV 2" tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Sports",UCL 2 
 https://mkctv.net/usetvvv/champion2.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Sports", BEINSPORT1
-https://mkctv.net/usetvvv/bein1.m3u8
+http://tvla.xyz/idovbesd/78U9cdg8Sn/34718
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein2_big1.png" group-title="Sports", BEINSPORT2
-https://mkctv.net/usetvvv/bein2.m3u8
+http://tvla.xyz/idovbesd/78U9cdg8Sn/34719
+
+#EXTINF:-1 tvg-id="FS2.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports1.png" group-title="Sports",Fox Sports1
+http://tvla.xyz/idovbesd/78U9cdg8Sn/34630
+#EXTINF:-1 tvg-id="FS2.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png" group-title="Sports",Fox Sports2
+http://tvla.xyz/idovbesd/78U9cdg8Sn/34633
+#EXTINF:-1 tvg-id="FS2.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports3.png" group-title="Sports",Fox Sports3
+http://tvla.xyz/idovbesd/78U9cdg8Sn/34636
 
 #EXTINF:-1 group-title="Sports",SKYSPORT EPL SD
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/5287ef2dc1aba35.m3u8
