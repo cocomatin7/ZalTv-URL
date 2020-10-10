@@ -308,17 +308,17 @@ https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports",BT SPORTHD_2 HD
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 
-#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="USEE SPORT",Bein Sport1
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Sports", BEINSPORT1
 https://bonetv.xyz/m3u/usee-bein1-boneplay.m3u8
-#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="USEE SPORT",Bein Sport2
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein2_big1.png" group-title="Sports", BEINSPORT2
 https://bonetv.xyz/m3u/usee-bein2-boneplay.m3u8
-#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="USEE SPORT",Champion1
+#EXTINF: -1 tvg-name="Champion TV 1" tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Sports",UCL TV1
 https://bonetv.xyz/m3u/vidio-championtv1-boneplay.m3u8
-#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="USEE SPORT",Champion2
+#EXTINF: -1 tvg-name="Champion TV 2" tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Sports",UCL TV2 
 https://bonetv.xyz/m3u/vidio-championtv2-boneplay.m3u8
-#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="USEE SPORT",Useesports1
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports",Useesports1
 https://bonetv.xyz/m3u/usee-useesport-boneplay.m3u8
-#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="USEE SPORT",Useesports2
+#EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Sports",Useesports2
 https://bonetv.xyz/m3u/usee-useesports2-boneplay.m3u8
 
 #EXTINF: -1 group-title="ZML Sports",FOOTBALL LIVE1
