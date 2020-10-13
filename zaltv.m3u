@@ -363,8 +363,8 @@ http://173.249.4.94:8081/b7/b7/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Other Sports", BEINSPORT 8HD
 http://173.249.4.94:8081/b8/b8/chunks.m3u8
 
-#EXTINF:-1 group-title="CARTOON",Cartoon Network
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="CARTOON",Cartoon Network
+https://ott.bingebd.com:443/live/ngrp:cartoon_network_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BOM.Asia" tvg-logo="https://static.epg.best/br/Boomerang.br.png" group-title="CARTOON",Boomerang
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="BF1.Asia" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="CARTOON",Baby First
@@ -374,7 +374,7 @@ http://51.52.156.22:8888/http/003
 #EXTINF:-1 tvg-id="PMX.UK" tvg-logo="https://static.epg.best/gb/POPMax.uk.png" group-title="CARTOON",POP Max
 https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NIC.IN" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="CARTOON",Nick Jr
-https://itpolly.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
+https://ott.bingebd.com:443/live/ngrp:nick_jr_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TPO.UK" tvg-logo="https://static.epg.best/gb/Tinypop.uk.png" group-title="CARTOON",Tiny Pop
 https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TRC.TR" tvg-logo="https://static.epg.best/tr/TRTCocuk.tr.png" group-title="CARTOON",TRT Cocuk(Turki)
@@ -382,7 +382,7 @@ https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="http://www.shemarookids.com/img/logo.png" group-title="CARTOON",Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4rEFCPQ.jpg" group-title="CARTOON",Sony YAY
-http://198.255.87.59:8080/INDIA_HINDI/SONY_YAY/tracks-v1a1/mono.m3u8?token=test
+https://ott.bingebd.com:443/live/ngrp:sony_yay_all/playlist.m3u8
 #EXTINF:-1  group-title="CARTOON",Discovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
 #EXTINF:-1 group-title="CARTOON",Astro Cartoon
@@ -396,28 +396,26 @@ http://live-ng-01.more.tv/hls/CTC_Kids/index_1.m3u8
 #EXTINF:-1 group-title="CARTOON",SHEMAROOME KIDS
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?@amarnettv.live
 
-#EXTINF:-1 group-title="Discovery",NATGEO HD
+#EXTINF:-1 group-title="Discovery",NATGEO 1HD
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Discovery",NATGEO 2HD
+https://ott.bingebd.com:443/live/ngrp:nat_geo_in_all/playlist.m3u8
+#EXTINF:-1 group-title="Discovery",NATGEO WILD
+https://ott.bingebd.com:443/live/ngrp:nat_geo_wild_all/playlist.m3u8
 #EXTINF:-1 group-title="Discovery",AnimalPlanet1
 http://136.243.177.164/ANIMALPLANET/playlist.m3u8
-#EXTINF:-1 group-title="Discovery",AnimalPlanet2
-https://www.livedoomovies.com/02_AnimalPlanet/chunklist.m3u8
 #EXTINF:-1 group-title="Discovery",DiscoveryChannel
-https://www.livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
-#EXTINF:-1 group-title="Discovery",Discovery World
-https://www.livedoomovies.com/02_DiscoveryHDWorld/chunklist.m3u8
+https://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8
+#EXTINF:-1 group-title="Discovery",Discovery Turbo
+https://ott.bingebd.com:443/live/ngrp:discovery_turbo_all/playlist.m3u8
 #EXTINF:-1 group-title="Discovery",HISTORY HD
-https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Discovery",H2 HD
-https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
+https://ott.bingebd.com:443/live/ngrp:history_tv_hd_all/playlist.m3u8
+#EXTINF:-1 group-title="Discovery",TCL HD
+https://ott.bingebd.com:443/live/ngrp:tlc_hd_all/playlist.m3u8
 #EXTINF:-1 group-title="Discovery",OUTDOOR Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Discovery",SONY BBC EARTH
-http://198.255.87.59:8080/INDIA_ENGLISH/BBC_EARTH_HD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 group-title="Discovery",NAT GEO HD
-http://198.255.87.59:8080/INDIA_HINDI/NAT_GEO_HD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 group-title="Discovery",NAT GEO WILD
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?@amarnettv.live
+#EXTINF:-1 group-title="Discovery",BBC LifeStyle
+https://ott.bingebd.com/live/ngrp:bbc_lifestyle_all/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC",THEBOX MUSIC
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
