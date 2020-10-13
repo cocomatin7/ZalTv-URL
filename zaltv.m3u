@@ -353,12 +353,25 @@ http://173.249.4.94:8081/b8/b8/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Other Sports",SUPER SPORT 1
 http://144.76.91.70:8081/streamrtmp/ss1/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Other Sports",SUPER SPORT 2
 http://144.76.91.70:8081/streamrtmp/ss2/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Other Sports",SUPER SPORT 3
 http://144.76.91.70:8081/streamrtmp/ss3/playlist.m3u8
+
+#EXTINF:-1 group-title="Other Sports",SPORT 1HD
+http://37.48.86.45:8182/OTEsport1/index.m3u8
+#EXTINF:-1 group-title="Other Sports",SPORT 2HD
+http://37.48.86.45:8182/OTEsport2/index.m3u8
+#EXTINF:-1 group-title="Other Sports",SPORT 3HD
+http://37.48.86.45:8182/OTEsport3/index.m3u8
+#EXTINF:-1 group-title="Other Sports",SPORT 4HD
+http://37.48.86.45:8182/OTEsport4/index.m3u8
+#EXTINF:-1 group-title="Other Sports",SPORT 5HD
+http://37.48.86.45:8182/OTEsport5/index.m3u8
+#EXTINF:-1 group-title="Other Sports",SPORT 6HD
+http://37.48.86.45:8182/OTEsport6/index.m3u8
+#EXTINF:-1 group-title="Other Sports",SPORT 7HD
+http://37.48.86.45:8182/OTEsport7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="CARTOON",Cartoon Network
 https://ott.bingebd.com:443/live/ngrp:cartoon_network_all/playlist.m3u8
