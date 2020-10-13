@@ -49,16 +49,16 @@ https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa3
 http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/stream_2.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://images.iptvhero.com/channel/hd-foxaction.png",Fox Action
-http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/157575
+http://tv10.chang55.com/ch13-foxac/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://images.iptvhero.com/channel/hd-foxpremium.png",Fox Movies
-http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/171962
+http://tv10.chang55.com/ch05-foxm/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://images.iptvhero.com/channel/hd-foxfamily.png",Fox Family
 http://203.150.107.30:8081/tested2iptv/core14/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://images.iptvhero.com/channel/hd-hbo.png",HBO HD
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+https://ott.bingebd.com:443/live/ngrp:hbo_all/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg",Red by HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
@@ -70,10 +70,10 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://images.iptvhero.com/channel/hd-axn.png",AXN HD
-http://136.243.177.164/AXN/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+http://ip2121.com:8081/live2/AXN_Y/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://images.iptvhero.com/channel/sd-fox.png",Fox Thai
-https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
+http://tv10.chang55.com/ch08-foxthai/playlist.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/FPcCIuo.png",MY: FOX HD 
 http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/158356 
@@ -126,14 +126,8 @@ http://51.158.190.97/hls/stream.m3u8?@amarnettv.live
 #EXTINF:-1 group-title="Movies",Cine Film
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8?@amarnettv.live
 
-#EXTINF:-1 group-title="Movies",FOX Action
-http://dootvthai-hd.com/cmd/api/true/Fox-Action/playlist.m3u8
-
 #EXTINF:-1 group-title="Movies",WB TV
 http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
-
-#EXTINF:-1 group-title="Movies",TNT MOVIE
-http://cdnak8.cast4u.info/channels/3/10803.m3u8
 
 
 #EXTINF:-1 tvg-id="FS2.Asia" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Sports",Fox Sports1
@@ -183,9 +177,9 @@ http://live-ng-01.more.tv/hls/UFC/master.m3u8
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
 #EXTINF:-1 group-title="Sports",FIGHT BOX
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="Sports",WWE TV
-https://www.livedoomovies.com/02_WWE_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports",WWE 1
+http://cdnak8.cast4u.info/channels/3/10803.m3u8
+#EXTINF:-1 group-title="Sports",WWE 2
 http://cdnak10.cast4u.info/channels/4/10804.m3u8
 
 #EXTINF:-1 group-title="Sports",True Sport Hd 1
