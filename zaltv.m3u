@@ -364,6 +364,15 @@ http://173.249.4.94:8081/b7/b7/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Other Sports", BEINSPORT 8HD
 http://173.249.4.94:8081/b8/b8/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Other Sport",SUPER SPORT 1
+http://144.76.91.70:8081/streamrtmp/ss1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Other Sport",SUPER SPORT 2
+http://144.76.91.70:8081/streamrtmp/ss2/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Other Sport",SUPER SPORT 3
+http://144.76.91.70:8081/streamrtmp/ss3/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="CARTOON",Cartoon Network
 https://ott.bingebd.com:443/live/ngrp:cartoon_network_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BOM.Asia" tvg-logo="https://static.epg.best/br/Boomerang.br.png" group-title="CARTOON",Boomerang
