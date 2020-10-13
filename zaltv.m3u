@@ -223,15 +223,15 @@ https://mptalive6-a.akamaihd.net/83c48cc94de947f392b2d08dc1eb694c/ap-southeast-1
 https://mptalive6-a.akamaihd.net/83c48cc94de947f392b2d08dc1eb694c/ap-southeast-1/6066350939001/profile_0/chunklist.m3u8?hdnea=st=1600347845~exp=9007200855088836~acl=/83c48cc94de947f392b2d08dc1eb694c/*/profile_0/chunklist.m3u8*~hmac=7875ad2f13fb6b2d3d71f7c23f9fc5228ddd1c89fc786e8c496448c5aa02611f
  
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premier Sport HD1
-https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+http://tv10.chang55.com/epl-1/playlist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/premierfootball2.png",Premier Sport HD2
-https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+http://tv10.chang55.com/epl-2/playlist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/premierfootball3.png",Premier Sport HD3
-https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
+http://tv10.chang55.com/epl-3/playlist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/premierfootball4.png",Premier Sport HD4
-https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
+http://tv10.chang55.com/epl-4/playlist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/premierfootball5.png",Premier Sport HD5
-https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
+http://tv10.chang55.com/epl-5/playlist.m3u8
  
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premier Sport SD1
 https://www.livedoomovies.com/02_PremierHD1_480p/chunklist.m3u8
@@ -300,9 +300,9 @@ https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxsports1.png",Fox Sports 1
 https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports2.png",Fox Sports 2
-http://103.208.24.234:1935/thaisport/sd-foxsports2.stream/chunklist.m3u8
+http://tv10.chang55.com/ch09-f2/playlist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports3.png",Fox Sports 3
-http://103.208.24.234:1935/thaisport/sd-foxsports3.stream/chunklist.m3u8
+http://tv10.chang55.com/ch09-f3/playlist.m3u8
 
 #EXTINF: -1 group-title="ZML Sports",FOOTBALL LIVE1
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/7d58c543420239a.m3u8
@@ -351,6 +351,23 @@ https://bonetv.xyz/m3u/vidio-championtv2-boneplay.m3u8
 https://bonetv.xyz/m3u/usee-useesport-boneplay.m3u8
 #EXTINF:-1 logo="https://tinyurl.com/ybbvjodj" group-title="Other Sports",Useesports2
 https://bonetv.xyz/m3u/usee-useesports2-boneplay.m3u8
+
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Other Sports", BEINSPORT 1HD
+http://173.249.4.94:8081/b1/b1/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Other Sports", BEINSPORT 2HD
+http://173.249.4.94:8081/b2/b2/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Other Sports", BEINSPORT 3HD
+http://173.249.4.94:8081/b3/b3/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Other Sports", BEINSPORT 4HD
+http://173.249.4.94:8081/b4/b4/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Other Sports", BEINSPORT 5HD
+http://173.249.4.94:8081/b5/b5/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Other Sports", BEINSPORT 6HD
+http://173.249.4.94:8081/b6/b6/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Other Sports", BEINSPORT 7HD
+http://173.249.4.94:8081/b7/b7/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Other Sports", BEINSPORT 8HD
+http://173.249.4.94:8081/b8/b8/chunks.m3u8
 
 #EXTINF:-1 group-title="CARTOON",Cartoon Network
 
