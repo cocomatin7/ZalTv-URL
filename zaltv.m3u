@@ -209,7 +209,7 @@ http://89.248.174.8:8088/K8ur4SKQ3y/B27f1CJBzf/40601?token=QhVcUhcJRggXXAVSCwJSB
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/5287ef2dc1aba35.m3u8
 #EXTINF:-1 group-title="Sports",SKYSPORT EPL HD
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/7cd55cbdb8421e2.m3u8
-#EXTINF:-1 group-title="Sports",NBCSN EPL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbxJcI35QmglIgFrxqEgqRB4nZZwFSOn6ES0VnNza_U6AJeam4&usqp=CAU" group-title="Sports",NBCSN EPL
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/a7c8b3630f5fe86.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="Sports",Sports Select 1 HD
@@ -309,46 +309,46 @@ http://37.48.86.45:8182/SUPERSPORT4/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Other Sports",NOVA SPORT 5
 http://37.48.86.45:8182/SUPERSPORT5/index.m3u8
 
-#EXTINF:-1 group-title="Bein Sports",BEIN SPORTS 1 HD
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN1-Small.png" group-title="Bein Sports",BEIN SPORTS 1 HD
 http://fariszah.myq-see.com:8008/live/demo/demo/2322.ts
-#EXTINF:-1 group-title="Bein Sports",BEIN SPORTS 2 HD
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN2-Small.png" group-title="Bein Sports",BEIN SPORTS 2 HD
 http://fariszah.myq-see.com:8008/live/demo/demo/21549.ts
-#EXTINF:-1 group-title="Bein Sports",BEIN SPORTS 3 HD
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN3-Small.png" group-title="Bein Sports",BEIN SPORTS 3 HD
 http://fariszah.myq-see.com:8008/live/demo/demo/21550.ts
-#EXTINF:-1 group-title="Bein Sports",BEIN SPORTS 4 HD
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN4-Small.png" group-title="Bein Sports",BEIN SPORTS 4 HD
 http://fariszah.myq-see.com:8008/live/demo/demo/21551.ts
-#EXTINF:-1 group-title="Bein Sports",BEIN SPORTS 5 HD
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN5-Small.png" group-title="Bein Sports",BEIN SPORTS 5 HD
 http://fariszah.myq-see.com:8008/live/demo/demo/21552.ts
-#EXTINF:-1 group-title="Bein Sports",BEIN SPORTS 6 HD
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN6-Small.png" group-title="Bein Sports",BEIN SPORTS 6 HD
 http://fariszah.myq-see.com:8008/live/demo/demo/21553.ts
-#EXTINF:-1 group-title="Bein Sports",BEIN SPORTS 7 HD
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN7-Small.png" group-title="Bein Sports",BEIN SPORTS 7 HD
 http://fariszah.myq-see.com:8008/live/demo/demo/2308.ts
-#EXTINF:-1 group-title="Bein Sports",BEIN SPORTS 8 HD
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN8-Small.png" group-title="Bein Sports",BEIN SPORTS 8 HD
 http://fariszah.myq-see.com:8008/live/demo/demo/2314.ts
-#EXTINF:-1 group-title="Bein Sports",BEIN SPORTS 9 HD
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN9-Small.png" group-title="Bein Sports",BEIN SPORTS 9 HD
 http://fariszah.myq-see.com:8008/live/demo/demo/2315.ts
-#EXTINF:-1 group-title="Bein Sports",BEIN SPORTS 10 HD
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN10-Small.png" group-title="Bein Sports",BEIN SPORTS 10 HD
 http://fariszah.myq-see.com:8008/live/demo/demo/2316.ts
 
-#EXTINF:-1 group-title="Bein Sports",BEIN SPORTS 1 SD
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN1-Small.png" group-title="Bein Sports",BEIN SPORTS 1 SD
 http://fariszah.myq-see.com:8008/live/demo/demo/21566.ts
-#EXTINF:-1 group-title="Bein Sports",BEIN SPORTS 2 SD
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN2-Small.png" group-title="Bein Sports",BEIN SPORTS 2 SD
 http://fariszah.myq-see.com:8008/live/demo/demo/21567.ts
-#EXTINF:-1 group-title="Bein Sports",BEIN SPORTS 3 SD
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN3-Small.png" group-title="Bein Sports",BEIN SPORTS 3 SD
 http://fariszah.myq-see.com:8008/live/demo/demo/21568.ts
-#EXTINF:-1 group-title="Bein Sports",BEIN SPORTS 4 SD
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN4-Small.png" group-title="Bein Sports",BEIN SPORTS 4 SD
 http://fariszah.myq-see.com:8008/live/demo/demo/21576.ts
-#EXTINF:-1 group-title="Bein Sports",BEIN SPORTS 5 SD
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN5-Small.png" group-title="Bein Sports",BEIN SPORTS 5 SD
 http://fariszah.myq-see.com:8008/live/demo/demo/21577.ts
-#EXTINF:-1 group-title="Bein Sports",BEIN SPORTS 6 SD
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN6-Small.png" group-title="Bein Sports",BEIN SPORTS 6 SD
 http://fariszah.myq-see.com:8008/live/demo/demo/21578.ts
-#EXTINF:-1 group-title="Bein Sports",BEIN SPORTS 7 SD
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN7-Small.png" group-title="Bein Sports",BEIN SPORTS 7 SD
 http://fariszah.myq-see.com:8008/live/demo/demo/21579.ts
-#EXTINF:-1 group-title="Bein Sports",BEIN SPORTS 8 SD
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN8-Small.png" group-title="Bein Sports",BEIN SPORTS 8 SD
 http://fariszah.myq-see.com:8008/live/demo/demo/21580.ts
-#EXTINF:-1 group-title="Bein Sports",BEIN SPORTS 9 SD
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN9-Small.png" group-title="Bein Sports",BEIN SPORTS 9 SD
 http://fariszah.myq-see.com:8008/live/demo/demo/21581.ts
-#EXTINF:-1 group-title="Bein Sports",BEIN SPORTS 10 SD
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN10-Small.png" group-title="Bein Sports",BEIN SPORTS 10 SD
 http://fariszah.myq-see.com:8008/live/demo/demo/21582.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="CARTOON",Cartoon Network
