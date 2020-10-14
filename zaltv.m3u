@@ -348,7 +348,7 @@ http://rstr0.teamnetwork.co/stream128/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Other Sports",DIGI SPORT3
 http://rstr0.teamnetwork.co/stream129/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Other Sports",DIGI SPORT4
-http://rstr0.teamnetwork.co/stream130/stream.m3u8
+http://d-e-02.cdn.rdsnet.ro/DVR/digisport4hdb.stream/playlit.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="CARTOON",Cartoon Network
 https://ott.bingebd.com:443/live/ngrp:cartoon_network_all/playlist.m3u8
