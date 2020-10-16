@@ -103,9 +103,9 @@ https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa3
 http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/stream_2.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png",EPL Beinsport 1
-http://fariszah.myq-see.com:8008/live/demo/demo/2322.m3u8
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/7d58c543420239a.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein2.png",EPL Beinsport 2
-http://fariszah.myq-see.com:8008/live/demo/demo/21549.m3u8
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/fd4a89e609f9ce8.m3u8
 
 #EXTINF:-1 tvg-id="FOXSports2.my" tvg-logo="https://i.imgur.com/n3ieiWB.png" group-title="Sports",Fox Sport 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
@@ -224,10 +224,6 @@ http://tv10.chang55.com/ch09-f2/playlist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports3.png",Thai Fox Sport3
 http://tv10.chang55.com/ch09-f3/playlist.m3u8
 
-#EXTINF: -1 group-title="Live Stream",FOOTBALL LIVE1
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/7d58c543420239a.m3u8
-#EXTINF: -1 group-title="Live Stream",FOOTBALL LIVE2
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/fd4a89e609f9ce8.m3u8
 #EXTINF:-1 group-title="Live Stream",ZML EPL LIVE1
 https://v.wyljc.com/live/sd-1-3428811-stream/playlist.m3u8?wsSecret=eb3e5fd6ca12de5ac881898200e5ef65&wsABSTime=5f79f83e&wsSession=295dff1fe1578d80262812ac-160182533220271&wsIPSercert=a3138485eb4d93943a9431347941ded7&wsMonitor=0
 #EXTINF:-1 group-title="Live Stream",ZML EPL LIVE2
