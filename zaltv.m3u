@@ -1,44 +1,44 @@
 #EXTM3U
 #PLAYLIST:hlscat.com
-#EXTINF:-1 group-title="Myanmar TV",Mahar Bhawdi
+#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",Mahar Bhawdi
 https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-#EXTINF:-1 group-title="Myanmar TV",MRTV-4
+#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",MRTV-4
 https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-#EXTINF:-1 group-title="Myanmar TV",Channel-7
+#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",Channel-7
 https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-#EXTINF:0 tvg-country="MM" tvg-logo="http://mahartv.com.mm/wp-content/uploads/2018/02/cropped-logo150x150.png" group-title="Myanmar TV",Mahar TV
+#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",Mahar TV
 https://live.mahar.tv/channel/mahar-web.smil/chunklist_w1446203491_b800000.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIwIDE6NTI6MDIgUE0maGFzaF92YWx1ZT1tTEpQa1NjbkFtNWZ1MEF0UmQreGV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9NQ%3D%3D
-#EXTINF:-1 group-title="Myanmar TV",Channel K
+#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",Channel K
 https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
-#EXTINF:-1 group-title="Myanmar TV",Fortune TV
+#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",Fortune TV
 https://59nyq69ndwap-hls-live.5centscdn.com/myanmar/fortune.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIwIDE6NDg6MjQgUE0maGFzaF92YWx1ZT02bXF1TFJSZFpTWjNLcEdkWHAyNkZ3PT0mdmFsaWRtaW51dGVzPTI1JnN0cm1fbGVuPTIy
-#EXTINF:0 tvg-country="MM" tvg-logo="http://www.mizzima.tv/wp-content/uploads/2018/03/mizzima_tv_logo_transparant.png" group-title="Myanmar TV",Mizzima TV
+#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",Mizzima TV
 http://220.158.149.28:8180/TV00000000000000000170@HHZT?checkedby:hlscat.com
-#EXTINF:-1 group-title="Myanmar TV",DVB
+#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",DVB
 https://l1-xl1.myanmarnet.com/relay/dvb/ch1/stream_hi/index.m3u8
-#EXTINF:-1 group-title="Myanmar TV",MWD Movie
+#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",MWD Movie
 http://203.81.84.130/hls/mwd_serie/index.m3u8
-#EXTINF:-1 group-title="Myanmar TV",MWD Variety
+#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",MWD Variety
 http://203.81.84.130/hls/mwd_variety/index.m3u8
-#EXTINF:-1 group-title="Myanmar TV",MWD
+#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",MWD
 http://203.81.84.130/hls/mwd/index.m3u8
-#EXTINF:-1 group-title="Myanmar TV",MWD FAMILY
+#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",MWD FAMILY
 http://203.81.84.130/hls/mwd_family/index.m3u8
-#EXTINF:-1 group-title="Myanmar TV",MWD Document
+#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",MWD Document
 http://203.81.84.130/hls/mwd_document/index.m3u8
-#EXTINF:-1 group-title="Myanmar TV",MWD Shopping
+#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",MWD Shopping
 http://203.81.84.130/hls/mwd_shopping/index.m3u8
-#EXTINF:-1 group-title="Myanmar TV",MNTV
+#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",MNTV
 http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
-#EXTINF:-1 group-title="Myanmar TV",MRTV
+#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",MRTV
 http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8
-#EXTINF:-1 group-title="Myanmar TV",MRTV FARMERS
+#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",MRTV FARMERS
 http://220.158.149.28:8180/live/TV00000000000000000168@HHZT
-#EXTINF:-1 group-title="Myanmar TV",HUTTAW
+#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",HUTTAW
 http://220.158.149.28:8180/live/TV00000000000000000167@HHZT
-#EXTINF:-1 group-title="Myanmar TV",Channel-9
+#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",Channel-9
 http://220.158.149.28:8180/live/TV00000000000000000169@HHZT
-#EXTINF:-1 group-title="Myanmar TV",MVTV MYANMAR
+#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",MVTV MYANMAR
 https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://images.iptvhero.com/channel/hd-foxaction.png",Fox Action
