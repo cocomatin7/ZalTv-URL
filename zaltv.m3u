@@ -242,13 +242,13 @@ https://v.wyljc.com/live/hd-zh-1-3441056-stream/playlist.m3u8?wsSecret=6733d333c
 #EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/GOAL/82/d7/serie-a-logo-2019-20_49q9flr9v9qp1k738igyi2xaf.png?t=-982278464" group-title="Live Stream",ZML Serie A LIVE3
 https://v.wyljc.com/live/hd-zh-1-3441057-stream/playlist.m3u8?wsSecret=d0718994862904417b4cfdb1efc238c0&wsABSTime=5f79d547&wsSession=295dff1fe1578d80262812ac-160181637703837&wsIPSercert=4312e18402f1d0b73f1d56b11a2e681e&wsMonitor=0
 
-#EXTINF:-1 tvg-logo="https://images.news18.com/ibnlive/uploads/2020/03/Ligue-1-logo.png?impolicy=website&width=534&height=356" group-title="Live Stream",ZML Ligue Live1
+#EXTINF:-1 tvg-logo="https://api.ogcnice.com/api/multimedia/photo/resize/167798/730" group-title="Live Stream",ZML Ligue Live1
 https://v.wyljc.com/live/sd-1-3399220-stream/playlist.m3u8?wsSecret=d4a5b780fd6b764c364232a51929391b&wsABSTime=5f79f897&wsSession=295dff1fe1578d80262812ac-160182533220271&wsIPSercert=a3138485eb4d93943a9431347941ded7&wsMonitor=0
-#EXTINF:-1 tvg-logo="https://images.news18.com/ibnlive/uploads/2020/03/Ligue-1-logo.png?impolicy=website&width=534&height=356" group-title="Live Stream",ZML Ligue Live2
+#EXTINF:-1 tvg-logo="https://api.ogcnice.com/api/multimedia/photo/resize/167798/730" group-title="Live Stream",ZML Ligue Live2
 https://v.wyljc.com/live/hd-zh-1-3399213-stream/playlist.m3u8?wsSecret=240a553c1973a51af4a40d2ad5bec89a&wsABSTime=5f79e575&wsSession=295dff1fe1578d80262812ac-160182043502219&wsIPSercert=4312e18402f1d0b73f1d56b11a2e681e&wsMonitor=0
-#EXTINF:-1 tvg-logo="https://images.news18.com/ibnlive/uploads/2020/03/Ligue-1-logo.png?impolicy=website&width=534&height=356" group-title="Live Stream",ZML Ligue Live3
+#EXTINF:-1 tvg-logo="https://api.ogcnice.com/api/multimedia/photo/resize/167798/730" group-title="Live Stream",ZML Ligue Live3
 https://v.wyljc.com/live/hd-zh-1-3399216-stream/playlist.m3u8?wsSecret=79d14f22f04692ceb30933b3bb8245b9&wsABSTime=5f79d5e8&wsSession=295dff1fe1578d80262812ac-160181649740851&wsIPSercert=4312e18402f1d0b73f1d56b11a2e681e&wsMonitor=0
-#EXTINF:-1 tvg-logo="https://images.news18.com/ibnlive/uploads/2020/03/Ligue-1-logo.png?impolicy=website&width=534&height=356" group-title="Live Stream",ZML Ligue Live4
+#EXTINF:-1 tvg-logo="https://api.ogcnice.com/api/multimedia/photo/resize/167798/730" group-title="Live Stream",ZML Ligue Live4
 https://v.wyljc.com/live/hd-zh-1-3399221-stream/playlist.m3u8?wsSecret=79f46ab5d53e3d422ba11e523e1dba1d&wsABSTime=5f79d60f&wsSession=295dff1fe1578d80262812ac-160181649740851&wsIPSercert=4312e18402f1d0b73f1d56b11a2e681e&wsMonitor=0
 
 #EXTINF:-1 tvg-logo="https://img.jakpost.net/c/2019/05/16/2019_05_16_72382_1557949331._large.jpg" group-title="Live Stream",ZML Laliga Live
@@ -298,15 +298,15 @@ http://37.48.86.45:8182/OTEsport6/index.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-4dIEHmSGYQQ/XWKnF3hkjHI/AAAAAAAAAOM/6svNjYWjMq4I3GLjQq7jI1Ae3GJyT8bvgCPcBGAYYCw/s1600/XH14VIs.png" group-title="Other Sports",SPORT 7HD
 http://37.48.86.45:8182/OTEsport7/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Nova_Sport_%28Bulgaria%29_logo.png" group-title="Other Sports",NOVA SPORT 1
+#EXTINF:-1 tvg-logo="https://cloudia.cms.nova.cz/r640x360n/da3d5933-99b6-4213-8609-2f1013ae4704" group-title="Other Sports",NOVA SPORT 1
 http://37.48.86.45:8182/SUPERSPORT1/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Nova_Sport_%28Bulgaria%29_logo.png" group-title="Other Sports",NOVA SPORT 2
+#EXTINF:-1 tvg-logo="https://cloudia.cms.nova.cz/r640x360n/da3d5933-99b6-4213-8609-2f1013ae4704" group-title="Other Sports",NOVA SPORT 2
 http://37.48.86.45:8182/SUPERSPORT2/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Nova_Sport_%28Bulgaria%29_logo.png" group-title="Other Sports",NOVA SPORT 3
+#EXTINF:-1 tvg-logo="https://cloudia.cms.nova.cz/r640x360n/da3d5933-99b6-4213-8609-2f1013ae4704" group-title="Other Sports",NOVA SPORT 3
 http://37.48.86.45:8182/SUPERSPORT3/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Nova_Sport_%28Bulgaria%29_logo.png" group-title="Other Sports",NOVA SPORT 4
+#EXTINF:-1 tvg-logo="https://cloudia.cms.nova.cz/r640x360n/da3d5933-99b6-4213-8609-2f1013ae4704" group-title="Other Sports",NOVA SPORT 4
 http://37.48.86.45:8182/SUPERSPORT4/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Nova_Sport_%28Bulgaria%29_logo.png" group-title="Other Sports",NOVA SPORT 5
+#EXTINF:-1 tvg-logo="https://cloudia.cms.nova.cz/r640x360n/da3d5933-99b6-4213-8609-2f1013ae4704" group-title="Other Sports",NOVA SPORT 5
 http://37.48.86.45:8182/SUPERSPORT5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 1HD
