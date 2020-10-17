@@ -116,9 +116,13 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="FOXSports3.my" tvg-logo="https://i.imgur.com/VouoBXj.png" group-title="Sports",Fox Sport 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="Sports",StarSports Select 2HD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/fPTlcNPVQtU/maxresdefault.jpg" group-title="Sports",StarSports Select 1HD
+http://global.thunderbd.com/27/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/b0ITbckAy0I/maxresdefault.jpg" group-title="Sports",StarSports Select 2HD(1)
+http://global.thunderbd.com/28/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/b0ITbckAy0I/maxresdefault.jpg" group-title="Sports",StarSports Select 2HD(2)
 http://103.102.136.106:8080/cmcltv/livesports.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="Sports",Sony Ten 1HD
+#EXTINF:-1 tvg-logo="https://shoppersvila.com/wp-content/uploads/2020/01/Sony-Ten-1-Tv-Schedule-Today-Ten-Sports-1-Schedule-Popular-shows-for-today.jpg" group-title="Sports",Sony Ten 1HD
 http://global.thunderbd.com/20/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="Sports",Sony Ten 2HD
 http://global.thunderbd.com/21/tracks-v1a1/mono.m3u8
@@ -126,6 +130,8 @@ http://global.thunderbd.com/21/tracks-v1a1/mono.m3u8
 http://global.thunderbd.com/22/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="Sports",Sony SIX HD
 http://global.thunderbd.com/24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://rvcyberworldhome.files.wordpress.com/2018/09/download-4.png" group-title="Sports",Sony ESPN HD
+http://global.thunderbd.com/23/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png",Ten Sports
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w1876894388.m3u8
 
