@@ -106,8 +106,6 @@ http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlea
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/7d58c543420239a.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=s180-rw",Football sport 2
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
-#EXTINF:-1 group-title="Sports"tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=s180-rw",Football sport 3
-http://22b810d1.akadatel.com/iptv/F9ZYK23TMV4BT7/6132/index.m3u8
 
 #EXTINF:-1 tvg-id="FOXSports2.my" tvg-logo="https://i.imgur.com/n3ieiWB.png" group-title="Sports",Fox Sport 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
@@ -242,7 +240,7 @@ https://v.wyljc.com/live/sd-1-3431795-stream/playlist.m3u8?wsSecret=6234fc8f70a3
 https://v.wyljc.com/live/sd-1-3428812-stream/playlist.m3u8?wsSecret=419a295f706bff649d57c0b2f2270cd9&wsABSTime=5f79d65f&wsSession=295dff1fe1578d80262812ac-160181665638958&wsIPSercert=4312e18402f1d0b73f1d56b11a2e681e&wsMonitor=0
 
 #EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/GOAL/82/d7/serie-a-logo-2019-20_49q9flr9v9qp1k738igyi2xaf.png?t=-982278464" group-title="Live Stream",ZML Serie A LIVE1
-https://v.wyljc.com/live/hd-zh-1-3441052-stream/playlist.m3u8?wsSecret=5bc4e266f448e8a7bdb3b9245f1892de&wsABSTime=5f79d576&wsSession=295dff1fe1578d80262812ac-160181637703837&wsIPSercert=4312e18402f1d0b73f1d56b11a2e681e&wsMonitor=0
+https://v.wyljc.com/live/sd-1-3441064-stream/playlist.m3u8?wsSecret=737cbb6dbf587ad700addfcf8b906646&wsABSTime=5f8af83e&wsSession=295dff1fe1578d80262812ac-160293944284703&wsIPSercert=0301cb953355bc2342f20efe21b30338&wsMonitor=0
 #EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/GOAL/82/d7/serie-a-logo-2019-20_49q9flr9v9qp1k738igyi2xaf.png?t=-982278464" group-title="Live Stream",ZML Serie A LIVE2
 https://v.wyljc.com/live/hd-zh-1-3441056-stream/playlist.m3u8?wsSecret=6733d333ccf693c79c1a3fc463cfdf39&wsABSTime=5f79d4f1&wsSession=295dff1fe1578d80262812ac-160181629519195&wsIPSercert=4312e18402f1d0b73f1d56b11a2e681e&wsMonitor=0
 #EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/GOAL/82/d7/serie-a-logo-2019-20_49q9flr9v9qp1k738igyi2xaf.png?t=-982278464" group-title="Live Stream",ZML Serie A LIVE3
@@ -303,59 +301,6 @@ http://37.48.86.45:8182/OTEsport5/index.m3u8
 http://37.48.86.45:8182/OTEsport6/index.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-4dIEHmSGYQQ/XWKnF3hkjHI/AAAAAAAAAOM/6svNjYWjMq4I3GLjQq7jI1Ae3GJyT8bvgCPcBGAYYCw/s1600/XH14VIs.png" group-title="Other Sports",SPORT 7HD
 http://37.48.86.45:8182/OTEsport7/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/nova-sport-logo.png" group-title="Other Sports",NOVA SPORT 1
-http://37.48.86.45:8182/SUPERSPORT1/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/nova-sport-logo.png" group-title="Other Sports",NOVA SPORT 2
-http://37.48.86.45:8182/SUPERSPORT2/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/nova-sport-logo.png" group-title="Other Sports",NOVA SPORT 3
-http://37.48.86.45:8182/SUPERSPORT3/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/nova-sport-logo.png" group-title="Other Sports",NOVA SPORT 4
-http://37.48.86.45:8182/SUPERSPORT4/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/nova-sport-logo.png" group-title="Other Sports",NOVA SPORT 5
-http://37.48.86.45:8182/SUPERSPORT5/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN1-Small.png" group-title="Bein Sports",BEIN SPORTS 1 HD
-http://fariszah.myq-see.com:8008/live/demo/demo/2322.ts
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN2-Small.png" group-title="Bein Sports",BEIN SPORTS 2 HD
-http://fariszah.myq-see.com:8008/live/demo/demo/21549.ts
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN3-Small.png" group-title="Bein Sports",BEIN SPORTS 3 HD
-http://fariszah.myq-see.com:8008/live/demo/demo/21550.ts
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN4-Small.png" group-title="Bein Sports",BEIN SPORTS 4 HD
-http://fariszah.myq-see.com:8008/live/demo/demo/21551.ts
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN5-Small.png" group-title="Bein Sports",BEIN SPORTS 5 HD
-http://fariszah.myq-see.com:8008/live/demo/demo/21552.ts
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN6-Small.png" group-title="Bein Sports",BEIN SPORTS 6 HD
-http://fariszah.myq-see.com:8008/live/demo/demo/21553.ts
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN7-Small.png" group-title="Bein Sports",BEIN SPORTS 7 HD
-http://fariszah.myq-see.com:8008/live/demo/demo/2308.ts
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN8-Small.png" group-title="Bein Sports",BEIN SPORTS 8 HD
-http://fariszah.myq-see.com:8008/live/demo/demo/2314.ts
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN9-Small.png" group-title="Bein Sports",BEIN SPORTS 9 HD
-http://fariszah.myq-see.com:8008/live/demo/demo/2315.ts
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN10-Small.png" group-title="Bein Sports",BEIN SPORTS 10 HD
-http://fariszah.myq-see.com:8008/live/demo/demo/2316.ts
-
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN1-Small.png" group-title="Bein Sports",BEIN SPORTS 1 SD
-http://fariszah.myq-see.com:8008/live/demo/demo/21566.ts
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN2-Small.png" group-title="Bein Sports",BEIN SPORTS 2 SD
-http://fariszah.myq-see.com:8008/live/demo/demo/21567.ts
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN3-Small.png" group-title="Bein Sports",BEIN SPORTS 3 SD
-http://fariszah.myq-see.com:8008/live/demo/demo/21568.ts
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN4-Small.png" group-title="Bein Sports",BEIN SPORTS 4 SD
-http://fariszah.myq-see.com:8008/live/demo/demo/21576.ts
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN5-Small.png" group-title="Bein Sports",BEIN SPORTS 5 SD
-http://fariszah.myq-see.com:8008/live/demo/demo/21577.ts
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN6-Small.png" group-title="Bein Sports",BEIN SPORTS 6 SD
-http://fariszah.myq-see.com:8008/live/demo/demo/21578.ts
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN7-Small.png" group-title="Bein Sports",BEIN SPORTS 7 SD
-http://fariszah.myq-see.com:8008/live/demo/demo/21579.ts
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN8-Small.png" group-title="Bein Sports",BEIN SPORTS 8 SD
-http://fariszah.myq-see.com:8008/live/demo/demo/21580.ts
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN9-Small.png" group-title="Bein Sports",BEIN SPORTS 9 SD
-http://fariszah.myq-see.com:8008/live/demo/demo/21581.ts
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN10-Small.png" group-title="Bein Sports",BEIN SPORTS 10 SD
-http://fariszah.myq-see.com:8008/live/demo/demo/21582.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="CARTOON",Cartoon Network
 https://mkctv.net/usera/cartoon.m3u8
