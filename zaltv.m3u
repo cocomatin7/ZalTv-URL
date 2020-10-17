@@ -259,11 +259,15 @@ https://v.wyljc.com/live/hd-zh-1-3399221-stream/playlist.m3u8?wsSecret=79f46ab5d
 https://v.wyljc.com/live/hd-zh-1-3438993-stream/playlist.m3u8?wsSecret=0b640eb47e2f1230947c12842d854e63&wsABSTime=5f8adc60&wsSession=295dff1fe1578d80262812ac-160293230840058&wsIPSercert=0301cb953355bc2342f20efe21b30338&wsMonitor=0
 
 #EXTINF:-1 tvg-logo="https://www.egypttoday.com/siteimages/larg/17785.jpg" group-title="Live Stream",ZML Bundesliga Live1
-https://v.wyljc.com/live/hd-zh-1-3418294-stream/playlist.m3u8?wsSecret=f5cae1f6d8624762d3f398b41444fc8e&wsABSTime=5f79e1ab&wsSession=295dff1fe1578d80262812ac-160181955046419&wsIPSercert=4312e18402f1d0b73f1d56b11a2e681e&wsMonitor=0
+https://v.wyljc.com/live/sd-1-3418296-stream/playlist.m3u8?wsSecret=ccce779934593cd83da67af0d8fc7cf6&wsABSTime=5f8aff57&wsSession=295dff1fe1578d80262812ac-160294121210115&wsIPSercert=0301cb953355bc2342f20efe21b30338&wsMonitor=0
 #EXTINF:-1 tvg-logo="https://www.egypttoday.com/siteimages/larg/17785.jpg" group-title="Live Stream",ZML Bundesliga Live2
-https://v.wyljc.com/live/sd-1-3418293-stream/playlist.m3u8?wsSecret=6784f338b98c11861ec5a385c6d855d2&wsABSTime=5f788af5&wsSession=295dff1fe1578d80262812ac-160173172513855&wsIPSercert=c57c38469866a68ef9bab7e53eade965&wsMonitor=0
+https://v.wyljc.com/live/sd-1-3418299-stream/playlist.m3u8?wsSecret=6c2859f53131789428069e6571722f0c&wsABSTime=5f8affa0&wsSession=295dff1fe1578d80262812ac-160294121210115&wsIPSercert=0301cb953355bc2342f20efe21b30338&wsMonitor=0
 #EXTINF:-1 tvg-logo="https://www.egypttoday.com/siteimages/larg/17785.jpg" group-title="Live Stream",ZML Bundesliga Live3
-https://v.wyljc.com/live/sd-1-3418291-stream/playlist.m3u8?wsSecret=3a29da0366a4b77adef8c3f948bc7a52&wsABSTime=5f788ac0&wsSession=295dff1fe1578d80262812ac-160173172513855&wsIPSercert=c57c38469866a68ef9bab7e53eade965&wsMonitor=0
+https://v.wyljc.com/live/sd-1-3418301-stream/playlist.m3u8?wsSecret=3ec06c730d61fec4618c632371f6f25a&wsABSTime=5f8affdf&wsSession=295dff1fe1578d80262812ac-160294121210115&wsIPSercert=0301cb953355bc2342f20efe21b30338&wsMonitor=0
+#EXTINF:-1 tvg-logo="https://www.egypttoday.com/siteimages/larg/17785.jpg" group-title="Live Stream",ZML Bundesliga Live4
+https://v.wyljc.com/live/sd-1-3418302-stream/playlist.m3u8?wsSecret=4e7ad09fa0a379a12765138f84290c53&wsABSTime=5f8b0037&wsSession=295dff1fe1578d80262812ac-160294148275938&wsIPSercert=0301cb953355bc2342f20efe21b30338&wsMonitor=0
+#EXTINF:-1 tvg-logo="https://www.egypttoday.com/siteimages/larg/17785.jpg" group-title="Live Stream",ZML Bundesliga Live5
+https://v.wyljc.com/live/sd-1-3418300-stream/playlist.m3u8?wsSecret=6bb21c29f4b7d9a9590d7671b685aabe&wsABSTime=5f8b017b&wsSession=295dff1fe1578d80262812ac-160294180729643&wsIPSercert=0301cb953355bc2342f20efe21b30338&wsMonitor=0
 
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Other Sports", BEINSPORT1
 https://vcdnjt.useetv.com/dass/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8
