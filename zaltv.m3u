@@ -309,6 +309,27 @@ http://37.48.86.45:8182/SUPERSPORT4/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/syukriadi66/code/master/logo10_5_114441-picsay.png" group-title="Other Sports",NOVA SPORT 5
 http://37.48.86.45:8182/SUPERSPORT5/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 1HD
+http://22b810d1.akadatel.com/iptv/F9ZYK23TMV4BT7/6123/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 3HD
+http://22b810d1.akadatel.com/iptv/F9ZYK23TMV4BT7/6124/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 4HD
+http://22b810d1.akadatel.com/iptv/F9ZYK23TMV4BT7/6125/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 5HD
+http://22b810d1.akadatel.com/iptv/F9ZYK23TMV4BT7/6126/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 6HD
+http://22b810d1.akadatel.com/iptv/F9ZYK23TMV4BT7/6127/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 7HD
+http://22b810d1.akadatel.com/iptv/F9ZYK23TMV4BT7/6128/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 8HD
+http://22b810d1.akadatel.com/iptv/F9ZYK23TMV4BT7/6129/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 9HD
+http://22b810d1.akadatel.com/iptv/F9ZYK23TMV4BT7/6130/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 10HD
+http://22b810d1.akadatel.com/iptv/F9ZYK23TMV4BT7/6131/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 11HD
+http://22b810d1.akadatel.com/iptv/F9ZYK23TMV4BT7/6132/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN1-Small.png" group-title="Bein Sports",BEIN SPORTS 1 HD
 http://fariszah.myq-see.com:8008/live/demo/demo/2322.ts
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/beIN2-Small.png" group-title="Bein Sports",BEIN SPORTS 2 HD
