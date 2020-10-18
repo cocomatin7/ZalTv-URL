@@ -159,11 +159,11 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/5287ef2dc1aba3
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/7cd55cbdb8421e2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbxJcI35QmglIgFrxqEgqRB4nZZwFSOn6ES0VnNza_U6AJeam4&usqp=CAU" group-title="Sports",NBCSN EPL
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/a7c8b3630f5fe86.m3u8
-#EXTINF:-1 tvg-logo="",RMC SPORT1 EPL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_RMC_Sport_2018.svg/1200px-Logo_RMC_Sport_2018.svg.png" group-title="Sports",RMC SPORT1 EPL
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/82b176b440efc44.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/za6Xk9g.jpg" group-title="Sports",La Liga TV
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/aae6dcc000e10a8.m3u8
-#EXTINF:-1 tvg-logo="",Serie A Live
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg" group-title="Sports",Serie A Live
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/f8ef52302d1cadb.m3u8
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-pt-sport-tv-1-450.png" group-title="Sports", Sport TV 1
@@ -239,19 +239,19 @@ http://tv10.chang55.com/ch09-f2/playlist.m3u8
 http://tv10.chang55.com/ch09-f3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://kokommawilliams.com/wp-content/uploads/2019/05/Premier-league.jpg" group-title="Live Stream",ZML EPL LIVE1
-https://v.wyljc.com/live/sd-1-3429121-stream/playlist.m3u8?wsSecret=ebac46ccc7553a72354b905615ba21a9&wsABSTime=5f8b294b&wsSession=295dff1fe1578d80262812ac-160295200317374&wsIPSercert=0301cb953355bc2342f20efe21b30338&wsMonitor=0
+https://v.wyljc.com/live/sd-1-3429123-stream/playlist.m3u8?wsSecret=ee51162214bd1e9f685aa74cf4c3a29a&wsABSTime=5f8c2e49&wsSession=295dff1fe1578d80262812ac-160301881574979&wsIPSercert=0301cb953355bc2342f20efe21b30338&wsMonitor=0
 #EXTINF:-1 tvg-logo="https://kokommawilliams.com/wp-content/uploads/2019/05/Premier-league.jpg" group-title="Live Stream",ZML EPL LIVE2
 https://v.wyljc.com/live/sd-1-3428812-stream/playlist.m3u8?wsSecret=419a295f706bff649d57c0b2f2270cd9&wsABSTime=5f79d65f&wsSession=295dff1fe1578d80262812ac-160181665638958&wsIPSercert=4312e18402f1d0b73f1d56b11a2e681e&wsMonitor=0
 
 #EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/GOAL/82/d7/serie-a-logo-2019-20_49q9flr9v9qp1k738igyi2xaf.png?t=-982278464" group-title="Live Stream",ZML Serie A LIVE1
-https://v.wyljc.com/live/sd-1-3441063-stream/playlist.m3u8?wsSecret=2e066ec92672fea8fb7f0d0d80753b96&wsABSTime=5f8b232a&wsSession=295dff1fe1578d80262812ac-160295043151509&wsIPSercert=0301cb953355bc2342f20efe21b30338&wsMonitor=0
+https://v.wyljc.com/live/sd-1-3441061-stream/playlist.m3u8?wsSecret=4c65c83f8fe8467e73cae0ae2bdd8645&wsABSTime=5f8c2ee3&wsSession=295dff1fe1578d80262812ac-160301897266160&wsIPSercert=0301cb953355bc2342f20efe21b30338&wsMonitor=0
 #EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/GOAL/82/d7/serie-a-logo-2019-20_49q9flr9v9qp1k738igyi2xaf.png?t=-982278464" group-title="Live Stream",ZML Serie A LIVE2
 https://v.wyljc.com/live/hd-en-1-3441065-stream/playlist.m3u8?wsSecret=a018b969e6c8cdb08f9e9430ce7fd6c2&wsABSTime=5f8b23fa&wsSession=295dff1fe1578d80262812ac-160295043151509&wsIPSercert=0301cb953355bc2342f20efe21b30338&wsMonitor=0
 #EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/GOAL/82/d7/serie-a-logo-2019-20_49q9flr9v9qp1k738igyi2xaf.png?t=-982278464" group-title="Live Stream",ZML Serie A LIVE3
 https://v.wyljc.com/live/hd-zh-1-3441057-stream/playlist.m3u8?wsSecret=d0718994862904417b4cfdb1efc238c0&wsABSTime=5f79d547&wsSession=295dff1fe1578d80262812ac-160181637703837&wsIPSercert=4312e18402f1d0b73f1d56b11a2e681e&wsMonitor=0
 
 #EXTINF:-1 tvg-logo="https://www.leadersinsport.com/wp-content/uploads/2018/02/Ligue-1-Conforama.jpg" group-title="Live Stream",ZML Ligue Live1
-https://v.wyljc.com/live/sd-1-3399229-stream/playlist.m3u8?wsSecret=4dd76769033e3ac161c98acaf3200914&wsABSTime=5f8b14e5&wsSession=295dff1fe1578d80262812ac-160294677532405&wsIPSercert=0301cb953355bc2342f20efe21b30338&wsMonitor=0
+https://v.wyljc.com/live/sd-1-3399231-stream/playlist.m3u8?wsSecret=b6738939ae61b9f90870adeb580260bb&wsABSTime=5f8c2e80&wsSession=295dff1fe1578d80262812ac-160301881574979&wsIPSercert=0301cb953355bc2342f20efe21b30338&wsMonitor=0
 #EXTINF:-1 tvg-logo="https://www.leadersinsport.com/wp-content/uploads/2018/02/Ligue-1-Conforama.jpg" group-title="Live Stream",ZML Ligue Live2
 https://v.wyljc.com/live/hd-zh-1-3399213-stream/playlist.m3u8?wsSecret=240a553c1973a51af4a40d2ad5bec89a&wsABSTime=5f79e575&wsSession=295dff1fe1578d80262812ac-160182043502219&wsIPSercert=4312e18402f1d0b73f1d56b11a2e681e&wsMonitor=0
 #EXTINF:-1 tvg-logo="https://www.leadersinsport.com/wp-content/uploads/2018/02/Ligue-1-Conforama.jpg" group-title="Live Stream",ZML Ligue Live3
@@ -260,7 +260,7 @@ https://v.wyljc.com/live/hd-zh-1-3399216-stream/playlist.m3u8?wsSecret=79d14f22f
 https://v.wyljc.com/live/hd-zh-1-3399221-stream/playlist.m3u8?wsSecret=79f46ab5d53e3d422ba11e523e1dba1d&wsABSTime=5f79d60f&wsSession=295dff1fe1578d80262812ac-160181649740851&wsIPSercert=4312e18402f1d0b73f1d56b11a2e681e&wsMonitor=0
 
 #EXTINF:-1 tvg-logo="https://img.jakpost.net/c/2019/05/16/2019_05_16_72382_1557949331._large.jpg" group-title="Live Stream",ZML Laliga Live
-https://v.wyljc.com/live/sd-1-3438987-stream/playlist.m3u8?wsSecret=2df071ce94d023f32bcf52c6ece78bf1&wsABSTime=5f8b2ce5&wsSession=295dff1fe1578d80262812ac-160295291918481&wsIPSercert=0301cb953355bc2342f20efe21b30338&wsMonitor=0
+https://v.wyljc.com/live/sd-1-3438990-stream/playlist.m3u8?wsSecret=bdeccec37eeebe5d6a4acd86981112c4&wsABSTime=5f8c2eba&wsSession=295dff1fe1578d80262812ac-160301892481082&wsIPSercert=0301cb953355bc2342f20efe21b30338&wsMonitor=0
 
 #EXTINF:-1 tvg-logo="https://www.egypttoday.com/siteimages/larg/17785.jpg" group-title="Live Stream",ZML Bundesliga Live1
 https://v.wyljc.com/live/sd-1-3418295-stream/playlist.m3u8?wsSecret=6e720f7895f60360f43964a955954a1a&wsABSTime=5f8b29b3&wsSession=295dff1fe1578d80262812ac-160295210159626&wsIPSercert=0301cb953355bc2342f20efe21b30338&wsMonitor=0
