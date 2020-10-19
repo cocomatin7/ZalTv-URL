@@ -67,6 +67,22 @@ http://iptvstream.xyz:8080/Alifathaya/ad5b9baf/171961
 https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kGXK0m4k/Screenshot-142.png" group-title="Movies",MOVIE NOW 
 https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",Nova Cinema1
+http://37.48.86.45:8182/SUPercineMA1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Nova Cinema2
+http://37.48.86.45:8182/SUPercineMA2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Nova Cinema3
+http://37.48.86.45:8182/SUPercineMA3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Nova Cinema4
+http://37.48.86.45:8182/SUPercineMA4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Cinema1
+http://37.48.86.45:8182/OTEcinema1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Cinema2
+http://37.48.86.45:8182/OTEcinema2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",Cinema3
+http://37.48.86.45:8182/OTEcinema3/index.m3u8
+
 #EXTINF:-1 group-title="Movies",MBC MAX
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8?@amarnettv.live
 #EXTINF:-1 group-title="Movies",MBC 2
@@ -348,7 +364,7 @@ https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_6
 #EXTINF:-1 tvg-logo="https://i.imgur.com/reSXEKO.jpg" group-title="Discovery",NATGEO HD
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ePpWaeA.jpg" group-title="Discovery",NATGEO WILD
-
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/65PYdau.jpg" group-title="Discovery",AnimalPlanet1
 http://136.243.177.164/ANIMALPLANET/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V0Ngxgj.jpg" group-title="Discovery",DiscoveryChannel
