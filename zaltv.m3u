@@ -206,6 +206,8 @@ https://live.5gbet.live/edge_app/skynet4/playlist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports5.png",Skynet Sport 5
 https://live.5gbet.live/edge_app/skynet5/playlist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png",Skynet Sport 6
+https://live.5gbet.live/edge_app/skynet6/playlist.m3u8
+#EXTINF:-1 group-title="Sports"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png",MPTBALLONE Sport 6
 https://mptalive6-a.akamaihd.net/83c48cc94de947f392b2d08dc1eb694c/ap-southeast-1/6066350939001/profile_0/chunklist.m3u8?hdnea=st=1600347845~exp=9007200855088836~acl=/83c48cc94de947f392b2d08dc1eb694c/*/profile_0/chunklist.m3u8*~hmac=7875ad2f13fb6b2d3d71f7c23f9fc5228ddd1c89fc786e8c496448c5aa02611f
 
 #EXTINF:-1 group-title="Sports",UFC FIGHT
