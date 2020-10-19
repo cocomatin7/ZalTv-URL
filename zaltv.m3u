@@ -329,7 +329,7 @@ http://37.48.86.45:8182/OTEsport8/index.m3u8
 http://37.48.86.45:8182/OTEsport9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="CARTOON",Cartoon Network
-http://global.thunderbd.com/79/tracks-v1a1/mono.m3u8
+http://178.132.3.162:88/cartoon_network/index.m3u8?token=test
 #EXTINF:-1 tvg-id="BOM.Asia" tvg-logo="https://static.epg.best/br/Boomerang.br.png" group-title="CARTOON",Boomerang
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="BF1.Asia" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="CARTOON",Baby First
