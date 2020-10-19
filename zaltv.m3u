@@ -177,7 +177,7 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/0d55bceff5ffb0
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a454.png" group-title="Sports", Sport TV 5
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/97ec5399cec7ae4.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-skynetsportsplus.png",Skynet Sport Plus
+#EXTINF:-1 group-title="Sports"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png",Skynet Sport HD
 https://live.5gbet.live/edge_app/skynethd/playlist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports1.png",Skynet Sport 1
 https://live.5gbet.live/edge_app/skynet1/playlist.m3u8
