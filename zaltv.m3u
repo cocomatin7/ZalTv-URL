@@ -312,11 +312,11 @@ http://144.76.91.70:8081/streamrtmp/ss2/playlist.m3u8
 http://144.76.91.70:8081/streamrtmp/ss3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_1_Small.png" group-title="Other Sports",BT SPORT1
-http://S.pies.rocks:8080/FernanSisayan/8cZk4jnB7y/437216
+
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_2_Small.png" group-title="Other Sports",BT SPORT2
-http://S.pies.rocks:8080/FernanSisayan/8cZk4jnB7y/437217
+
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_3_Small.png" group-title="Other Sports",BT SPORT3
-http://S.pies.rocks:8080/FernanSisayan/8cZk4jnB7y/437218
+
 
 #EXTINF:-1 tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=81142579&t=1581509776804" group-title="Other Sports",SPORT 1HD
 http://37.48.86.45:8182/OTEsport1/index.m3u8
