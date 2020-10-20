@@ -68,19 +68,19 @@ https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kGXK0m4k/Screenshot-142.png" group-title="Movies",MOVIE NOW 
 https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8 
 
-#EXTINF:-1 tvg-logo="" group-title="Movies",Nova Cinema1
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/NOVA_CINEMA_1.png" group-title="Movies",Nova Cinema1
 http://37.48.86.45:8182/SUPercineMA1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Nova Cinema2
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/NOVA_CINEMA_2.png" group-title="Movies",Nova Cinema2
 http://37.48.86.45:8182/SUPercineMA2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Nova Cinema3
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/NOVA_CINEMA_3.png" group-title="Movies",Nova Cinema3
 http://37.48.86.45:8182/SUPercineMA3/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Nova Cinema4
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/NOVA_CINEMA_4.png" group-title="Movies",Nova Cinema4
 http://37.48.86.45:8182/SUPercineMA4/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Cinema1
+#EXTINF:-1 tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707954&t=1524412293078" group-title="Movies",Cinema1
 http://37.48.86.45:8182/OTEcinema1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Cinema2
+#EXTINF:-1 tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41708367&t=1524412309916" group-title="Movies",Cinema2
 http://37.48.86.45:8182/OTEcinema2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",Cinema3
+#EXTINF:-1 tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707931&t=1524412292383" group-title="Movies",Cinema3
 http://37.48.86.45:8182/OTEcinema3/index.m3u8
 
 #EXTINF:-1 group-title="Movies",MBC MAX
@@ -306,28 +306,37 @@ https://vcdnjt.useetv.com/dass/15/champion1/chunklist_w2141102661_b894100_sleng_
 #EXTINF: -1 tvg-name="Champion TV 2" tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Other Sports",UCL TV2 
 https://vcdnjt.useetv.com/dass/15/champion2/chunklist_w670832473_b894100_sleng_4798.m3u8
 
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport2africa.jpg" group-title="Other Sports",SUPER SPORT 2
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/SUPERSPORT2.png" group-title="Other Sports",SUPER SPORT 2
 http://144.76.91.70:8081/streamrtmp/ss2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/supersport3africa.jpg" group-title="Other Sports",SUPER SPORT 3
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/SUPERSPORT3.png" group-title="Other Sports",SUPER SPORT 3
 http://144.76.91.70:8081/streamrtmp/ss3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-4dIEHmSGYQQ/XWKnF3hkjHI/AAAAAAAAAOM/6svNjYWjMq4I3GLjQq7jI1Ae3GJyT8bvgCPcBGAYYCw/s1600/XH14VIs.png" group-title="Other Sports",SPORT 1HD
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_1_Small.png" group-title="Other Sports",BT SPORT1
+http://hd7.mixcasthd.com:8080/hls/saUgXjxtZ220190901.m3u8?hlsendtime=1603168740&hlsstarttime=0&hlshash=1v7-z-FMtjTmlUYjGmaxYyRFF2cIyi-xCwim9Qrseoc=
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_2_Small.png" group-title="Other Sports",BT SPORT2
+http://hd7.mixcasthd.com:8080/hls/R8z5vxADlQ20190901.m3u8?hlsendtime=1603168680&hlsstarttime=0&hlshash=TXABAc4dJsn9ZjaX4nFYbbr47G8ClSejmwtFYmdOVb0=
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_3_Small.png" group-title="Other Sports",BT SPORT3
+http://hd74.mixcasthd.com:8080/hls/VeNYLBwr7J20190901.m3u8?hlsendtime=1603168500&hlsstarttime=0&hlshash=HAn1UA6rfJTUnPaisinPa8LX5cUjA44gDF8__wbjh74=
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_ESPN_Small.png" group-title="Other Sports",BT ESPN
+http://hd7.mixcasthd.com:8080/hls/xkN1hZx6JA20190901.m3u8?hlsendtime=1603169460&hlsstarttime=0&hlshash=m32PkgPMfxungOhwiUptI0aOpR6E5afTO6V3yUfmVsg=
+
+#EXTINF:-1 tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=81142579&t=1581509776804" group-title="Other Sports",SPORT 1HD
 http://37.48.86.45:8182/OTEsport1/index.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-4dIEHmSGYQQ/XWKnF3hkjHI/AAAAAAAAAOM/6svNjYWjMq4I3GLjQq7jI1Ae3GJyT8bvgCPcBGAYYCw/s1600/XH14VIs.png" group-title="Other Sports",SPORT 2HD
+#EXTINF:-1 tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=50065483&t=1536151166635" group-title="Other Sports",SPORT 2HD
 http://37.48.86.45:8182/OTEsport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-4dIEHmSGYQQ/XWKnF3hkjHI/AAAAAAAAAOM/6svNjYWjMq4I3GLjQq7jI1Ae3GJyT8bvgCPcBGAYYCw/s1600/XH14VIs.png" group-title="Other Sports",SPORT 3HD
+#EXTINF:-1 tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=50065507&t=1536151167628" group-title="Other Sports",SPORT 3HD
 http://37.48.86.45:8182/OTEsport3/index.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-4dIEHmSGYQQ/XWKnF3hkjHI/AAAAAAAAAOM/6svNjYWjMq4I3GLjQq7jI1Ae3GJyT8bvgCPcBGAYYCw/s1600/XH14VIs.png" group-title="Other Sports",SPORT 4HD
+#EXTINF:-1 tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=50081012&t=1536200090188" group-title="Other Sports",SPORT 4HD
 http://37.48.86.45:8182/OTEsport4/index.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-4dIEHmSGYQQ/XWKnF3hkjHI/AAAAAAAAAOM/6svNjYWjMq4I3GLjQq7jI1Ae3GJyT8bvgCPcBGAYYCw/s1600/XH14VIs.png" group-title="Other Sports",SPORT 5HD
+#EXTINF:-1 tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=50065531&t=1536151168618" group-title="Other Sports",SPORT 5HD
 http://37.48.86.45:8182/OTEsport5/index.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-4dIEHmSGYQQ/XWKnF3hkjHI/AAAAAAAAAOM/6svNjYWjMq4I3GLjQq7jI1Ae3GJyT8bvgCPcBGAYYCw/s1600/XH14VIs.png" group-title="Other Sports",SPORT 6HD
+#EXTINF:-1 tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=49297273&t=1535101456557" group-title="Other Sports",SPORT 6HD
 http://37.48.86.45:8182/OTEsport6/index.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-4dIEHmSGYQQ/XWKnF3hkjHI/AAAAAAAAAOM/6svNjYWjMq4I3GLjQq7jI1Ae3GJyT8bvgCPcBGAYYCw/s1600/XH14VIs.png" group-title="Other Sports",SPORT 7HD
+#EXTINF:-1 tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41708057&t=1524412296969" group-title="Other Sports",SPORT 7HD
 http://37.48.86.45:8182/OTEsport7/index.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-4dIEHmSGYQQ/XWKnF3hkjHI/AAAAAAAAAOM/6svNjYWjMq4I3GLjQq7jI1Ae3GJyT8bvgCPcBGAYYCw/s1600/XH14VIs.png" group-title="Other Sports",SPORT 8HD
+#EXTINF:-1 tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41708082&t=1524412298596" group-title="Other Sports",SPORT 8HD
 http://37.48.86.45:8182/OTEsport8/index.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-4dIEHmSGYQQ/XWKnF3hkjHI/AAAAAAAAAOM/6svNjYWjMq4I3GLjQq7jI1Ae3GJyT8bvgCPcBGAYYCw/s1600/XH14VIs.png" group-title="Other Sports",SPORT 9HD
+#EXTINF:-1 tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=49297261&t=1535101456094" group-title="Other Sports",SPORT 9HD
 http://37.48.86.45:8182/OTEsport9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="CARTOON",Cartoon Network
