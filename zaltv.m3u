@@ -337,26 +337,18 @@ http://37.48.86.45:8182/OTEsport8/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=49297261&t=1535101456094" group-title="Other Sports",SPORT 9HD
 http://37.48.86.45:8182/OTEsport9/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 1HD
-http://22b810d1.akadatel.com/iptv/F9ZYK23TMV4BT7/6123/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 3HD
-http://22b810d1.akadatel.com/iptv/F9ZYK23TMV4BT7/6124/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 4HD
-http://22b810d1.akadatel.com/iptv/F9ZYK23TMV4BT7/6125/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 5HD
-http://22b810d1.akadatel.com/iptv/F9ZYK23TMV4BT7/6126/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 6HD
-http://22b810d1.akadatel.com/iptv/F9ZYK23TMV4BT7/6127/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 7HD
-http://22b810d1.akadatel.com/iptv/F9ZYK23TMV4BT7/6128/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 8HD
-http://22b810d1.akadatel.com/iptv/F9ZYK23TMV4BT7/6129/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 9HD
-http://22b810d1.akadatel.com/iptv/F9ZYK23TMV4BT7/6130/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 10HD
-http://22b810d1.akadatel.com/iptv/F9ZYK23TMV4BT7/6131/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 11HD
-http://22b810d1.akadatel.com/iptv/F9ZYK23TMV4BT7/6132/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Champion League",UCL 1HD
+https://v.wyljc.com/live/sd-1-3462688-stream/playlist.m3u8?wsSecret=9efecdf98f930a998592f3630ef97e66&wsABSTime=5f8f4858&wsSession=17d40698e094e123ec060788-160322209342240&wsIPSercert=5689776fa7760a99a3a0c0202d3165dd&wsMonitor=0
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Champion League",UCL 2HD
+https://v.wyljc.com/live/sd-1-3462689-stream/playlist.m3u8?wsSecret=e7f89fcb4178cce0bf0da33b691f61c8&wsABSTime=5f8f49b2&wsSession=17d40698e094e123ec060788-160322235036902&wsIPSercert=5689776fa7760a99a3a0c0202d3165dd&wsMonitor=0
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Champion League",UCL 3HD
+https://v.wyljc.com/live/sd-1-3462652-stream/playlist.m3u8?wsSecret=6d4df7d7d550bd4a65ed2c662efb6641&wsABSTime=5f8f48c0&wsSession=17d40698e094e123ec060788-160322209342240&wsIPSercert=5689776fa7760a99a3a0c0202d3165dd&wsMonitor=0
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Champion League",UCL 4HD
+https://v.wyljc.com/live/sd-1-3462665-stream/playlist.m3u8?wsSecret=6bbb68e86426afb48f6c7a5200c8451b&wsABSTime=5f8f48e7&wsSession=17d40698e094e123ec060788-160322209342240&wsIPSercert=5689776fa7760a99a3a0c0202d3165dd&wsMonitor=0
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Champion League",UCL 5HD
+https://v.wyljc.com/live/sd-1-3462653-stream/playlist.m3u8?wsSecret=507db3583e57d1311af29ab58ff56331&wsABSTime=5f8f4921&wsSession=17d40698e094e123ec060788-160322229064999&wsIPSercert=5689776fa7760a99a3a0c0202d3165dd&wsMonitor=0
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Champion League",UCL 6HD
+https://v.wyljc.com/live/sd-1-3462677-stream/playlist.m3u8?wsSecret=00ea9487d553b2c05c624e86866cf3b8&wsABSTime=5f8f495c&wsSession=17d40698e094e123ec060788-160322235036902&wsIPSercert=5689776fa7760a99a3a0c0202d3165dd&wsMonitor=0
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="CARTOON",Cartoon Network
 http://178.132.3.162:88/cartoon_network/index.m3u8?token=test
