@@ -312,13 +312,11 @@ http://144.76.91.70:8081/streamrtmp/ss2/playlist.m3u8
 http://144.76.91.70:8081/streamrtmp/ss3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_1_Small.png" group-title="Other Sports",BT SPORT1
-http://hd7.mixcasthd.com:8080/hls/saUgXjxtZ220190901.m3u8?hlsendtime=1603168740&hlsstarttime=0&hlshash=1v7-z-FMtjTmlUYjGmaxYyRFF2cIyi-xCwim9Qrseoc=
+http://S.pies.rocks:8080/FernanSisayan/8cZk4jnB7y/437216
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_2_Small.png" group-title="Other Sports",BT SPORT2
-http://hd7.mixcasthd.com:8080/hls/R8z5vxADlQ20190901.m3u8?hlsendtime=1603168680&hlsstarttime=0&hlshash=TXABAc4dJsn9ZjaX4nFYbbr47G8ClSejmwtFYmdOVb0=
+http://S.pies.rocks:8080/FernanSisayan/8cZk4jnB7y/437217
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_3_Small.png" group-title="Other Sports",BT SPORT3
-http://hd74.mixcasthd.com:8080/hls/VeNYLBwr7J20190901.m3u8?hlsendtime=1603168500&hlsstarttime=0&hlshash=HAn1UA6rfJTUnPaisinPa8LX5cUjA44gDF8__wbjh74=
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_ESPN_Small.png" group-title="Other Sports",BT ESPN
-http://hd7.mixcasthd.com:8080/hls/xkN1hZx6JA20190901.m3u8?hlsendtime=1603169460&hlsstarttime=0&hlshash=m32PkgPMfxungOhwiUptI0aOpR6E5afTO6V3yUfmVsg=
+http://S.pies.rocks:8080/FernanSisayan/8cZk4jnB7y/437218
 
 #EXTINF:-1 tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=81142579&t=1581509776804" group-title="Other Sports",SPORT 1HD
 http://37.48.86.45:8182/OTEsport1/index.m3u8
