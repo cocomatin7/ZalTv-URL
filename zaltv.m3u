@@ -196,13 +196,6 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/b7d5ba889aec45
 #EXTINF:-1 tvg-logo="" group-title="Sports",BT SPORT2
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/c19304e614fea1a.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports",Матч! SPORT1
-http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/124/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",Матч! SPORT2
-http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/530/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",Матч! SPORT3
-http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/522/index.m3u8
-
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png",Skynet Sport HD
 https://live.5gbet.live/edge_app/skynethd/playlist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports1.png",Skynet Sport 1
@@ -347,6 +340,78 @@ http://37.48.86.45:8182/OTEsport8/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=49297261&t=1535101456094" group-title="Other Sports",SPORT 9HD
 http://37.48.86.45:8182/OTEsport9/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",Eleven Sports 1 EPL
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2518/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",Eleven Sports 2 EPL
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2517/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",Матч! SPORT1
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/124/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",Матч! SPORT2
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/530/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",Матч! SPORT3
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/522/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",Sky Sport 1 HD
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2478/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",Sky Sport 2 HD
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2479/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",Sky Sport Bundesliga
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2480/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",Sky Sport News HD
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2477/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",BT Sport 1
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2505/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",BT Sport 2
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2506/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",RMC Sport 1 HD
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2545/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",RMC Sport 2 HD
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2546/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",RMC Sport 3 HD
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2547/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",Eleven Sports 1
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2531/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",Eleven Sports 2
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2532/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",Eleven Sports 3
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2533/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",Eleven Sports 4
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2534/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",Eleven Sports 5
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2535/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",Eleven Sports 6
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2536/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",SPORT TV 1
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2525/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",SPORT TV 2
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2526/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",SPORT TV 3
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2527/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",SPORT TV 4
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2528/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",SPORT TV 5
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2529/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",SPORT TV + 
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2530/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",
+
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",
+
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",
+
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",
+
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",
+
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",
+
+
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Champion League",UCL 1HD
 https://v.wyljc.com/live/sd-1-3462688-stream/playlist.m3u8?wsSecret=9efecdf98f930a998592f3630ef97e66&wsABSTime=5f8f4858&wsSession=17d40698e094e123ec060788-160322209342240&wsIPSercert=5689776fa7760a99a3a0c0202d3165dd&wsMonitor=0
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Champion League",UCL 2HD
@@ -359,6 +424,29 @@ https://v.wyljc.com/live/sd-1-3462665-stream/playlist.m3u8?wsSecret=6bbb68e86426
 https://v.wyljc.com/live/sd-1-3462653-stream/playlist.m3u8?wsSecret=507db3583e57d1311af29ab58ff56331&wsABSTime=5f8f4921&wsSession=17d40698e094e123ec060788-160322229064999&wsIPSercert=5689776fa7760a99a3a0c0202d3165dd&wsMonitor=0
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Champion League",UCL 6HD
 https://v.wyljc.com/live/sd-1-3462677-stream/playlist.m3u8?wsSecret=00ea9487d553b2c05c624e86866cf3b8&wsABSTime=5f8f495c&wsSession=17d40698e094e123ec060788-160322235036902&wsIPSercert=5689776fa7760a99a3a0c0202d3165dd&wsMonitor=0
+
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 1HD
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6123/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 3HD
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6124/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 4HD
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6125/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 5HD
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6126/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 6HD
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6127/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 7HD
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6128/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 8HD
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6129/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 9HD
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6130/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 10HD
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6131/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 11HD
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6132/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 12HD
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6133/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="CARTOON",Cartoon Network
 https://itasli.tk/iptvtr/cartoonnetwork.m3u8
