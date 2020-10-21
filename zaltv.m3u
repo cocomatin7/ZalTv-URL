@@ -191,10 +191,10 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/0d55bceff5ffb0
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a454.png" group-title="Sports", Sport TV 5
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/97ec5399cec7ae4.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports",RMC SPORT1
-
-#EXTINF:-1 tvg-logo="" group-title="Sports",RMC SPORT2
-
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT SPORT1
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/b7d5ba889aec45d.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",BT SPORT2
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/c19304e614fea1a.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",RMC SPORT3
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",RMC SPORT4
