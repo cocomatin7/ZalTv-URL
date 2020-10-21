@@ -46,7 +46,7 @@ https://livecdn.fptplay.net/foxlive/foxaction_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://images.iptvhero.com/channel/hd-foxpremium.png",Fox Movies
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://images.iptvhero.com/channel/hd-foxfamily.png",Fox Family
-http://203.150.107.30:8081/tested2iptv/core14/playlist.m3u8
+http://103.76.148.203:25461/live/sementara/sementara/7.ts
 #EXTINF:-1 group-title="Movies" tvg-logo="https://images.iptvhero.com/channel/hd-hbo.png",HBO HD
 http://188.35.9.11:21151/udp/190z
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg",Red by HBO
