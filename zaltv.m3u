@@ -165,15 +165,15 @@ https://load.airtelxstream.in/sonysix/smil:common.smil/chunklist.m3u8
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w1876894388.m3u8
 
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premier Sport HD1
-http://tv10.chang55.com/epl-1/playlist.m3u8
+http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/premierfootball2.png",Premier Sport HD2
-http://tv10.chang55.com/epl-2/playlist.m3u8
+http://103.208.24.234:1935/thaisport/epl-2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/premierfootball3.png",Premier Sport HD3
-http://tv10.chang55.com/epl-3/playlist.m3u8
+http://103.208.24.234:1935/thaisport/epl-3.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/premierfootball4.png",Premier Sport HD4
-http://tv10.chang55.com/epl-4/playlist.m3u8
+http://103.208.24.234:1935/thaisport/epl-4.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/premierfootball5.png",Premier Sport HD5
-http://tv10.chang55.com/epl-5/playlist.m3u8
+http://103.208.24.234:1935/thaisport/epl-5.stream/playlist.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-name="Astro Supersports 1 MY" tvg-logo="https://picon-13398.kxcdn.com/astrosupersportmy.jpg" group-title="Sports",ASTRO SUPERSPORTS 1
 http://newhostshare.ddns.net:9981/stream/service/79610d1a1bd4881f46fb301566bd856c?ticket=7cf95c378fa8017b5cd1463edb622947cd34fb0b
@@ -269,11 +269,11 @@ http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wP
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?@amarnettv.live?sd=10&rebase=on
 
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxsports1.png",Thai Fox Sport1
-http://dootvthai-hd.com/cmd/api/true/FOX-SPORTS-HD/playlist.m3u8
+http://103.208.24.234:1935/thaisport/hd-foxsports1.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports2.png",Thai Fox Sport2
-http://tv10.chang55.com/ch09-f2/playlist.m3u8
+http://103.208.24.234:1935/thaisport/hd-foxsports2.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports3.png",Thai Fox Sport3
-http://tv10.chang55.com/ch09-f3/playlist.m3u8
+http://103.208.24.234:1935/thaisport/hd-foxsports3.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://kokommawilliams.com/wp-content/uploads/2019/05/Premier-league.jpg" group-title="Live Stream",ZML EPL LIVE1
 https://v.wyljc.com/live/sd-1-3431790-stream/playlist.m3u8?wsSecret=0144e82af8fb6d6b7c09da4c913afaa3&wsABSTime=5f8c4cbc&wsSession=295dff1fe1578d80262812ac-160302660766817&wsIPSercert=0301cb953355bc2342f20efe21b30338&wsMonitor=0
