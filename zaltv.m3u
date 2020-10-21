@@ -168,7 +168,7 @@ http://89.248.174.8:8088/K8ur4SKQ3y/B27f1CJBzf/40600?token=QhVcUhcJRggXXAVSCwJSB
 http://89.248.174.8:8088/K8ur4SKQ3y/B27f1CJBzf/40601?token=QhVcUhcJRggXXAVSCwJSBFgBAgQDAFAHUFJQWQJRAFIJVQwHAVkHUFRGGURBEkJRAFtpWgVEXlFdUwVZSkAXElxFa1oAQ14QAVIGUQVTEhhDQl9eBEReUlBdB1ZWUFFUDBsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFAbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg" group-title="Sports",SKYSPORT EPL SD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/5287ef2dc1aba35.m3u8
+https://sorchelsea6969.shortcm.li/Sport9/sor@chelsea.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/skysportspremierleagueuk.jpg" group-title="Sports",SKYSPORT EPL HD
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/7cd55cbdb8421e2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbxJcI35QmglIgFrxqEgqRB4nZZwFSOn6ES0VnNza_U6AJeam4&usqp=CAU" group-title="Sports",NBCSN EPL
@@ -242,11 +242,11 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
 #EXTINF:-1 tvg-id="C5P.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="Sports",CCTV-5+
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
 #EXTINF:-1 group-title="Sports",ChelseaTV
-https://www.livedoomovies.com/02_ChelseaTV_720p/chunklist.m3u8
+http://160.119.77.116:8081/iptv/uk-chelseatv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports",MUTV
-https://www.livedoomovies.com/02_MUTV_720p/chunklist.m3u8
+http://160.119.77.116:8081/iptv/uk-mutv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports",LFCTV
-https://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8
+http://160.119.77.116:8081/iptv/uk-lfctv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fcbayern.com/fcb/images/fcbayerntv-live.jpg" group-title="Sports",Bayern Munich TV
 http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YTI1AMs.jpg" group-title="Sports",Real Madrid TV HD
