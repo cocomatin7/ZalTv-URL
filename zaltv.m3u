@@ -139,11 +139,11 @@ http://103.102.136.106:8080/cmcltv/livesports.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN1.in.png" group-title="Sports",Sony Ten 1HD
 https://load.airtelxstream.in/sonyten1hd/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN2.in.png" group-title="Sports",Sony Ten 2HD
-http://185.180.223.89:25461/sportstv/iosapp/120
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/f8ef52302d1cadb.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN3.in.png" group-title="Sports",Sony Ten 3HD
 https://load.airtelxstream.in/sonyten3hd/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="Sports",Sony SIX HD
-http://185.180.223.89:25461/sportstv/iosapp/117
+https://load.airtelxstream.in/sonysix/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png",Ten Sports
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w1876894388.m3u8
 
@@ -181,24 +181,24 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/aae6dcc000e10a8
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/f8ef52302d1cadb.m3u8
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-pt-sport-tv-1-450.png" group-title="Sports", Sport TV 1
-http://38.17.20.203:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/26627.m3u8?token=HUdaWBUKEQtADlRUVwIAV1ICBAIEUQQJVAxSXwMMBgUABgZdV1QKCVAVTxdHEBBQAF9rWlERCQsEDlRRHRcRRwMXbVACQAkTUQJXBBZIQEEIX1ERDwMfG0JRAkQLF1YGUFQFG0pAVkkWUhFbVQg9UQREXVBQEQlXR1QKShNaCmsCAF9YCAYRC0AHQRkWDRFFQwgWZ1BfVlddSkYrSFQKWQcXEBVEAFpFEFYXUBZeQAFWBgwRGRFQVkdWEhRIF14WKygQFUQHS0UHWRBcWwpAD0NfB0YNER8bW0s5FFRGEEYDBF9cFEAJE1MVTxdZBRpqAl1aXVBQR1BdVhVECxdVBFZVEBVED1xfC0MMR2sUC1FDCBYAAgYCCRBF
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/107c42bcb5d1eea.m3u8
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a451.png" group-title="Sports", Sport TV 2
-http://38.17.20.203:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/26628.m3u8?token=HUdaWBUKEQtABVEMUlFRDFcKAApRCwAKVAkEX1RQVlZVBAMLVVACCVUVTxdHEBBQAF9rWlERCQsEDlReHRcRRwMXbVACQAkTUQJXBBZIQEEIX1ERDwMfG0JRAkQLF1AAU1EEG0pAVkkWUhFbVQg9UQREXVBQEQlXR1QKShNaCmsCAF9YCAYRC0AHQRkWDRFFQwgWZ1BfVlddSkYrSFQKWQcXEBVEAFpFEFYXUBZeQAZRBwIRGRFQVkdWEhRIF14WKygQFUQHS0UHWRBcWwpAD0NfB0YNER8bW0s5FFRGEEYDBF9cFEAJE1MVTxdZBRpqAl1aXVBQR1BdVhVECxdVBFZVEBVED1xfC0MMR2sUC1FDCBYAAgYCDBBF
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/f761f6f79ecb162.m3u8
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a452.png" group-title="Sports", Sport TV 3
-http://38.17.20.203:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/26629.m3u8?token=HUdaWBUKEQtAAABXBAVSDAMDAQVUVQpfUQtTVAAEBQRXVVYPBQcHBwQVTxdHEBBQAF9rWlERCQsEDlRfHRcRRwMXbVACQAkTUQJXBBZIQEEIX1ERDwMfG0JRAkQLF1YAVlQHG0pAVkkWUhFbVQg9UQREXVBQEQlXR1QKShNaCmsCAF9YCAYRC0AHQRkWDRFFQwgWZ1BfVlddSkYrSFQKWQcXEBVEAFpFEFYXUBZeQAZQCwwRGRFQVkdWEhRIF14WKygQFUQHS0UHWRBcWwpAD0NfB0YNER8bW0s5FFRGEEYDBF9cFEAJE1MVTxdZBRpqAl1aXVBQR1BdVhVECxdVBFZVEBVED1xfC0MMR2sUC1FDCBYAAgYBCRBF
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/f982966b84c04e0.m3u8
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a453.png" group-title="Sports", Sport TV 4
-http://38.17.20.203:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/26630.m3u8?token=HUdaWBUKEQtADlICB1AHVFYFUQoGUAAJBAwDAgBQAVBeUgYKV1oBBAYVTxdHEBBQAF9rWlERCQsEDlVWHRcRRwMXbVACQAkTUQJXBBZIQEEIX1ERDwMfG0JRAkQLF1UNVFMAG0pAVkkWUhFbVQg9UQREXVBQEQlXR1QKShNaCmsCAF9YCAYRC0AHQRkWDRFFQwgWZ1BfVlddSkYrSFQKWQcXEBVEAFpFEFYXUBZeQARSBQYRGRFQVkdWEhRIF14WKygQFUQHS0UHWRBcWwpAD0NfB0YNER8bW0s5FFRGEEYDBF9cFEAJE1MVTxdZBRpqAl1aXVBQR1BdVhVECxdVBFZVEBVED1xfC0MMR2sUC1FDCBYAAgYBDBBF
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/0d55bceff5ffb0c.m3u8
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a454.png" group-title="Sports", Sport TV 5
-http://38.17.20.203:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/26631.m3u8?token=HUdaWBUKEQtAVVEDBVFVVgQDUAYGBAZYBV5fBQhRXQdfV1cKBFAHAlUVTxdHEBBQAF9rWlERCQsEDlVXHRcRRwMXbVACQAkTUQJXBBZIQEEIX1ERDwMfG0JRAkQLF1YNVFQBG0pAVkkWUhFbVQg9UQREXVBQEQlXR1QKShNaCmsCAF9YCAYRC0AHQRkWDRFFQwgWZ1BfVlddSkYrSFQKWQcXEBVEAFpFEFYXUBZeQARWCw0RGRFQVkdWEhRIF14WKygQFUQHS0UHWRBcWwpAD0NfB0YNER8bW0s5FFRGEEYDBF9cFEAJE1MVTxdZBRpqAl1aXVBQR1BdVhVECxdVBFZVEBVED1xfC0MMR2sUC1FDCBYAAgYBDhBF
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/97ec5399cec7ae4.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",RMC SPORT1
-http://62.210.100.8:8081/yacinetv/RmcSport1/chunks.m3u8?nimblesessionid=1080008&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMCA4OjAwOjAxIFBNJmhhc2hfdmFsdWU9eGgvS3JNczdOTTZCVDNIbldERFpmUT09JnZhbGlkbWludXRlcz02MA==
+
 #EXTINF:-1 tvg-logo="" group-title="Sports",RMC SPORT2
-http://62.210.100.8:8081/yacinetv/RmcSport2/chunks.m3u8?nimblesessionid=1081552&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMCA4OjAxOjUzIFBNJmhhc2hfdmFsdWU9bVE0NEJhNjMzMUR2OFJXWmVYeHZWdz09JnZhbGlkbWludXRlcz02MA==
+
 #EXTINF:-1 tvg-logo="" group-title="Sports",RMC SPORT3
-http://62.210.100.8:8081/yacinetv/RmcSport3/chunks.m3u8?nimblesessionid=1082780&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMCA4OjAzOjQyIFBNJmhhc2hfdmFsdWU9akx3WXIyaUt4ZVArWjFQSDRVaXNNUT09JnZhbGlkbWludXRlcz02MA==
+
 #EXTINF:-1 tvg-logo="" group-title="Sports",RMC SPORT4
-http://62.210.100.8:8081/yacinetv/RmcSport4/chunks.m3u8?nimblesessionid=1083658&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMCA4OjA0OjU5IFBNJmhhc2hfdmFsdWU9dm81ZFdrRGRPR3BkaUVhdkdEWmVFdz09JnZhbGlkbWludXRlcz02MA==
+
 
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png",Skynet Sport HD
 https://live.5gbet.live/edge_app/skynethd/playlist.m3u8
