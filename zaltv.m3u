@@ -242,39 +242,35 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/97ec5399cec7ae
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png",Skynet Sport 6(MPT)
 https://mptalive6-a.akamaihd.net/83c48cc94de947f392b2d08dc1eb694c/ap-southeast-1/6066350939001/profile_0/chunklist.m3u8?hdnea=st=1600347845~exp=9007200855088836~acl=/83c48cc94de947f392b2d08dc1eb694c/*/profile_0/chunklist.m3u8*~hmac=7875ad2f13fb6b2d3d71f7c23f9fc5228ddd1c89fc786e8c496448c5aa02611f
 
-#EXTINF:-1 group-title="Sports",UFC FIGHT
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_sports_us.png" group-title="Sports",UFC FIGHT
 http://live-ng-01.more.tv/hls/UFC/master.m3u8
-#EXTINF:-1 group-title="Sports",FIGHT TIME
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_sports_us.png" group-title="Sports",FIGHT TIME
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
-#EXTINF:-1 group-title="Sports",FIGHT BOX
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_sports_us.png" group-title="Sports",FIGHT BOX
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="Sports",WWE 1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="Sports",WWE 1
 http://cdnak8.cast4u.info/channels/3/10803.m3u8
-#EXTINF:-1 group-title="Sports",WWE 2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/world_wrestling_entertainment.png" group-title="Sports",WWE 2
 http://cdnak10.cast4u.info/channels/4/10804.m3u8
 
-#EXTINF:-1 group-title="Sports",SANTANA SPORT1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta-sports-ukraine-ie-ua.png" group-title="Sports",SANTANA SPORT1
 http://ott-cdn.ucom.am/s81/04.m3u8
-#EXTINF:-1 group-title="Sports",SANTANA SPORT2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/setanta-sports-ukraine-ie-ua.png" group-title="Sports",SANTANA SPORT2
 http://ott-cdn.ucom.am/s82/04.m3u8
-#EXTINF:-1 group-title="Sports",ZQ Sport 
-https://zqtv.tk:1111/LIVE/streams/131738354367082206362416.m3u8?token=null
 
-#EXTINF:-1 group-title="Sports",TVRI SPORT
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="Sports",PPTV_HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pp_tv_hd_th.png" group-title="Sports",PPTV_HD
 http://183.182.100.184/live/pptvthai/index.m3u8
-#EXTINF:-1 group-title="Sports",PTV SPORT
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/ptv_sports_pk.png" group-title="Sports",PTV SPORT
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="CT5.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="Sports",CCTV-5
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="Sports",CCTV-5
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
-#EXTINF:-1 tvg-id="C5P.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="Sports",CCTV-5+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="Sports",CCTV-5+
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
-#EXTINF:-1 group-title="Sports",ChelseaTV
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/cc/chelsea_tv.png"group-title="Sports",ChelseaTV
 http://160.119.77.116:8081/iptv/uk-chelseatv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports",MUTV
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/mm/mutv.png"group-title="Sports",MUTV
 http://160.119.77.116:8081/iptv/uk-mutv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports",LFCTV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/lfc-tv-uk.png" group-title="Sports",LFCTV
 http://160.119.77.116:8081/iptv/uk-lfctv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fcbayern.com/fcb/images/fcbayerntv-live.jpg" group-title="Sports",Bayern Munich TV
 http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8?@amarnettv.live
@@ -419,7 +415,7 @@ http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2527/index.m3u8
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2528/index.m3u8
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/SportTV5-Small.png" group-title="Other Sports",SPORT TV 5
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2529/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Other Sports",SPORT TV + 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_mais.png" group-title="Other Sports",SPORT TV + 
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2530/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="Other Sports",Supersport Premier
@@ -491,22 +487,14 @@ https://ott.bingebd.com:443/live/ngrp:nick_jr_all/playlist.m3u8
 https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TRC.TR" tvg-logo="https://static.epg.best/tr/TRTCocuk.tr.png" group-title="CARTOON",TRT Cocuk(Turki)
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.shemarookids.com/img/logo.png" group-title="CARTOON",Shemaroo Kids
-https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4rEFCPQ.jpg" group-title="CARTOON",Sony YAY
-https://ott.bingebd.com:443/live/ngrp:sony_yay_all/playlist.m3u8
-#EXTINF:-1  group-title="CARTOON",Discovery Kids
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_kids_us.png" group-title="CARTOON",Discovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
-#EXTINF:-1 group-title="CARTOON",Astro Cartoon
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_ceria.png" group-title="CARTOON",Astro Cartoon
 http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
-#EXTINF:-1 group-title="CARTOON",SPACETOON
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_toon_ae_1.png" group-title="CARTOON",SPACETOON
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8?@amarnettv.live
-#EXTINF:-1 group-title="CARTOON",EBS KIDS
+#EXTINF:-1 tvg-logo="http://www.lyngsat-stream.com/logo/tv/ee/ebs-kids-kr.png" group-title="CARTOON",EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8?@amarnettv.live
-#EXTINF:-1 group-title="CARTOON",CTC KIDS
-http://live-ng-01.more.tv/hls/CTC_Kids/index_1.m3u8
-#EXTINF:-1 group-title="CARTOON",SHEMAROOME KIDS
-https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?@amarnettv.live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/reSXEKO.jpg" group-title="Discovery",NATGEO HD
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
