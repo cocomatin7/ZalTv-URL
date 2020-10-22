@@ -378,6 +378,10 @@ http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/531/index.m3u8
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/535/index.m3u8
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/Match-Igra-Logo.png" group-title="Other Sports",Match! Game
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/529/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",Match! Arena
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/528/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",Match! Country
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/107/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/sky-sports-football.jpg" group-title="Other Sports",Sky Sport 1 HD
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2478/index.m3u8
