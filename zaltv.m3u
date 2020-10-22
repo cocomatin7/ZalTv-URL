@@ -383,7 +383,7 @@ https://sorchelsea6969.shortcm.li/Sport2/sor@chelsea.m3u8
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_3_Small.png" group-title="Other Sports",BT SPORT3
 https://sorchelsea6969.shortcm.li/Sport3/sor@chelsea.m3u8
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_ESPN_Small.png" group-title="Other Sports",BT SPORT ESPN
-
+https://sorchelsea6969.shortcm.li/Sport4/sor@chelsea.m3u8
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/RMC-Sport-1-Logo.png" group-title="Other Sports",RMC Sport 1 HD
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2545/index.m3u8
@@ -402,15 +402,15 @@ http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2527/index.m3u8
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2528/index.m3u8
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/SportTV5-Small.png" group-title="Other Sports",SPORT TV 5
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2529/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/static/logos/sporttv-mais.svg" group-title="Other Sports",SPORT TV + 
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",SPORT TV + 
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2530/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Other Sports",
-
-#EXTINF:-1 tvg-logo="" group-title="Other Sports",
-
-#EXTINF:-1 tvg-logo="" group-title="Other Sports",
-
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",Supersport Football
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/289545.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",Supersport Premier
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/289543.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Other Sports",Supersport Laliga
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/289550.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Other Sports",
 
 #EXTINF:-1 tvg-logo="" group-title="Other Sports",
@@ -432,7 +432,9 @@ https://v.wyljc.com/live/sd-1-3462653-stream/playlist.m3u8?wsSecret=507db3583e57
 https://v.wyljc.com/live/sd-1-3462677-stream/playlist.m3u8?wsSecret=00ea9487d553b2c05c624e86866cf3b8&wsABSTime=5f8f495c&wsSession=17d40698e094e123ec060788-160322235036902&wsIPSercert=5689776fa7760a99a3a0c0202d3165dd&wsMonitor=0
 
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 1HD
-http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6123/index.m3u8
+http://88.198.207.99/hls/bein1.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 2HD
+http://116.203.182.40/hls/bein2.m3u8 
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 3HD
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6124/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 4HD
