@@ -1,44 +1,44 @@
 #EXTM3U
 #PLAYLIST:hlscat.com
-#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",Mahar Bhawdi
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar_bawdi_tv_mm.png" group-title="Myanmar TV",Mahar Bhawdi
 https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",MRTV-4
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv_mm_4.png" group-title="Myanmar TV",MRTV-4
 https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",Channel-7
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel7_mm.png" group-title="Myanmar TV",Channel-7
 https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",Mahar TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTXYfGY87W5Ler3DMfRILKFq3I2PYe-d3vENw&usqp=CAU" group-title="Myanmar TV",Mahar TV
 https://live.mahar.tv/channel/mahar-web.smil/chunklist_w1446203491_b800000.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDIwIDE6NTI6MDIgUE0maGFzaF92YWx1ZT1tTEpQa1NjbkFtNWZ1MEF0UmQreGV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9NQ%3D%3D
-#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",Channel K
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-k-mm.png" group-title="Myanmar TV",Channel K
 https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
-#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",Fortune TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fortune-tv-mm.png" group-title="Myanmar TV",Fortune TV
 https://59nyq69ndwap-hls-live.5centscdn.com/myanmar/fortune.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIwIDE6NDg6MjQgUE0maGFzaF92YWx1ZT02bXF1TFJSZFpTWjNLcEdkWHAyNkZ3PT0mdmFsaWRtaW51dGVzPTI1JnN0cm1fbGVuPTIy
-#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",Mizzima TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mizzima-tv-mm.png" group-title="Myanmar TV",Mizzima TV
 http://220.158.149.28:8180/TV00000000000000000170@HHZT?checkedby:hlscat.com
-#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",DVB
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/democratic_voice_of_burma.png" group-title="Myanmar TV",DVB
 https://l1-xl1.myanmarnet.com/relay/dvb/ch1/stream_hi/index.m3u8
-#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",MWD Movie
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mwd_movies.png" group-title="Myanmar TV",MWD Movie
 http://203.81.84.130/hls/mwd_serie/index.m3u8
-#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",MWD Variety
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mwd_variety.png" group-title="Myanmar TV",MWD Variety
 http://203.81.84.130/hls/mwd_variety/index.m3u8
-#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",MWD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mwd_mm_tv.png" group-title="Myanmar TV",MWD
 http://203.81.84.130/hls/mwd/index.m3u8
-#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",MWD FAMILY
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mwd_mm_tv.png" group-title="Myanmar TV",MWD FAMILY
 http://203.81.84.130/hls/mwd_family/index.m3u8
-#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",MWD Document
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mwd_documentary.png" group-title="Myanmar TV",MWD Document
 http://203.81.84.130/hls/mwd_document/index.m3u8
-#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",MWD Shopping
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mwd-shopping-mm.png" group-title="Myanmar TV",MWD Shopping
 http://203.81.84.130/hls/mwd_shopping/index.m3u8
-#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",MNTV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mn_tv_mm.png" group-title="Myanmar TV",MNTV
 http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
-#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",MRTV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv_mm.png" group-title="Myanmar TV",MRTV
 http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8
-#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",MRTV FARMERS
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv-farmer-mm.png" group-title="Myanmar TV",MRTV FARMERS
 http://220.158.149.28:8180/live/TV00000000000000000168@HHZT
-#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",HUTTAW
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv-hluttaw-mm.png" group-title="Myanmar TV",HUTTAW
 http://220.158.149.28:8180/live/TV00000000000000000167@HHZT
-#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",Channel-9
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_9_mm.png" group-title="Myanmar TV",Channel-9
 http://220.158.149.28:8180/live/TV00000000000000000169@HHZT
-#EXTINF:-1 tvg-logo="https://emojigraph.org/media/whatsapp/flag-myanmar-burma_1f1f2-1f1f2.png" group-title="Myanmar TV",MVTV MYANMAR
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/mm/mv_tv_th.png" group-title="Myanmar TV",MVTV MYANMAR
 https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://images.iptvhero.com/channel/hd-foxaction.png",Fox Action
@@ -83,40 +83,41 @@ http://37.48.86.45:8182/OTEcinema2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41707931&t=1524412292383" group-title="Movies",Cinema3
 http://37.48.86.45:8182/OTEcinema3/index.m3u8
 
-#EXTINF:-1 group-title="Movies",MBC MAX
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_max.png" group-title="Movies",MBC MAX
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8?@amarnettv.live
-#EXTINF:-1 group-title="Movies",MBC 2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_2.png" group-title="Movies",MBC 2
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8?@amarnettv.live
-#EXTINF:-1 group-title="Movies",MBC Action
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_action.png" group-title="Movies",MBC Action
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8?@amarnettv.live
-#EXTINF:-1 group-title="Movies",Prive HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-prive-hd-in.png" group-title="Movies",Prive HD
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andprivehd/index.m3u8
-#EXTINF:-1 group-title="Movies",STAR MOVIE
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies.png" group-title="Movies",STAR MOVIE
 http://198.255.87.59:8080/INDIA_ENGLISH/STAR_MOVIES_HD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 group-title="Movies",STAR MOVIE SELECT
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies_in_select.png" group-title="Movies",STAR MOVIE SELECT
 http://198.255.87.59:8080/INDIA_ENGLISH/STAR_MOVIES_SELECT_HD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 group-title="Movies",TV1000
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-100-in.png" group-title="Movies",TV1000
 http://live-ng-01.more.tv/hls/TV1000_HD/master.m3u8?@amarnettv.live
-#EXTINF:-1 group-title="Movies",TC1000 Ac
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/viasat_tv1000_action.png" group-title="Movies",TV1000 Ac
 http://live-ng-01.more.tv/hls/TV1000_Action_HD/master.m3u8?@amarnettv.live
-#EXTINF:-1 group-title="Movies",ViP_Premiere_HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/vip-premiere-se.png" group-title="Movies",ViP_Premiere_HD
 http://live-ng-01.more.tv/hls/ViP_Premiere_HD/master.m3u8?@amarnettv.live
-#EXTINF:-1 group-title="Movies",VIP Megahit
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/vip-megahit-se.png" group-title="Movies",VIP Megahit
 http://live-ng-01.more.tv/hls/ViP_Megahit_HD/master.m3u8?@amarnettv.live
-#EXTINF:-1 group-title="Movies",VIP Comedy
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/vip-comedy-se.png" group-title="Movies",VIP Comedy
 http://live-ng-01.more.tv/hls/ViP_Comedy_HD/master.m3u8?@amarnettv.live
-#EXTINF:-1 group-title="Movies",24BOX TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/num/24-7-box.png" group-title="Movies",24BOX TV
 http://51.158.190.97/hls/stream.m3u8?@amarnettv.live
-#EXTINF:-1 group-title="Movies",Cine Film
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-film-us.png" group-title="Movies",Cine Film
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8?@amarnettv.live
-#EXTINF:-1 group-title="Movies",WB TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_channel_in.png" group-title="Movies",WB TV
 http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Cookie Asia
+#EXTINF:-1 tvg-logo="https://www.cookie-tv.com/wp-content/uploads/cookie-tv.png" group-title="Movies",Cookie Asia
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Cookie Rerun
+#EXTINF:-1 tvg-logo="https://www.cookie-tv.com/wp-content/uploads/cookie-tv.png" group-title="Movies",Cookie Rerun
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.m3u8
-#EXTINF:-1 group-title="Movies",CINEMAX Myanmar
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_asia.png" group-title="Movies",CINEMAX Myanmar
 http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/stream_2.m3u8
+
 #EXTINF:-1 tvg-logo="https://topsoccerblog.com/wp-content/uploads/2019/09/IMG_20190919_092231.jpg" group-title="Sports",ရောင်ဘွိုင်း Vs ရိုးမား
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/530/index.m3u8
 #EXTINF:-1 tvg-logo="https://topsoccerblog.com/wp-content/uploads/2019/09/IMG_20190919_092231.jpg" group-title="Sports",Rapid Wien Vs အာဆင်နယ်
@@ -378,9 +379,9 @@ http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/531/index.m3u8
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/535/index.m3u8
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/Match-Igra-Logo.png" group-title="Other Sports",Match! Game
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/529/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Other Sports",Match! Arena
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/Match-Arena-Logo.png" group-title="Other Sports",Match! Arena
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/528/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Other Sports",Match! Country
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/Match-Strana-Logo.png" group-title="Other Sports",Match! Country
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/107/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/sky-sports-football.jpg" group-title="Other Sports",Sky Sport 1 HD
@@ -421,12 +422,14 @@ http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2529/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Other Sports",SPORT TV + 
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2530/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Other Sports",Supersport Football
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/289545.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Other Sports",Supersport Premier
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="Other Sports",Supersport Premier
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/289543.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Other Sports",Supersport Laliga
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-la-liga-za.png" group-title="Other Sports",Supersport Laliga
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/289550.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-plus-za.png" group-title="Other Sports",Supersport Football
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/289545.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="Other Sports",
 
 #EXTINF:-1 tvg-logo="" group-title="Other Sports",
