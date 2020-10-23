@@ -157,20 +157,20 @@ http://103.208.24.234:1935/thaisport/epl-4.stream/playlist.m3u8
 http://103.208.24.234:1935/thaisport/epl-5.stream/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="Sports",ASTRO SUPERSPORTS 1
-http://iptvtree.net:8080/12357/b5d7b894/146068
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="Sports",ASTRO SUPERSPORTS 2
-http://iptvtree.net:8080/12357/b5d7b894/196476
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="Sports",ASTRO SUPERSPORTS 3 
-http://iptvtree.net:8080/12357/b5d7b894/196477
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="Sports",ASTRO SUPERSPORTS 4 
-http://iptvtree.net:8080/12357/b5d7b894/197051
+
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/sky-sports-football.jpg" group-title="Sports",SKYSPORT FOOTBALL
 https://sorchelsea6969.shortcm.li/Sport9/sor@chelsea.m3u8
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/sky-sports-premier-league.jpg" group-title="Sports",SKYSPORT PREMIER
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/7cd55cbdb8421e2.m3u8
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/sky-sports-premier-league.jpg" group-title="Sports",SKYSPORT Main Event
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30330.m3u8
+
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_1_Small.png" group-title="Sports",BT SPORT1
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/b7d5ba889aec45d.m3u8
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_2_Small.png" group-title="Sports",BT SPORT2
@@ -295,9 +295,9 @@ https://vcdnjt.useetv.com/dass/15/bein1/chunklist_w569980004_b684100_sleng_enc=s
 https://vcdnjt.useetv.com/dass/15/bein2/chunklist_w1901250353_b684100_sleng_enc=5cE0loIMo_OWpCpoD6CJEA.m3u8
 
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Other Sports",THAI BEINSPORT1
-http://203.150.107.30:8081/tested2iptv/core2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein2_big1.png" group-title="Other Sports",THAI BEINSPORT2
-http://203.150.107.30:8081/tested2iptv/core4/playlist.m3u8
+
 
 #EXTINF: -1 tvg-name="Champion TV 1" tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Other Sports",UCL TV1
 https://vcdnjt.useetv.com/dass/15/champion1/chunklist_w2141102661_b894100_sleng_57560.m3u8
@@ -332,10 +332,6 @@ http://37.48.86.45:8182/OTEsport9/index.m3u8
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2518/index.m3u8
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/Eleven-Sports-2-Poland-Small.png" group-title="Other Sports",Eleven Sports 2 EPL
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2517/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Other Sports",Eleven Sport 3 EPL
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/15199.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Other Sports",Eleven Sport 4 EPL
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/60949.m3u8
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/Match-Futbol-1-Logo.png" group-title="Other Sports",Match! Football 1
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/124/index.m3u8
@@ -408,17 +404,17 @@ http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/289545.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Champion League",UCL 1HD
-https://v.wyljc.com/live/sd-1-3462604-stream/playlist.m3u8?wsSecret=fb0273412c3a85e73540eec49582280c&wsABSTime=5f9076c8&wsSession=17d40698e094e123ec060788-160329951889797&wsIPSercert=7befc8ca15184c3530498beea598fdae&wsMonitor=0
+
 #EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Champion League",UCL 2HD
-https://v.wyljc.com/live/sd-1-3462616-stream/playlist.m3u8?wsSecret=cf7ddcd9098cfd121c8a7c2365c4112f&wsABSTime=5f907720&wsSession=17d40698e094e123ec060788-160329951889797&wsIPSercert=7befc8ca15184c3530498beea598fdae&wsMonitor=0
+
 #EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Champion League",UCL 3HD
-https://v.wyljc.com/live/sd-1-3462652-stream/playlist.m3u8?wsSecret=6d4df7d7d550bd4a65ed2c662efb6641&wsABSTime=5f8f48c0&wsSession=17d40698e094e123ec060788-160322209342240&wsIPSercert=5689776fa7760a99a3a0c0202d3165dd&wsMonitor=0
+
 #EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Champion League",UCL 4HD
-https://v.wyljc.com/live/sd-1-3462665-stream/playlist.m3u8?wsSecret=6bbb68e86426afb48f6c7a5200c8451b&wsABSTime=5f8f48e7&wsSession=17d40698e094e123ec060788-160322209342240&wsIPSercert=5689776fa7760a99a3a0c0202d3165dd&wsMonitor=0
+
 #EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Champion League",UCL 5HD
-https://v.wyljc.com/live/sd-1-3462653-stream/playlist.m3u8?wsSecret=507db3583e57d1311af29ab58ff56331&wsABSTime=5f8f4921&wsSession=17d40698e094e123ec060788-160322229064999&wsIPSercert=5689776fa7760a99a3a0c0202d3165dd&wsMonitor=0
+
 #EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Champion League",UCL 6HD
-https://v.wyljc.com/live/sd-1-3462677-stream/playlist.m3u8?wsSecret=00ea9487d553b2c05c624e86866cf3b8&wsABSTime=5f8f495c&wsSession=17d40698e094e123ec060788-160322235036902&wsIPSercert=5689776fa7760a99a3a0c0202d3165dd&wsMonitor=0
+
 
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 1HD
 http://88.198.207.99/hls/bein1.m3u8
