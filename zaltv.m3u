@@ -91,26 +91,24 @@ https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/in
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/and-prive-hd-in.png" group-title="Movies",Prive HD
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andprivehd/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies.png" group-title="Movies",STAR MOVIE
-http://198.255.87.59:8080/INDIA_ENGLISH/STAR_MOVIES_HD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies_in_select.png" group-title="Movies",STAR MOVIE SELECT
-http://198.255.87.59:8080/INDIA_ENGLISH/STAR_MOVIES_SELECT_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies.png" group-title="Movies",STARMOVIE HD
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30349.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-100-in.png" group-title="Movies",TV1000
-http://live-ng-01.more.tv/hls/TV1000_HD/master.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/viasat_tv1000_action.png" group-title="Movies",TV1000 Ac
-http://live-ng-01.more.tv/hls/TV1000_Action_HD/master.m3u8?@amarnettv.live
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/54673.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/viasat_tv1000_action.png" group-title="Movies",TV1000 Action
+http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/54674.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/vip-premiere-se.png" group-title="Movies",ViP_Premiere_HD
-http://live-ng-01.more.tv/hls/ViP_Premiere_HD/master.m3u8?@amarnettv.live
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/202/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/vip-megahit-se.png" group-title="Movies",VIP Megahit
-http://live-ng-01.more.tv/hls/ViP_Megahit_HD/master.m3u8?@amarnettv.live
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/201/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/vip-comedy-se.png" group-title="Movies",VIP Comedy
-http://live-ng-01.more.tv/hls/ViP_Comedy_HD/master.m3u8?@amarnettv.live
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/200/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/num/24-7-box.png" group-title="Movies",24BOX TV
 http://51.158.190.97/hls/stream.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-film-us.png" group-title="Movies",Cine Film
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ww/warner_channel_in.png" group-title="Movies",WB TV
-http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.cookie-tv.com/wp-content/uploads/cookie-tv.png" group-title="Movies",Cookie Asia
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cookie-tv.com/wp-content/uploads/cookie-tv.png" group-title="Movies",Cookie Rerun
