@@ -119,7 +119,7 @@ http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlea
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier-football-ph.png",Football sport 1
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/7d58c543420239a.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier-football-ph.png",Football sport 2
-https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/914e101dcf6e4a2f9bee3b112ba7e068/chunklist_b4628000.m3u8?p=79&s=1603552409&e=1603552529&h=90c83a381fd05deb2f757e1ec1be6062
 
 #EXTINF:-1 tvg-id="FOXSports2.my" tvg-logo="https://i.imgur.com/n3ieiWB.png" group-title="Sports",Fox Sport 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
@@ -258,7 +258,7 @@ http://103.208.24.234:1935/thaisport/hd-foxsports3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://kokommawilliams.com/wp-content/uploads/2019/05/Premier-league.jpg" group-title="Live Stream",ZML EPL LIVE1
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2545/index.m3u8
 #EXTINF:-1 tvg-logo="https://kokommawilliams.com/wp-content/uploads/2019/05/Premier-league.jpg" group-title="Live Stream",ZML EPL LIVE2
-https://v.wyljc.com/live/sd-1-3428817-stream/playlist.m3u8?wsSecret=e27bed5da1ffba8a96e5a0656046127f&wsABSTime=5f9441c3&wsSession=17d40698e094e123ec060788-160354809056318&wsIPSercert=88137a73fd749bbabb31b1ce44930cc3&wsMonitor=0
+https://v.wyljc.com/live/sd-1-3428824-stream/playlist.m3u8?wsSecret=b45b6f11498f8a3bfb8ff9260842b9c7&wsABSTime=5f946423&wsSession=17d40698e094e123ec060788-160355688687789&wsIPSercert=88137a73fd749bbabb31b1ce44930cc3&wsMonitor=0
 
 #EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/GOAL/82/d7/serie-a-logo-2019-20_49q9flr9v9qp1k738igyi2xaf.png?t=-982278464" group-title="Live Stream",ZML Serie A LIVE1
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/530/index.m3u8
@@ -279,7 +279,7 @@ https://v.wyljc.com/live/hd-zh-1-3399221-stream/playlist.m3u8?wsSecret=79f46ab5d
 #EXTINF:-1 tvg-logo="https://img.jakpost.net/c/2019/05/16/2019_05_16_72382_1557949331._large.jpg" group-title="Live Stream",ZML Laliga Live1
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 #EXTINF:-1 tvg-logo="https://img.jakpost.net/c/2019/05/16/2019_05_16_72382_1557949331._large.jpg" group-title="Live Stream",ZML Laliga Live2
-https://v.wyljc.com/live/sd-1-3438989-stream/playlist.m3u8?wsSecret=44bbbfa02f79e6ee0265d7be4c8d4424&wsABSTime=5f8c3c5e&wsSession=295dff1fe1578d80262812ac-160302241651210&wsIPSercert=0301cb953355bc2342f20efe21b30338&wsMonitor=0
+https://v.wyljc.com/live/hd-zh-1-3438999-stream/playlist.m3u8?wsSecret=9e35c92f09ff9b97178e23f028930083&wsABSTime=5f94645a&wsSession=17d40698e094e123ec060788-160355693980241&wsIPSercert=88137a73fd749bbabb31b1ce44930cc3&wsMonitor=0
 
 #EXTINF:-1 tvg-logo="https://www.egypttoday.com/siteimages/larg/17785.jpg" group-title="Live Stream",ZML Bundesliga Live1
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/522/index.m3u8
