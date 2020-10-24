@@ -258,19 +258,19 @@ http://103.208.24.234:1935/thaisport/hd-foxsports3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://kokommawilliams.com/wp-content/uploads/2019/05/Premier-league.jpg" group-title="Live Stream",ZML EPL LIVE1
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2545/index.m3u8
 #EXTINF:-1 tvg-logo="https://kokommawilliams.com/wp-content/uploads/2019/05/Premier-league.jpg" group-title="Live Stream",ZML EPL LIVE2
-https://v.wyljc.com/live/sd-1-3428824-stream/playlist.m3u8?wsSecret=b45b6f11498f8a3bfb8ff9260842b9c7&wsABSTime=5f946423&wsSession=17d40698e094e123ec060788-160355688687789&wsIPSercert=88137a73fd749bbabb31b1ce44930cc3&wsMonitor=0
+https://verizon-me.cdn.booyah.live/hls/113132/28340401.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/GOAL/82/d7/serie-a-logo-2019-20_49q9flr9v9qp1k738igyi2xaf.png?t=-982278464" group-title="Live Stream",ZML Serie A LIVE1
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/530/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/GOAL/82/d7/serie-a-logo-2019-20_49q9flr9v9qp1k738igyi2xaf.png?t=-982278464" group-title="Live Stream",ZML Serie A LIVE2
-https://v.wyljc.com/live/sd-1-3441071-stream/playlist.m3u8?wsSecret=feac13a4a8b278669011d16940b0132c&wsABSTime=5f9432eb&wsSession=8ebeef66a30570995cba4a60-160354428512592&wsIPSercert=88137a73fd749bbabb31b1ce44930cc3&wsMonitor=0
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/e28d03bc11b8456592af36fa67213bd4/chunklist_b4628000.m3u8?p=79&s=1603561217&e=1603561337&h=68a830938a9da15323320f683f7bc9df
 #EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/GOAL/82/d7/serie-a-logo-2019-20_49q9flr9v9qp1k738igyi2xaf.png?t=-982278464" group-title="Live Stream",ZML Serie A LIVE3
 https://v.wyljc.com/live/hd-zh-1-3441057-stream/playlist.m3u8?wsSecret=d0718994862904417b4cfdb1efc238c0&wsABSTime=5f79d547&wsSession=295dff1fe1578d80262812ac-160181637703837&wsIPSercert=4312e18402f1d0b73f1d56b11a2e681e&wsMonitor=0
 
 #EXTINF:-1 tvg-logo="https://www.leadersinsport.com/wp-content/uploads/2018/02/Ligue-1-Conforama.jpg" group-title="Live Stream",ZML Ligue Live1
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/124/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.leadersinsport.com/wp-content/uploads/2018/02/Ligue-1-Conforama.jpg" group-title="Live Stream",ZML Ligue Live2
-
+http://116.203.228.176/hls/bein6.m3u8
 #EXTINF:-1 tvg-logo="https://www.leadersinsport.com/wp-content/uploads/2018/02/Ligue-1-Conforama.jpg" group-title="Live Stream",ZML Ligue Live3
 https://v.wyljc.com/live/sd-1-3399227-stream/playlist.m3u8?wsSecret=edb59a3e22a781411c123e3d6c427c65&wsABSTime=5f8c4def&wsSession=295dff1fe1578d80262812ac-160302691347401&wsIPSercert=0301cb953355bc2342f20efe21b30338&wsMonitor=0
 #EXTINF:-1 tvg-logo="https://www.leadersinsport.com/wp-content/uploads/2018/02/Ligue-1-Conforama.jpg" group-title="Live Stream",ZML Ligue Live4
