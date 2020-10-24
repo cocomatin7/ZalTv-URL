@@ -137,7 +137,7 @@ http://103.102.136.106:8080/cmcltv/livesports.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten1.png" group-title="Sports",Sony Ten 1HD
 https://load.airtelxstream.in/sonyten1hd/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten2.png" group-title="Sports",Sony Ten 2HD
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30624.m3u8
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/f8ef52302d1cadb.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="Sports",Sony Ten 3HD
 https://load.airtelxstream.in/sonyten3hd/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="Sports",Sony SIX HD
@@ -283,13 +283,13 @@ https://v.wyljc.com/live/sd-1-3438989-stream/playlist.m3u8?wsSecret=44bbbfa02f79
 #EXTINF:-1 tvg-logo="https://www.egypttoday.com/siteimages/larg/17785.jpg" group-title="Live Stream",ZML Bundesliga Live1
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/522/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.egypttoday.com/siteimages/larg/17785.jpg" group-title="Live Stream",ZML Bundesliga Live2
-https://v.wyljc.com/live/sd-1-3418299-stream/playlist.m3u8?wsSecret=6c2859f53131789428069e6571722f0c&wsABSTime=5f8affa0&wsSession=295dff1fe1578d80262812ac-160294121210115&wsIPSercert=0301cb953355bc2342f20efe21b30338&wsMonitor=0
+https://v.wyljc.com/live/sd-1-3418305-stream/playlist.m3u8?wsSecret=ea51875d956c6eac8f719ec10088e22b&wsABSTime=5f943990&wsSession=17d40698e094e123ec060788-160354598605095&wsIPSercert=88137a73fd749bbabb31b1ce44930cc3&wsMonitor=0
 #EXTINF:-1 tvg-logo="https://www.egypttoday.com/siteimages/larg/17785.jpg" group-title="Live Stream",ZML Bundesliga Live3
-https://v.wyljc.com/live/sd-1-3418301-stream/playlist.m3u8?wsSecret=3ec06c730d61fec4618c632371f6f25a&wsABSTime=5f8affdf&wsSession=295dff1fe1578d80262812ac-160294121210115&wsIPSercert=0301cb953355bc2342f20efe21b30338&wsMonitor=0
+https://v.wyljc.com/live/sd-1-3418307-stream/playlist.m3u8?wsSecret=89b85d293f495b68a8b56e842d917ada&wsABSTime=5f9439ff&wsSession=17d40698e094e123ec060788-160354598605095&wsIPSercert=88137a73fd749bbabb31b1ce44930cc3&wsMonitor=0
 #EXTINF:-1 tvg-logo="https://www.egypttoday.com/siteimages/larg/17785.jpg" group-title="Live Stream",ZML Bundesliga Live4
-https://v.wyljc.com/live/sd-1-3418302-stream/playlist.m3u8?wsSecret=4e7ad09fa0a379a12765138f84290c53&wsABSTime=5f8b0037&wsSession=295dff1fe1578d80262812ac-160294148275938&wsIPSercert=0301cb953355bc2342f20efe21b30338&wsMonitor=0
+https://v.wyljc.com/live/sd-1-3418308-stream/playlist.m3u8?wsSecret=6c843748a6e11fe0f03748883a43e8c8&wsABSTime=5f943a2c&wsSession=17d40698e094e123ec060788-160354598605095&wsIPSercert=88137a73fd749bbabb31b1ce44930cc3&wsMonitor=0
 #EXTINF:-1 tvg-logo="https://www.egypttoday.com/siteimages/larg/17785.jpg" group-title="Live Stream",ZML Bundesliga Live5
-https://v.wyljc.com/live/sd-1-3418300-stream/playlist.m3u8?wsSecret=6bb21c29f4b7d9a9590d7671b685aabe&wsABSTime=5f8b017b&wsSession=295dff1fe1578d80262812ac-160294180729643&wsIPSercert=0301cb953355bc2342f20efe21b30338&wsMonitor=0
+https://v.wyljc.com/live/sd-1-3418310-stream/playlist.m3u8?wsSecret=47bb2ee45a58c9ef7cbd5d5266e2a15e&wsABSTime=5f943a61&wsSession=17d40698e094e123ec060788-160354598605095&wsIPSercert=88137a73fd749bbabb31b1ce44930cc3&wsMonitor=0
 
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Other Sports",INDO BEINSPORT1
 https://vcdnjt.useetv.com/dass/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8
