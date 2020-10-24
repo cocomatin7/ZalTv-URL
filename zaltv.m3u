@@ -267,7 +267,7 @@ https://v.wyljc.com/live/sd-1-3441067-stream/playlist.m3u8?wsSecret=a286a8fb1278
 https://v.wyljc.com/live/hd-zh-1-3441057-stream/playlist.m3u8?wsSecret=d0718994862904417b4cfdb1efc238c0&wsABSTime=5f79d547&wsSession=295dff1fe1578d80262812ac-160181637703837&wsIPSercert=4312e18402f1d0b73f1d56b11a2e681e&wsMonitor=0
 
 #EXTINF:-1 tvg-logo="https://www.leadersinsport.com/wp-content/uploads/2018/02/Ligue-1-Conforama.jpg" group-title="Live Stream",ZML Ligue Live1
-http://116.203.228.176/hls/bein6.m3u8
+http://cdn1.52dvb.xyz:80/5005/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.leadersinsport.com/wp-content/uploads/2018/02/Ligue-1-Conforama.jpg" group-title="Live Stream",ZML Ligue Live2
 https://v.wyljc.com/live/sd-1-3399226-stream/playlist.m3u8?wsSecret=c911890adcab56081fee1f9f6f5c7ce0&wsABSTime=5f8c4dbd&wsSession=295dff1fe1578d80262812ac-160302660766817&wsIPSercert=0301cb953355bc2342f20efe21b30338&wsMonitor=0
 #EXTINF:-1 tvg-logo="https://www.leadersinsport.com/wp-content/uploads/2018/02/Ligue-1-Conforama.jpg" group-title="Live Stream",ZML Ligue Live3
@@ -419,9 +419,9 @@ http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/289545.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 1HD
-http://88.198.207.99/hls/bein1.m3u8
+http://cdn1.52dvb.xyz:80/5000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 2HD
-http://116.203.182.40/hls/bein2.m3u8 
+http://cdn1.52dvb.xyz:80/5001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 3HD
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6124/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 4HD
