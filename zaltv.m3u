@@ -117,7 +117,7 @@ https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa3
 http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/stream_2.m3u8
 
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier-football-ph.png",Football sport 1
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/2db98b03bfb24a8d86d2715332458e40/chunklist_b4628000.m3u8?p=79&s=1603636079&e=1603636199&h=701e19902e21fc09f3424beaab59a9d9
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/bd25a2710ea8456bafeb6099c56989e7/chunklist_b4628000.m3u8?p=79&s=1603642883&e=1603643003&h=6855e1d4b1272a77753d9079c28dbe6a
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier-football-ph.png",Football sport 2
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/4f70b97dd8f94e069d800f89acfc8ff9/chunklist_b4628000.m3u8?p=79&s=1603636187&e=1603636307&h=9f7de4abb6b7d9f6ddccadf9570fd18a
 
@@ -257,7 +257,7 @@ http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2545/index.m3u8
 #EXTINF:-1 tvg-logo="https://kokommawilliams.com/wp-content/uploads/2019/05/Premier-league.jpg" group-title="Live Stream",ZML EPL LIVE2
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/a7c8b3630f5fe86.m3u8
 #EXTINF:-1 tvg-logo="https://kokommawilliams.com/wp-content/uploads/2019/05/Premier-league.jpg" group-title="Live Stream",ZML EPL LIVE3
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/662141618f7e003.m3u8
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/bd25a2710ea8456bafeb6099c56989e7/chunklist_b4628000.m3u8?p=79&s=1603642883&e=1603643003&h=6855e1d4b1272a77753d9079c28dbe6a
 
 #EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/GOAL/82/d7/serie-a-logo-2019-20_49q9flr9v9qp1k738igyi2xaf.png?t=-982278464" group-title="Live Stream",ZML Serie A LIVE1
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/bb30e347106d408.m3u8
