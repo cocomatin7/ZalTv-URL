@@ -255,12 +255,14 @@ http://103.208.24.234:1935/thaisport/hd-foxsports3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://kokommawilliams.com/wp-content/uploads/2019/05/Premier-league.jpg" group-title="Live Stream",ZML EPL LIVE1
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2545/index.m3u8
 #EXTINF:-1 tvg-logo="https://kokommawilliams.com/wp-content/uploads/2019/05/Premier-league.jpg" group-title="Live Stream",ZML EPL LIVE2
-https://v.wyljc.com/live/sd-1-3428818-stream/playlist.m3u8?wsSecret=0b60e978ab65fc4acf5eb9bbd71d5c4b&wsABSTime=5f9593e8&wsSession=17d40698e094e123ec060788-160363461979993&wsIPSercert=88137a73fd749bbabb31b1ce44930cc3&wsMonitor=0
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/a7c8b3630f5fe86.m3u8
+#EXTINF:-1 tvg-logo="https://kokommawilliams.com/wp-content/uploads/2019/05/Premier-league.jpg" group-title="Live Stream",ZML EPL LIVE3
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/662141618f7e003.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/GOAL/82/d7/serie-a-logo-2019-20_49q9flr9v9qp1k738igyi2xaf.png?t=-982278464" group-title="Live Stream",ZML Serie A LIVE1
-https://v.wyljc.com/live/sd-1-3441072-stream/playlist.m3u8?wsSecret=b1078952cb7066e88674a50b6eda9a83&wsABSTime=5f9592dc&wsSession=17d40698e094e123ec060788-160363438199817&wsIPSercert=88137a73fd749bbabb31b1ce44930cc3&wsMonitor=0
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/bb30e347106d408.m3u8
 #EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/GOAL/82/d7/serie-a-logo-2019-20_49q9flr9v9qp1k738igyi2xaf.png?t=-982278464" group-title="Live Stream",ZML Serie A LIVE2
-https://v.wyljc.com/live/sd-1-3441078-stream/playlist.m3u8?wsSecret=39edb285a3c78505015d543be1536d95&wsABSTime=5f959312&wsSession=17d40698e094e123ec060788-160363438199817&wsIPSercert=88137a73fd749bbabb31b1ce44930cc3&wsMonitor=0
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/f982966b84c04e0.m3u8
 #EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/GOAL/82/d7/serie-a-logo-2019-20_49q9flr9v9qp1k738igyi2xaf.png?t=-982278464" group-title="Live Stream",ZML Serie A LIVE3
 https://v.wyljc.com/live/hd-zh-1-3441057-stream/playlist.m3u8?wsSecret=d0718994862904417b4cfdb1efc238c0&wsABSTime=5f79d547&wsSession=295dff1fe1578d80262812ac-160181637703837&wsIPSercert=4312e18402f1d0b73f1d56b11a2e681e&wsMonitor=0
 
@@ -279,11 +281,11 @@ https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 https://v.wyljc.com/live/hd-zh-1-3439000-stream/playlist.m3u8?wsSecret=17ce2cc3987b6a88d7c14ee9d79c6809&wsABSTime=5f95a30d&wsSession=17d40698e094e123ec060788-160363852744394&wsIPSercert=88137a73fd749bbabb31b1ce44930cc3&wsMonitor=0
 
 #EXTINF:-1 tvg-logo="https://www.egypttoday.com/siteimages/larg/17785.jpg" group-title="Live Stream",ZML Bundesliga Live1
-http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/522/index.m3u8
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2527/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.egypttoday.com/siteimages/larg/17785.jpg" group-title="Live Stream",ZML Bundesliga Live2
-https://v.wyljc.com/live/sd-1-3418312-stream/playlist.m3u8?wsSecret=2b8a6702af24bede2992ffbc98a8918b&wsABSTime=5f95a2be&wsSession=17d40698e094e123ec060788-160363844871584&wsIPSercert=88137a73fd749bbabb31b1ce44930cc3&wsMonitor=0
+http://37.48.86.45:8182/OTEsport3/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.egypttoday.com/siteimages/larg/17785.jpg" group-title="Live Stream",ZML Bundesliga Live3
-https://v.wyljc.com/live/sd-1-3418307-stream/playlist.m3u8?wsSecret=89b85d293f495b68a8b56e842d917ada&wsABSTime=5f9439ff&wsSession=17d40698e094e123ec060788-160354598605095&wsIPSercert=88137a73fd749bbabb31b1ce44930cc3&wsMonitor=0
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/b7d5ba889aec45d.m3u8
 #EXTINF:-1 tvg-logo="https://www.egypttoday.com/siteimages/larg/17785.jpg" group-title="Live Stream",ZML Bundesliga Live4
 https://v.wyljc.com/live/sd-1-3418308-stream/playlist.m3u8?wsSecret=6c843748a6e11fe0f03748883a43e8c8&wsABSTime=5f943a2c&wsSession=17d40698e094e123ec060788-160354598605095&wsIPSercert=88137a73fd749bbabb31b1ce44930cc3&wsMonitor=0
 #EXTINF:-1 tvg-logo="https://www.egypttoday.com/siteimages/larg/17785.jpg" group-title="Live Stream",ZML Bundesliga Live5
