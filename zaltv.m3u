@@ -119,7 +119,7 @@ http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlea
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier-football-ph.png",Football sport 1
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/7d58c543420239a.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier-football-ph.png",Football sport 2
-https://verizon-me.cdn.booyah.live/hls/113132/28340401.m3u8
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 
 #EXTINF:-1 tvg-id="FOXSports2.my" tvg-logo="https://i.imgur.com/n3ieiWB.png" group-title="Sports",Fox Sport 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
@@ -141,8 +141,6 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/cb15bb5b0d62c2
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-ten3.png" group-title="Sports",Sony Ten 3HD
 https://load.airtelxstream.in/sonyten3/smil:common.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="Sports",Sony SIX HD
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png",Ten Sports
 
 
 #EXTINF:-1 group-title="Sports"tvg-logo="https://teevee-hd.com/img/premierfootball1.png",Premier Sport HD1
@@ -297,16 +295,10 @@ https://vcdnjt.useetv.com/dass/15/bein1/chunklist_w569980004_b684100_sleng_enc=s
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein2_big1.png" group-title="Other Sports",INDO BEINSPORT2
 https://vcdnjt.useetv.com/dass/15/bein2/chunklist_w1901250353_b684100_sleng_enc=5cE0loIMo_OWpCpoD6CJEA.m3u8
 
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Other Sports",THAI BEINSPORT1
-
-#EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein2_big1.png" group-title="Other Sports",THAI BEINSPORT2
-
-
 #EXTINF: -1 tvg-name="Champion TV 1" tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Other Sports",UCL TV1
 https://vcdnjt.useetv.com/dass/15/champion1/chunklist_w2141102661_b894100_sleng_57560.m3u8
 #EXTINF: -1 tvg-name="Champion TV 2" tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Other Sports",UCL TV2 
 https://vcdnjt.useetv.com/dass/15/champion2/chunklist_w670832473_b894100_sleng_4798.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/sky-sports-football.jpg" group-title="Other Sports",Sky Sport 1 HD
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2478/index.m3u8
@@ -314,17 +306,15 @@ http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2478/index.m3u8
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2479/index.m3u8
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/sky-sports-football.jpg" group-title="Other Sports",Sky Sport Bundesliga
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2480/index.m3u8
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/sky-sports-football.jpg" group-title="Other Sports",Sky Sport News HD
-http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2477/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_1_Small.png" group-title="Other Sports",BT SPORT1
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/fea33ea852eaea6.m3u8
+
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_2_Small.png" group-title="Other Sports",BT SPORT2
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/1e74c19cfaf3f06.m3u8
+
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_3_Small.png" group-title="Other Sports",BT SPORT3
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/7995eb557304c65.m3u8
+
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_ESPN_Small.png" group-title="Other Sports",BT SPORT ESPN
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/8a877dbc4de64e4.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/RMC-Sport-1-Logo.png" group-title="Other Sports",RMC Sport 1 HD
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2545/index.m3u8
@@ -343,8 +333,6 @@ http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2527/index.m3u8
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2528/index.m3u8
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/SportTV5-Small.png" group-title="Other Sports",SPORT TV 5
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2529/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_mais.png" group-title="Other Sports",SPORT TV + 
-http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2530/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/Eleven-Sports-1-Poland-Small.png" group-title="Other Sports",Eleven Sports 1
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2518/index.m3u8
@@ -375,7 +363,7 @@ http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/107/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=81142579&t=1581509776804" group-title="Other Sports",SPORT 1HD
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/0b7d4e27c12dade.m3u8
+http://37.48.86.45:8182/OTEsport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=50065483&t=1536151166635" group-title="Other Sports",SPORT 2HD
 http://37.48.86.45:8182/OTEsport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=50065507&t=1536151167628" group-title="Other Sports",SPORT 3HD
@@ -393,20 +381,7 @@ http://37.48.86.45:8182/OTEsport8/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=49297261&t=1535101456094" group-title="Other Sports",SPORT 9HD
 http://37.48.86.45:8182/OTEsport9/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="Other Sports",Supersport Premier
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-la-liga-za.png" group-title="Other Sports",Supersport Laliga
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-plus-za.png" group-title="Other Sports",Supersport Football
-
-
-
 #EXTINF:-1 tvg-logo="" group-title="Other Sports",
-
-#EXTINF:-1 tvg-logo="" group-title="Other Sports",
-
-#EXTINF:-1 tvg-logo="" group-title="Other Sports",
-
 
 #EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Champion League",UCL 1HD
 
