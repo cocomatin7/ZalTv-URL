@@ -119,7 +119,7 @@ http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlea
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier-football-ph.png",Football sport 1
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/bd25a2710ea8456bafeb6099c56989e7/chunklist_b4628000.m3u8?p=79&s=1603642883&e=1603643003&h=6855e1d4b1272a77753d9079c28dbe6a
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier-football-ph.png",Football sport 2
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/4f70b97dd8f94e069d800f89acfc8ff9/chunklist_b4628000.m3u8?p=79&s=1603636187&e=1603636307&h=9f7de4abb6b7d9f6ddccadf9570fd18a
+https://u86715.cdn884.net:8443/hls/dftsbx86z8qhvbg.m3u8?s=lVMMGiNx6FpMh1ESIC0zbQ&e=1603665661
 
 #EXTINF:-1 tvg-id="FOXSports2.my" tvg-logo="https://i.imgur.com/n3ieiWB.png" group-title="Sports",Fox Sport 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
@@ -255,7 +255,7 @@ http://103.208.24.234:1935/thaisport/hd-foxsports3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://kokommawilliams.com/wp-content/uploads/2019/05/Premier-league.jpg" group-title="Live Stream",ZML EPL LIVE1
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2545/index.m3u8
 #EXTINF:-1 tvg-logo="https://kokommawilliams.com/wp-content/uploads/2019/05/Premier-league.jpg" group-title="Live Stream",ZML EPL LIVE2
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/a7c8b3630f5fe86.m3u8
+https://u86715.cdn884.net:8443/hls/dftsbx86z8qhvbg.m3u8?s=lVMMGiNx6FpMh1ESIC0zbQ&e=1603665661
 #EXTINF:-1 tvg-logo="https://kokommawilliams.com/wp-content/uploads/2019/05/Premier-league.jpg" group-title="Live Stream",ZML EPL LIVE3
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/bd25a2710ea8456bafeb6099c56989e7/chunklist_b4628000.m3u8?p=79&s=1603642883&e=1603643003&h=6855e1d4b1272a77753d9079c28dbe6a
 
