@@ -260,7 +260,7 @@ https://verizon-me.cdn.booyah.live/hls/113132/28340401.m3u8
 #EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/GOAL/82/d7/serie-a-logo-2019-20_49q9flr9v9qp1k738igyi2xaf.png?t=-982278464" group-title="Live Stream",ZML Serie A LIVE1
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/530/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/GOAL/82/d7/serie-a-logo-2019-20_49q9flr9v9qp1k738igyi2xaf.png?t=-982278464" group-title="Live Stream",ZML Serie A LIVE2
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/e28d03bc11b8456592af36fa67213bd4/chunklist_b4628000.m3u8?p=79&s=1603561217&e=1603561337&h=68a830938a9da15323320f683f7bc9df
+https://v.wyljc.com/live/sd-1-3441073-stream/playlist.m3u8?wsSecret=5f40a4670c10cb62b1ca8ab267878782&wsABSTime=5f956eb8&wsSession=17d40698e094e123ec060788-160362513032197&wsIPSercert=88137a73fd749bbabb31b1ce44930cc3&wsMonitor=0
 #EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/GOAL/82/d7/serie-a-logo-2019-20_49q9flr9v9qp1k738igyi2xaf.png?t=-982278464" group-title="Live Stream",ZML Serie A LIVE3
 https://v.wyljc.com/live/hd-zh-1-3441057-stream/playlist.m3u8?wsSecret=d0718994862904417b4cfdb1efc238c0&wsABSTime=5f79d547&wsSession=295dff1fe1578d80262812ac-160181637703837&wsIPSercert=4312e18402f1d0b73f1d56b11a2e681e&wsMonitor=0
 
@@ -307,11 +307,11 @@ http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2479/index.m3u8
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2480/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_1_Small.png" group-title="Other Sports",BT SPORT1
-
+http://hd7.mixcasthd.com:8080/hls/saUgXjxtZ220190901.m3u8?hlsendtime=1603628760&hlsstarttime=0&hlshash=PEOWSxA8P_AIE0sWz4H6bnMi2Nv4qbmyuzAThzOeEi4=
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_2_Small.png" group-title="Other Sports",BT SPORT2
-
+http://hd74.mixcasthd.com:8080/hls/R8z5vxADlQ20190901.m3u8?hlsendtime=1603628820&hlsstarttime=0&hlshash=fNdkl8VFzPJboG-v5vGTv8nQYnrfMyCPx5vfcRowO58=
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_3_Small.png" group-title="Other Sports",BT SPORT3
-
+http://hd77.mixcasthd.com:8080/hls/VeNYLBwr7J20190901.m3u8?hlsendtime=1603628880&hlsstarttime=0&hlshash=WLDiCM7zms6_MD_DLqvxJWmDY7xm5x5TrJPnKKuLZfE=
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_ESPN_Small.png" group-title="Other Sports",BT SPORT ESPN
 
 
