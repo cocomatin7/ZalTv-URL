@@ -356,7 +356,7 @@ http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/522/index.m3u8
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/Match-Premier-TV.png" group-title="Other Sports",Match! Premier
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/531/index.m3u8
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/MatchTV.png" group-title="Other Sports",Match! Tv
-http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/535/index.m3u8
+http://195.191.208.80:80/jwt/4497e44f4252b7acb1d1412d7e0fd83b882181e9-520-0-24h502315-None-90559203-1587035792--v2A0n6gqPo7LzFYq89o-QvUbXYdxs_gCJqlVLkKfy5o-0
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/Match-Igra-Logo.png" group-title="Other Sports",Match! Game
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/529/index.m3u8
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/Match-Arena-Logo.png" group-title="Other Sports",Match! Arena
