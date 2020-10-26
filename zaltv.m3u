@@ -154,13 +154,13 @@ http://103.208.24.234:1935/thaisport/epl-4.stream/playlist.m3u8
 http://103.208.24.234:1935/thaisport/epl-5.stream/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="Sports",ASTRO SUPERSPORTS 1
-
+http://newhostshare.ddns.net:9981/stream/service/79610d1a1bd4881f46fb301566bd856c?ticket=7cf95c378fa8017b5cd1463edb622947cd34fb0b
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="Sports",ASTRO SUPERSPORTS 2
-
+http://newhostshare.ddns.net:9981/stream/service/6c7cadd7615014a39488bba1af1af7fe?ticket=f221GV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGi53
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="Sports",ASTRO SUPERSPORTS 3 
-
+http://newhostshare.ddns.net:9981/stream/service/6caa1fa8b58b1a7f64953752dc46d235?ticket=20667837d77cd2dc1e57b753424c8af13de0daa5
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_4.png" group-title="Sports",ASTRO SUPERSPORTS 4 
-
+http://newhostshare.ddns.net:9981/stream/service/9b4267cd07d0f076b723b83e74b5b8da?ticket=af0d51a8d2be8042320ff1780269373e6510626d
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/sky-sports-football.jpg" group-title="Sports",SKYSPORT FOOTBALL
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/783628543cc0680.m3u8
