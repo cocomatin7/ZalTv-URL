@@ -119,7 +119,7 @@ http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlea
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier-football-ph.png",Football sport 1
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/bd25a2710ea8456bafeb6099c56989e7/chunklist_b4628000.m3u8?p=79&s=1603642883&e=1603643003&h=6855e1d4b1272a77753d9079c28dbe6a
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier-football-ph.png",Football sport 2
-https://v.wyljc.com/live/sd-1-3428822-stream/playlist.m3u8?wsSecret=ef2a8d85c5c42c789862bca7ae6b9936&wsABSTime=5f95bacf&wsSession=17d40698e094e123ec060788-160364461619714&wsIPSercert=85e2f79c2d566716c7ab81374b30a734&wsMonitor=0
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/599d08ef94614a478eb307368ccd7bea/chunklist_b4628000.m3u8?p=79&s=1603729736&e=1603729856&h=1ada7cdcf19aadfbc2fbd7ed67f50a0e
 
 #EXTINF:-1 tvg-id="FOXSports2.my" tvg-logo="https://i.imgur.com/n3ieiWB.png" group-title="Sports",Fox Sport 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
