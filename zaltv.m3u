@@ -320,11 +320,13 @@ http://hd77.mixcasthd.com:8080/hls/VeNYLBwr7J20190901.m3u8?hlsendtime=1603628880
 
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/RMC-Sport-1-Logo.png" group-title="Other Sports",RMC Sport 1 HD
-http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2545/index.m3u8
+http://62.210.100.8:8081/yacinetv/RmcSport1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMCAxMjoxNDo1MyBQTSZoYXNoX3ZhbHVlPWZVQVJqN2t5YmpBa0xkSHJpRDNDNGc9PSZ2YWxpZG1pbnV0ZXM9NjA=
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/RMC-Sport-2-Logo.png" group-title="Other Sports",RMC Sport 2 HD
-http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2546/index.m3u8
+http://62.210.100.8:8081/yacinetv/RmcSport2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMCAxMjoxNTo1NyBQTSZoYXNoX3ZhbHVlPTM0WHNFa1dSbloyWFRwTTAzTDhmeHc9PSZ2YWxpZG1pbnV0ZXM9NjA=
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/RMC-Sport-3-Logo.png" group-title="Other Sports",RMC Sport 3 HD
-http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2547/index.m3u8
+http://62.210.100.8:8081/yacinetv/RmcSport3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMCAxMjoxMzozMSBQTSZoYXNoX3ZhbHVlPVd0NUkzZ0FONUt0MkZJbmRPbTRzckE9PSZ2YWxpZG1pbnV0ZXM9NjA=
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/RMC-Sport-3-Logo.png" group-title="Other Sports",RMC Sport 4 HD
+http://62.210.100.8:8081/yacinetv/RmcSport4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMCAxMjoxNzoxMCBQTSZoYXNoX3ZhbHVlPXUxSWZaMFYwQ29TdHBZRUNzRFN4MUE9PSZ2YWxpZG1pbnV0ZXM9NjA=
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/SportTV1-Small.png" group-title="Other Sports",SPORT TV 1
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2525/index.m3u8
@@ -405,7 +407,7 @@ http://dx4.gcdn.co/UKS1764/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 1HD
-http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6123/index.m3u8
+http://185.246.210.53:2200/EX/bein1hd-ar/index.m3u8?token=RED_jMPyjBcKfXPtMwZAZbgvhQ==,1603778843.1515923156&t=1&s=1&p=1&c=MA&r=65
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 2HD
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/265924.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 3HD
