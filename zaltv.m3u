@@ -163,11 +163,11 @@ http://newhostshare.ddns.net:9981/stream/service/6caa1fa8b58b1a7f64953752dc46d23
 http://newhostshare.ddns.net:9981/stream/service/9b4267cd07d0f076b723b83e74b5b8da?ticket=af0d51a8d2be8042320ff1780269373e6510626d
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/sky-sports-football.jpg" group-title="Sports",SKYSPORT FOOTBALL
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/783628543cc0680.m3u8
+http://live.darkside-iptv.com:8080/live/Pegx7EE5PD/aRIoIYawJu/111742.m3u8
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/sky-sports-premier-league.jpg" group-title="Sports",SKYSPORT PREMIER
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/5287ef2dc1aba35.m3u8
+http://live.darkside-iptv.com:8080/live/Pegx7EE5PD/aRIoIYawJu/111741.ts
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/sky-sports-premier-league.jpg" group-title="Sports",SKYSPORT Main Event
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/33fcb1c13949513.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_1_Small.png" group-title="Sports",BT SPORT1
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
@@ -175,13 +175,10 @@ https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbcsn-us.png" group-title="Sports",NBCSN EPL
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/a7c8b3630f5fe86.m3u8
+http://live.darkside-iptv.com:8080/live/Pegx7EE5PD/aRIoIYawJu/113683.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-1-fr.png" group-title="Sports",RMC SPORT1 EPL
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/a7c8b3630f5fe86.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/za6Xk9g.jpg" group-title="Sports",La Liga TV
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-W1C5VkHUfZ0/XNVkWcPkeVI/AAAAAAAB7SA/MHIL4VRPGNIjW16Iy54aoS5jLEzMBOO9gCLcBGAs/s1600/all-new-serie-a-logo%2B%25282%2529.jpg" group-title="Sports",Serie A Live
-
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-pt-sport-tv-1-450.png" group-title="Sports", Sport TV 1
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
@@ -349,13 +346,13 @@ http://185.246.210.53:2200/NL/elevensports3-por/index.m3u8?token=RED_cRGoXsmnvpR
 http://185.246.210.53:2200/NL/elevensports4-por/index.m3u8?token=RED_cRGoXsmnvpRnS0tsQOTM4g==,1603749048.2778340158&t=1&s=1&p=1&c=BR&r=65
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-1-fr.png" group-title="Other Sports",RMC Sport 1 HD
-http://62.210.100.8:8081/yacinetv/RmcSport1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMCAxMjoxNDo1MyBQTSZoYXNoX3ZhbHVlPWZVQVJqN2t5YmpBa0xkSHJpRDNDNGc9PSZ2YWxpZG1pbnV0ZXM9NjA=
+http://live.darkside-iptv.com:8080/live/Pegx7EE5PD/aRIoIYawJu/132392.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-2-fr.png" group-title="Other Sports",RMC Sport 2 HD
-http://62.210.100.8:8081/yacinetv/RmcSport2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMCAxMjoxNTo1NyBQTSZoYXNoX3ZhbHVlPTM0WHNFa1dSbloyWFRwTTAzTDhmeHc9PSZ2YWxpZG1pbnV0ZXM9NjA=
+http://live.darkside-iptv.com:8080/live/Pegx7EE5PD/aRIoIYawJu/132393.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-3-fr.png" group-title="Other Sports",RMC Sport 3 HD
-http://62.210.100.8:8081/yacinetv/RmcSport3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMCAxMjoxMzozMSBQTSZoYXNoX3ZhbHVlPVd0NUkzZ0FONUt0MkZJbmRPbTRzckE9PSZ2YWxpZG1pbnV0ZXM9NjA=
+http://live.darkside-iptv.com:8080/live/Pegx7EE5PD/aRIoIYawJu/132394.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-4-fr.png" group-title="Other Sports",RMC Sport 4 HD
-http://62.210.100.8:8081/yacinetv/RmcSport4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMCAxMjoxNzoxMCBQTSZoYXNoX3ZhbHVlPXUxSWZaMFYwQ29TdHBZRUNzRFN4MUE9PSZ2YWxpZG1pbnV0ZXM9NjA=
+http://live.darkside-iptv.com:8080/live/Pegx7EE5PD/aRIoIYawJu/132461.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="Other Sports",Super Premierleague
 http://dx4.gcdn.co/UKS1762/index.m3u8
@@ -365,30 +362,30 @@ http://dx4.gcdn.co/UKS1763/index.m3u8
 http://dx4.gcdn.co/UKS1764/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/sky-sports-football.jpg" group-title="Other Sports",Sky Sport 1 HD
-http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2478/index.m3u8
+http://live.darkside-iptv.com:8080/live/Pegx7EE5PD/aRIoIYawJu/7966.m3u8
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/sky-sports-football.jpg" group-title="Other Sports",Sky Sport 2 HD
-http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2479/index.m3u8
+http://live.darkside-iptv.com:8080/live/Pegx7EE5PD/aRIoIYawJu/7967.m3u8
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/sky-sports-football.jpg" group-title="Other Sports",Sky Sport Bundesliga
-http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2480/index.m3u8
+http://live.darkside-iptv.com:8080/live/Pegx7EE5PD/aRIoIYawJu/7978.m3u8
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_1_Small.png" group-title="Other Sports",BT SPORT1
-http://hd7.mixcasthd.com:8080/hls/saUgXjxtZ220190901.m3u8?hlsendtime=1603628760&hlsstarttime=0&hlshash=PEOWSxA8P_AIE0sWz4H6bnMi2Nv4qbmyuzAThzOeEi4=
+http://live.darkside-iptv.com:8080/live/Pegx7EE5PD/aRIoIYawJu/111753.m3u8
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_2_Small.png" group-title="Other Sports",BT SPORT2
-http://hd74.mixcasthd.com:8080/hls/R8z5vxADlQ20190901.m3u8?hlsendtime=1603628820&hlsstarttime=0&hlshash=fNdkl8VFzPJboG-v5vGTv8nQYnrfMyCPx5vfcRowO58=
+http://live.darkside-iptv.com:8080/live/Pegx7EE5PD/aRIoIYawJu/111780.m3u8
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_3_Small.png" group-title="Other Sports",BT SPORT3
-http://hd77.mixcasthd.com:8080/hls/VeNYLBwr7J20190901.m3u8?hlsendtime=1603628880&hlsstarttime=0&hlshash=WLDiCM7zms6_MD_DLqvxJWmDY7xm5x5TrJPnKKuLZfE=
+http://live.darkside-iptv.com:8080/live/Pegx7EE5PD/aRIoIYawJu/111755.m3u8
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_ESPN_Small.png" group-title="Other Sports",BT SPORT ESPN
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/SportTV1-Small.png" group-title="Other Sports",SPORT TV 1
-http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2525/index.m3u8
+http://live.darkside-iptv.com:8080/live/Pegx7EE5PD/aRIoIYawJu/45456.m3u8
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/SportTV2-Small.png" group-title="Other Sports",SPORT TV 2
-http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2526/index.m3u8
+http://live.darkside-iptv.com:8080/live/Pegx7EE5PD/aRIoIYawJu/71124.m3u8
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/SportTV3-Small.png" group-title="Other Sports",SPORT TV 3
-http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2527/index.m3u8
+http://live.darkside-iptv.com:8080/live/Pegx7EE5PD/aRIoIYawJu/71132.m3u8
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/SportTV4-Small.png" group-title="Other Sports",SPORT TV 4
-http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2528/index.m3u8
+http://live.darkside-iptv.com:8080/live/Pegx7EE5PD/aRIoIYawJu/202650.m3u8
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/SportTV5-Small.png" group-title="Other Sports",SPORT TV 5
-http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2529/index.m3u8
+http://live.darkside-iptv.com:8080/live/Pegx7EE5PD/aRIoIYawJu/22802.m3u8
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/Eleven-Sports-1-Poland-Small.png" group-title="Other Sports",Eleven Sports 1
 http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/2518/index.m3u8
