@@ -116,6 +116,23 @@ https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa3
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_asia.png" group-title="Movies",CINEMAX Myanmar
 http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/stream_2.m3u8
 
+#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Champion Live",လိုကိုမိုးတစ် Vs ဘိုင်ယန်
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Champion Live",အေတီကို Vs ဆဲလ်ဘတ်
+http://185.246.210.53:2200/NL/elevensports3-por/index.m3u8?token=RED_qkqrTSIobTFmeixnYN9ywg==,1603868647.2778340158&t=1&s=1&p=1&c=BR&r=65
+#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Champion Live",ရှက်တာ Vs အင်တာ
+http://185.246.210.53:2200/NL/elevensports2hd-por/index.m3u8?token=RED_qkqrTSIobTFmeixnYN9ywg==,1603868647.2778340158&t=1&s=1&p=1&c=BR&r=65
+#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Champion Live",ဂါလာဘတ် Vs ရီရဲမက်ဒရစ်
+http://185.246.210.53:2200/NL/elevensports4-por/index.m3u8?token=RED_qkqrTSIobTFmeixnYN9ywg==,1603868647.2778340158&t=1&s=1&p=1&c=BR&r=65
+#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Champion Live",ပေါ်တို Vs အိုလန်ပီယာ
+http://185.246.210.53:2200/NL/elevensports1hd-por/index.m3u8?token=RED_qkqrTSIobTFmeixnYN9ywg==,1603868647.2778340158&t=1&s=1&p=1&c=BR&r=65
+#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Champion Live",မာဆေး Vs မန်စီးတီး
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Champion Live",အတ္တ Vs အေဂျက်
+http://185.246.210.53:2200/NL/elevensports6-por/index.m3u8?token=RED_qkqrTSIobTFmeixnYN9ywg==,1603868647.2778340158&t=1&s=1&p=1&c=BR&r=65
+#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Champion Live",လီဗာပူး Vs Midtjylland
+http://185.246.210.53:2200/NL/elevensports5-por/index.m3u8?token=RED_qkqrTSIobTFmeixnYN9ywg==,1603868647.2778340158&t=1&s=1&p=1&c=BR&r=65
+
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier-football-ph.png",Football sport 1
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/bd25a2710ea8456bafeb6099c56989e7/chunklist_b4628000.m3u8?p=79&s=1603642883&e=1603643003&h=6855e1d4b1272a77753d9079c28dbe6a
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier-football-ph.png",Football sport 2
@@ -302,6 +319,10 @@ https://vcdnjt.useetv.com/dass/15/bein2/chunklist_w1901250353_b684100_sleng_enc=
 https://vcdnjt.useetv.com/dass/15/champion1/chunklist_w2141102661_b894100_sleng_57560.m3u8
 #EXTINF: -1 tvg-name="Champion TV 2" tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Other Sports",Champion TV2 
 https://vcdnjt.useetv.com/dass/15/champion2/chunklist_w670832473_b894100_sleng_4798.m3u8
+#EXTINF: -1 tvg-name="Champion TV 2" tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Other Sports",Champion TV3
+http://130.193.165.50:4000/play/a004/index.m3u8
+#EXTINF: -1 tvg-name="Champion TV 2" tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Other Sports",Champion TV4
+http://195.191.208.80:80/jwt/4497e44f4252b7acb1d1412d7e0fd83b882181e9-520-0-24h502315-None-90559203-1587035792--v2A0n6gqPo7LzFYq89o-QvUbXYdxs_gCJqlVLkKfy5o-0
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/SUPERSPORT2.png" group-title="Other Sports",SUPER SPORT 2
 http://144.76.91.70:8081/streamrtmp/ss2/playlist.m3u8
@@ -408,21 +429,23 @@ http://195.191.208.80:80/jwt/4497e44f4252b7acb1d1412d7e0fd83b882181e9-520-0-24h5
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/Match-Strana-Logo.png" group-title="Other Sports",Match! Country
 
-#EXTINF:-1 tvg-logo="" group-title="Other Sports",SPORT PREMIUN
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat_sport.png" group-title="Other Sports",SPORT PREMIUN
 http://130.193.165.50:4000/play/a004/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Champion League",UCL 1HD
-
+http://37.48.86.45:8182/OTEsport5/index.m3u8
 #EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Champion League",UCL 2HD
-
+http://37.48.86.45:8182/OTEsport8/index.m3u8
 #EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Champion League",UCL 3HD
-
+http://37.48.86.45:8182/OTEsport4/index.m3u8
 #EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Champion League",UCL 4HD
-
+http://37.48.86.45:8182/OTEsport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Champion League",UCL 5HD
-
+http://37.48.86.45:8182/OTEsport3/index.m3u8
 #EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Champion League",UCL 6HD
-
+http://37.48.86.45:8182/OTEsport9/index.m3u8
+#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Champion League",UCL 6HD
+http://37.48.86.45:8182/OTEsport7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 1HD
 http://fariszah.myq-see.com:8008/live/demo/demo/2322.m3u8
