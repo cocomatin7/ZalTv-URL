@@ -163,9 +163,9 @@ http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 http://newhostshare.ddns.net:9981/stream/service/9b4267cd07d0f076b723b83e74b5b8da?ticket=af0d51a8d2be8042320ff1780269373e6510626d
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/sky-sports-football.jpg" group-title="Sports",SKYSPORT FOOTBALL
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/275638.m3u8
+
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/sky-sports-premier-league.jpg" group-title="Sports",SKYSPORT PREMIER
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/269696.m3u8
+
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/sky-sports-premier-league.jpg" group-title="Sports",SKYSPORT Main Event
 
 
@@ -175,7 +175,7 @@ https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbcsn-us.png" group-title="Sports",NBCSN EPL
-http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/7995.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-1-fr.png" group-title="Sports",RMC SPORT1 EPL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/za6Xk9g.jpg" group-title="Sports",La Liga TV
@@ -362,11 +362,11 @@ http://dx4.gcdn.co/UKS1763/index.m3u8
 http://dx4.gcdn.co/UKS1764/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/sky-sports-football.jpg" group-title="Other Sports",Sky Sport 1 HD
-http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/67147.m3u8
+
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/sky-sports-football.jpg" group-title="Other Sports",Sky Sport 2 HD
-http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/67142.m3u8
+
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/sky-sports-football.jpg" group-title="Other Sports",Sky Sport Bundesliga
-http://dmtn.tv:8080/live/mypaneltv/TrPz3bKeRfZE8/67101.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_1_Small.png" group-title="Other Sports",BT SPORT1
 
