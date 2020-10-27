@@ -11,7 +11,7 @@ https://live.mahar.tv/channel/mahar-web.smil/chunklist_w1446203491_b800000.m3u8?
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-k-mm.png" group-title="Myanmar TV",Channel K
 https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ff/fortune-tv-mm.png" group-title="Myanmar TV",Fortune TV
-https://59nyq69ndwap-hls-live.5centscdn.com/myanmar/fortune.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMC8yMDIwIDE6NDg6MjQgUE0maGFzaF92YWx1ZT02bXF1TFJSZFpTWjNLcEdkWHAyNkZ3PT0mdmFsaWRtaW51dGVzPTI1JnN0cm1fbGVuPTIy
+http://live-aec.sky-cdn.com/aec_live/Fortune.stream_360p/chunklist_w1408103827.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mizzima-tv-mm.png" group-title="Myanmar TV",Mizzima TV
 http://220.158.149.28:8180/TV00000000000000000170@HHZT?checkedby:hlscat.com
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/democratic_voice_of_burma.png" group-title="Myanmar TV",DVB
@@ -337,13 +337,13 @@ http://37.48.86.45:8182/OTEsport8/index.m3u8
 http://37.48.86.45:8182/OTEsport9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-1-portugal-uk-pt.png" group-title="Other Sports",Eleven Sports 1 Portugal
-
+http://185.246.210.53:2200/NL/elevensports1hd-por/index.m3u8?token=RED_qkqrTSIobTFmeixnYN9ywg==,1603868647.2778340158&t=1&s=1&p=1&c=BR&r=65
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png" group-title="Other Sports",Eleven Sports 2 Portugal
-
+http://185.246.210.53:2200/NL/elevensports2hd-por/index.m3u8?token=RED_qkqrTSIobTFmeixnYN9ywg==,1603868647.2778340158&t=1&s=1&p=1&c=BR&r=65
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-3-portugal-uk-pt.png" group-title="Other Sports",Eleven Sports 3 Portugal
-
+http://185.246.210.53:2200/NL/elevensports3-por/index.m3u8?token=RED_qkqrTSIobTFmeixnYN9ywg==,1603868647.2778340158&t=1&s=1&p=1&c=BR&r=65
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-4-portugal-uk-pt.png" group-title="Other Sports",Eleven Sports 4 Portugal
-
+http://185.246.210.53:2200/NL/elevensports4-por/index.m3u8?token=RED_qkqrTSIobTFmeixnYN9ywg==,1603868647.2778340158&t=1&s=1&p=1&c=BR&r=65
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-1-fr.png" group-title="Other Sports",RMC Sport 1 HD
 
