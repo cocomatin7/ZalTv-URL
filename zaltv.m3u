@@ -134,9 +134,13 @@ http://185.246.210.53:2200/NL/elevensports6-por/index.m3u8?token=RED_qkqrTSIobTF
 http://185.246.210.53:2200/NL/elevensports5-por/index.m3u8?token=RED_qkqrTSIobTFmeixnYN9ywg==,1603868647.2778340158&t=1&s=1&p=1&c=BR&r=65
 
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier-football-ph.png",Football sport 1
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/bd25a2710ea8456bafeb6099c56989e7/chunklist_b4628000.m3u8?p=79&s=1603642883&e=1603643003&h=6855e1d4b1272a77753d9079c28dbe6a
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/7091ae45ed8d4eea8658ae19e4b48b76/chunklist_b4628000.m3u8?p=79&s=1603804120&e=1603804240&h=d2322f9e5c2f7f14e0b2d8708119391c
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier-football-ph.png",Football sport 2
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/599d08ef94614a478eb307368ccd7bea/chunklist_b4628000.m3u8?p=79&s=1603729736&e=1603729856&h=1ada7cdcf19aadfbc2fbd7ed67f50a0e
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/87a4e225cba74a30bad1550feb880c43/chunklist_b4628000.m3u8?p=79&s=1603804200&e=1603804320&h=5d65b38e75f6fede6bc6c71aa79ed526
+#EXTINF:-1 group-title="Sports"tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier-football-ph.png",Football sport 3
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/977e1d33ab0d4887b651fd61a26ff77b/chunklist_b4628000.m3u8?p=79&s=1603804033&e=1603804153&h=9e680d88bddcb27a36e6502874a3d5b6
+#EXTINF:-1 group-title="Sports"tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier-football-ph.png",Football sport 4
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/cf34090203dc423789f2a96644569efb/chunklist_b4628000.m3u8?p=79&s=1603804419&e=1603804539&h=771cf188eb8f65b495d55a8a4ecddd4e
 
 #EXTINF:-1 tvg-id="FOXSports2.my" tvg-logo="https://i.imgur.com/n3ieiWB.png" group-title="Sports",Fox Sport 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
@@ -267,49 +271,6 @@ http://103.208.24.234:1935/thaisport/hd-foxsports2.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports3.png",Thai Fox Sport3
 http://103.208.24.234:1935/thaisport/hd-foxsports3.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://kokommawilliams.com/wp-content/uploads/2019/05/Premier-league.jpg" group-title="Live Stream",ZML EPL LIVE1
-https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://kokommawilliams.com/wp-content/uploads/2019/05/Premier-league.jpg" group-title="Live Stream",ZML EPL LIVE2
-http://103.208.24.234:1935/thaisport/epl-2.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://kokommawilliams.com/wp-content/uploads/2019/05/Premier-league.jpg" group-title="Live Stream",ZML EPL LIVE3
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/bd25a2710ea8456bafeb6099c56989e7/chunklist_b4628000.m3u8?p=79&s=1603642883&e=1603643003&h=6855e1d4b1272a77753d9079c28dbe6a
-
-#EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/GOAL/82/d7/serie-a-logo-2019-20_49q9flr9v9qp1k738igyi2xaf.png?t=-982278464" group-title="Live Stream",ZML Serie A LIVE1
-http://37.48.86.45:8182/SUPERSPORT1/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/GOAL/82/d7/serie-a-logo-2019-20_49q9flr9v9qp1k738igyi2xaf.png?t=-982278464" group-title="Live Stream",ZML Serie A LIVE2
-https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/GOAL/82/d7/serie-a-logo-2019-20_49q9flr9v9qp1k738igyi2xaf.png?t=-982278464" group-title="Live Stream",ZML Serie A LIVE3
-http://ott-cdn.ucom.am/s81/04.m3u8
-#EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/GOAL/82/d7/serie-a-logo-2019-20_49q9flr9v9qp1k738igyi2xaf.png?t=-982278464" group-title="Live Stream",ZML Serie A LIVE4
-http://103.102.136.106:8080/cmcltv/tcm_ten2.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.leadersinsport.com/wp-content/uploads/2018/02/Ligue-1-Conforama.jpg" group-title="Live Stream",ZML Ligue Live1
-http://37.48.86.45:8182/SUPERSPORT3/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.leadersinsport.com/wp-content/uploads/2018/02/Ligue-1-Conforama.jpg" group-title="Live Stream",ZML Ligue Live2
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/2cf919147d27592.m3u8
-#EXTINF:-1 tvg-logo="https://www.leadersinsport.com/wp-content/uploads/2018/02/Ligue-1-Conforama.jpg" group-title="Live Stream",ZML Ligue Live3
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/f0023c1ee8528fa.m3u8
-#EXTINF:-1 tvg-logo="https://www.leadersinsport.com/wp-content/uploads/2018/02/Ligue-1-Conforama.jpg" group-title="Live Stream",ZML Ligue Live4
-https://v.wyljc.com/live/sd-1-3399238-stream/playlist.m3u8?wsSecret=561451761aa48366dc3d1536559f8ef7&wsABSTime=5f9593bf&wsSession=17d40698e094e123ec060788-160363461979993&wsIPSercert=88137a73fd749bbabb31b1ce44930cc3&wsMonitor=0
-
-#EXTINF:-1 tvg-logo="https://img.jakpost.net/c/2019/05/16/2019_05_16_72382_1557949331._large.jpg" group-title="Live Stream",ZML Laliga Live1
-https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
-#EXTINF:-1 tvg-logo="https://img.jakpost.net/c/2019/05/16/2019_05_16_72382_1557949331._large.jpg" group-title="Live Stream",ZML Laliga Live2
-http://37.48.86.45:8182/OTEsport7/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.jakpost.net/c/2019/05/16/2019_05_16_72382_1557949331._large.jpg" group-title="Live Stream",ZML Laliga Live3
-http://185.246.210.53:2200/NL/elevensports1hd-por/index.m3u8?token=RED_cRGoXsmnvpRnS0tsQOTM4g==,1603749048.2778340158&t=1&s=1&p=1&c=BR&r=65
-
-#EXTINF:-1 tvg-logo="https://www.egypttoday.com/siteimages/larg/17785.jpg" group-title="Live Stream",ZML Bundesliga Live1
-https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.egypttoday.com/siteimages/larg/17785.jpg" group-title="Live Stream",ZML Bundesliga Live2
-http://ott-cdn.ucom.am/s82/04.m3u8
-#EXTINF:-1 tvg-logo="https://www.egypttoday.com/siteimages/larg/17785.jpg" group-title="Live Stream",ZML Bundesliga Live3
-http://37.48.86.45:8182/OTEsport3/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.egypttoday.com/siteimages/larg/17785.jpg" group-title="Live Stream",ZML Bundesliga Live4
-http://185.246.210.53:2200/NL/elevensports2hd-por/index.m3u8?token=RED_cRGoXsmnvpRnS0tsQOTM4g==,1603749048.2778340158&t=1&s=1&p=1&c=BR&r=65
-#EXTINF:-1 tvg-logo="https://www.egypttoday.com/siteimages/larg/17785.jpg" group-title="Live Stream",ZML Bundesliga Live5
-https://v.wyljc.com/live/sd-1-3418310-stream/playlist.m3u8?wsSecret=47bb2ee45a58c9ef7cbd5d5266e2a15e&wsABSTime=5f943a61&wsSession=17d40698e094e123ec060788-160354598605095&wsIPSercert=88137a73fd749bbabb31b1ce44930cc3&wsMonitor=0
-
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="Other Sports",BEINSPORT LaLiga
 https://vcdnjt.useetv.com/dass/15/bein1/chunklist_w569980004_b684100_sleng_enc=s0kUt6Guh4KDF-wYLykbZg.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_bein2_big1.png" group-title="Other Sports",BEINSPORT Serie A
@@ -323,6 +284,8 @@ https://vcdnjt.useetv.com/dass/15/champion2/chunklist_w670832473_b894100_sleng_4
 http://130.193.165.50:4000/play/a004/index.m3u8
 #EXTINF: -1 tvg-name="Champion TV 2" tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Other Sports",Champion TV4
 http://195.191.208.80:80/jwt/4497e44f4252b7acb1d1412d7e0fd83b882181e9-520-0-24h502315-None-90559203-1587035792--v2A0n6gqPo7LzFYq89o-QvUbXYdxs_gCJqlVLkKfy5o-0
+#EXTINF: -1 tvg-name="Champion TV 2" tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Other Sports",Champion TV5
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/SUPERSPORT2.png" group-title="Other Sports",SUPER SPORT 2
 http://144.76.91.70:8081/streamrtmp/ss2/playlist.m3u8
@@ -444,7 +407,7 @@ http://37.48.86.45:8182/OTEsport2/index.m3u8
 http://37.48.86.45:8182/OTEsport3/index.m3u8
 #EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Champion League",UCL 6HD
 http://37.48.86.45:8182/OTEsport9/index.m3u8
-#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Champion League",UCL 6HD
+#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Champion League",UCL 7HD
 http://37.48.86.45:8182/OTEsport7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 1HD
@@ -613,4 +576,47 @@ http://08139e2f.ottv.info/iptv/S9824PT3RW2E72/877/index.m3u8
 http://188.35.9.5:10007/stolen/246r/parasite.install
 #EXTINF:-1 group-title="XXX" tvg-logo="http://adultiptv.net/lists/logo.png",Visit-X TV
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://kokommawilliams.com/wp-content/uploads/2019/05/Premier-league.jpg" group-title="Live Stream",ZML EPL LIVE1
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://kokommawilliams.com/wp-content/uploads/2019/05/Premier-league.jpg" group-title="Live Stream",ZML EPL LIVE2
+http://103.208.24.234:1935/thaisport/epl-2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://kokommawilliams.com/wp-content/uploads/2019/05/Premier-league.jpg" group-title="Live Stream",ZML EPL LIVE3
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/bd25a2710ea8456bafeb6099c56989e7/chunklist_b4628000.m3u8?p=79&s=1603642883&e=1603643003&h=6855e1d4b1272a77753d9079c28dbe6a
+
+#EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/GOAL/82/d7/serie-a-logo-2019-20_49q9flr9v9qp1k738igyi2xaf.png?t=-982278464" group-title="Live Stream",ZML Serie A LIVE1
+http://37.48.86.45:8182/SUPERSPORT1/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/GOAL/82/d7/serie-a-logo-2019-20_49q9flr9v9qp1k738igyi2xaf.png?t=-982278464" group-title="Live Stream",ZML Serie A LIVE2
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/GOAL/82/d7/serie-a-logo-2019-20_49q9flr9v9qp1k738igyi2xaf.png?t=-982278464" group-title="Live Stream",ZML Serie A LIVE3
+http://ott-cdn.ucom.am/s81/04.m3u8
+#EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/GOAL/82/d7/serie-a-logo-2019-20_49q9flr9v9qp1k738igyi2xaf.png?t=-982278464" group-title="Live Stream",ZML Serie A LIVE4
+http://103.102.136.106:8080/cmcltv/tcm_ten2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.leadersinsport.com/wp-content/uploads/2018/02/Ligue-1-Conforama.jpg" group-title="Live Stream",ZML Ligue Live1
+http://37.48.86.45:8182/SUPERSPORT3/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.leadersinsport.com/wp-content/uploads/2018/02/Ligue-1-Conforama.jpg" group-title="Live Stream",ZML Ligue Live2
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/2cf919147d27592.m3u8
+#EXTINF:-1 tvg-logo="https://www.leadersinsport.com/wp-content/uploads/2018/02/Ligue-1-Conforama.jpg" group-title="Live Stream",ZML Ligue Live3
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Sports/f0023c1ee8528fa.m3u8
+#EXTINF:-1 tvg-logo="https://www.leadersinsport.com/wp-content/uploads/2018/02/Ligue-1-Conforama.jpg" group-title="Live Stream",ZML Ligue Live4
+https://v.wyljc.com/live/sd-1-3399238-stream/playlist.m3u8?wsSecret=561451761aa48366dc3d1536559f8ef7&wsABSTime=5f9593bf&wsSession=17d40698e094e123ec060788-160363461979993&wsIPSercert=88137a73fd749bbabb31b1ce44930cc3&wsMonitor=0
+
+#EXTINF:-1 tvg-logo="https://img.jakpost.net/c/2019/05/16/2019_05_16_72382_1557949331._large.jpg" group-title="Live Stream",ZML Laliga Live1
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
+#EXTINF:-1 tvg-logo="https://img.jakpost.net/c/2019/05/16/2019_05_16_72382_1557949331._large.jpg" group-title="Live Stream",ZML Laliga Live2
+http://37.48.86.45:8182/OTEsport7/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.jakpost.net/c/2019/05/16/2019_05_16_72382_1557949331._large.jpg" group-title="Live Stream",ZML Laliga Live3
+http://185.246.210.53:2200/NL/elevensports1hd-por/index.m3u8?token=RED_cRGoXsmnvpRnS0tsQOTM4g==,1603749048.2778340158&t=1&s=1&p=1&c=BR&r=65
+
+#EXTINF:-1 tvg-logo="https://www.egypttoday.com/siteimages/larg/17785.jpg" group-title="Live Stream",ZML Bundesliga Live1
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.egypttoday.com/siteimages/larg/17785.jpg" group-title="Live Stream",ZML Bundesliga Live2
+http://ott-cdn.ucom.am/s82/04.m3u8
+#EXTINF:-1 tvg-logo="https://www.egypttoday.com/siteimages/larg/17785.jpg" group-title="Live Stream",ZML Bundesliga Live3
+http://37.48.86.45:8182/OTEsport3/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.egypttoday.com/siteimages/larg/17785.jpg" group-title="Live Stream",ZML Bundesliga Live4
+http://185.246.210.53:2200/NL/elevensports2hd-por/index.m3u8?token=RED_cRGoXsmnvpRnS0tsQOTM4g==,1603749048.2778340158&t=1&s=1&p=1&c=BR&r=65
+#EXTINF:-1 tvg-logo="https://www.egypttoday.com/siteimages/larg/17785.jpg" group-title="Live Stream",ZML Bundesliga Live5
+https://v.wyljc.com/live/sd-1-3418310-stream/playlist.m3u8?wsSecret=47bb2ee45a58c9ef7cbd5d5266e2a15e&wsABSTime=5f943a61&wsSession=17d40698e094e123ec060788-160354598605095&wsIPSercert=88137a73fd749bbabb31b1ce44930cc3&wsMonitor=0
 
