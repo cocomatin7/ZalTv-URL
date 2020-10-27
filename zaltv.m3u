@@ -154,7 +154,7 @@ http://103.208.24.234:1935/thaisport/epl-4.stream/playlist.m3u8
 http://103.208.24.234:1935/thaisport/epl-5.stream/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my.png" group-title="Sports",ASTRO SUPERSPORTS 1
-http://newhostshare.ddns.net:9981/stream/service/79610d1a1bd4881f46fb301566bd856c?ticket=7cf95c378fa8017b5cd1463edb622947cd34fb0b
+http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_2.png" group-title="Sports",ASTRO SUPERSPORTS 2
 http://newhostshare.ddns.net:9981/stream/service/6c7cadd7615014a39488bba1af1af7fe?ticket=f221GV9Jm2u7rmsCe65wKzPTw5jtS38n2tVEGi53
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro_supersport_my_3.png" group-title="Sports",ASTRO SUPERSPORTS 3 
@@ -423,7 +423,7 @@ http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/107/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 1HD
-http://185.246.210.53:2200/EX/bein1hd-ar/index.m3u8?token=RED_jMPyjBcKfXPtMwZAZbgvhQ==,1603778843.1515923156&t=1&s=1&p=1&c=MA&r=65
+http://fariszah.myq-see.com:8008/live/demo/demo/2322.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 2HD
 http://digitalxpress2.gcdn.co/live1/RTMP-bein2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 3HD
