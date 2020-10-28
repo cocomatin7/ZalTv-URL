@@ -346,19 +346,20 @@ http://dx4.gcdn.co/UKS1763/index.m3u8
 http://dx4.gcdn.co/UKS1764/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/sky-sports-football.jpg" group-title="Other Sports",Sky Sport 1 HD
-
+http://live.darkside-iptv.com:8080/live/Pegx7EE5PD/aRIoIYawJu/23614.m3u8
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/sky-sports-football.jpg" group-title="Other Sports",Sky Sport 2 HD
-
+http://live.darkside-iptv.com:8080/live/Pegx7EE5PD/aRIoIYawJu/23611.m3u8
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/sky-sports-football.jpg" group-title="Other Sports",Sky Sport Bundesliga
 
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_1_Small.png" group-title="Other Sports",BT SPORT1
-
+http://live.darkside-iptv.com:8080/live/Pegx7EE5PD/aRIoIYawJu/111753.m3u8
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_2_Small.png" group-title="Other Sports",BT SPORT2
-
+http://live.darkside-iptv.com:8080/live/Pegx7EE5PD/aRIoIYawJu/111754.m3u8
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_3_Small.png" group-title="Other Sports",BT SPORT3
-
+http://live.darkside-iptv.com:8080/live/Pegx7EE5PD/aRIoIYawJu/111755.m3u8
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_ESPN_Small.png" group-title="Other Sports",BT SPORT ESPN
+http://live.darkside-iptv.com:8080/live/Pegx7EE5PD/aRIoIYawJu/111756.m3u8
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/SportTV1-Small.png" group-title="Other Sports",SPORT TV 1
 
@@ -396,21 +397,21 @@ http://195.191.208.80:80/jwt/4497e44f4252b7acb1d1412d7e0fd83b882181e9-520-0-24h5
 http://130.193.165.50:4000/play/a004/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.thestatszone.com/uploads/thumbnails/_r169l/UCL_2021_Krasnodar_Vs_Chelsea.jpg" group-title="Champion League",Krasnodar_Vs_Chelsea
-
+http://185.246.210.53:2200/NL/elevensports2hd-por/index.m3u8?token=RED_oXmOwdI7_ELLZFQWLLhzBQ==,1603962634.2778340158&t=1&s=1&p=1&c=BR&r=65
 #EXTINF:-1 tvg-logo="https://cdn.thestatszone.com/uploads/thumbnails/_r43s/UCL_2021_IstanbulBasaksehir_Vs_PSG.jpg" group-title="Champion League",Basaksehir_Vs_PSG
-
+http://185.246.210.53:2200/NL/elevensports1hd-por/index.m3u8?token=RED_oXmOwdI7_ELLZFQWLLhzBQ==,1603962634.2778340158&t=1&s=1&p=1&c=BR&r=65
 #EXTINF:-1 tvg-logo="https://cdn.thestatszone.com/uploads/thumbnails/_r43s/UCL_2021_Sevilla_Vs_Rennes.jpg" group-title="Champion League",Sevilla_Vs_Rennes
-
+http://185.246.210.53:2200/NL/elevensports4-por/index.m3u8?token=RED_oXmOwdI7_ELLZFQWLLhzBQ==,1603962634.2778340158&t=1&s=1&p=1&c=BR&r=65
 #EXTINF:-1 tvg-logo="https://cdn.thestatszone.com/uploads/thumbnails/_r43s/UCL_2021_BorussiaDortmund_Vs_Zenit.jpg" group-title="Champion League",BorussiaDortmund_Vs_Zenit
-
+http://185.246.210.53:2200/NL/elevensports3-por/index.m3u8?token=RED_oXmOwdI7_ELLZFQWLLhzBQ==,1603962634.2778340158&t=1&s=1&p=1&c=BR&r=65
 #EXTINF:-1 tvg-logo="https://cdn.thestatszone.com/uploads/thumbnails/_r43s/UCL_2021_ClubBrugges_Vs_Lazio.jpg" group-title="Champion League",ClubBrugges_Vs_Lazio
-
+http://185.246.210.53:2200/NL/elevensports5-por/index.m3u8?token=RED_oXmOwdI7_ELLZFQWLLhzBQ==,1603962634.2778340158&t=1&s=1&p=1&c=BR&r=65
 #EXTINF:-1 tvg-logo="https://cdn.thestatszone.com/uploads/thumbnails/_r43s/UCL_2021_Ferencvaros_Vs_DynamoKyiv.jpg" group-title="Champion League",Ferencvaros_Vs_DynamoKyiv
-
+http://185.246.210.53:2200/NL/elevensports6-por/index.m3u8?token=RED_oXmOwdI7_ELLZFQWLLhzBQ==,1603962634.2778340158&t=1&s=1&p=1&c=BR&r=65
 #EXTINF:-1 tvg-logo="https://cdn.thestatszone.com/uploads/thumbnails/_r43s/UCL_2021_Juventus_Vs_Barcelona.jpg" group-title="Champion League",Juventus_Vs_Barcelona
-
+http://185.246.210.53:2200/NL/elevensports1hd-por/index.m3u8?token=RED_oXmOwdI7_ELLZFQWLLhzBQ==,1603962634.2778340158&t=1&s=1&p=1&c=BR&r=65
 #EXTINF:-1 tvg-logo="https://cdn.thestatszone.com/uploads/thumbnails/_r43s/UCL_2021_ManUtd_Vs_RBLeipzig.jpg" group-title="Champion League",ManUtd_Vs_RBLeipzig
-
+http://185.246.210.53:2200/NL/elevensports2hd-por/index.m3u8?token=RED_oXmOwdI7_ELLZFQWLLhzBQ==,1603962634.2778340158&t=1&s=1&p=1&c=BR&r=65
 
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 1HD
 http://fariszah.myq-see.com:8008/live/demo/demo/2322.m3u8
