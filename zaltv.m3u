@@ -184,9 +184,9 @@ http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 http://newhostshare.ddns.net:9981/stream/service/9b4267cd07d0f076b723b83e74b5b8da?ticket=af0d51a8d2be8042320ff1780269373e6510626d
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/sky-sports-football.jpg" group-title="Sports",SKYSPORT FOOTBALL
-
+http://live.darkside-iptv.com:8080/live/Pegx7EE5PD/aRIoIYawJu/111742.m3u8
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/sky-sports-premier-league.jpg" group-title="Sports",SKYSPORT PREMIER
-
+http://live.darkside-iptv.com:8080/live/Pegx7EE5PD/aRIoIYawJu/111741.m3u8
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/sky-sports-premier-league.jpg" group-title="Sports",SKYSPORT Main Event
 
 
@@ -196,7 +196,7 @@ https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nbcsn-us.png" group-title="Sports",NBCSN EPL
-
+http://live.darkside-iptv.com:8080/live/Pegx7EE5PD/aRIoIYawJu/113683.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rmc-sport-1-fr.png" group-title="Sports",RMC SPORT1 EPL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/za6Xk9g.jpg" group-title="Sports",La Liga TV
