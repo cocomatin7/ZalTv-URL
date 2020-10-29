@@ -116,22 +116,8 @@ https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa3
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_asia.png" group-title="Movies",CINEMAX Myanmar
 http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/stream_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://wwwimage-secure.cbsstatic.com/base/files/seo/ucl_social_1200x627_0.jpg" group-title="Champion Live",Krasnodar Vs ချဲလ်ဆီး
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
-#EXTINF:-1 tvg-logo="https://wwwimage-secure.cbsstatic.com/base/files/seo/ucl_social_1200x627_0.jpg" group-title="Champion Live",Basaksehir Vs ပီအက်ဂျီ
-https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://wwwimage-secure.cbsstatic.com/base/files/seo/ucl_social_1200x627_0.jpg" group-title="Champion Live",ဆီဗီလာ Vs ရင်းနက်
-http://digitalxpress2.gcdn.co/live1/RTMP-bein3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://wwwimage-secure.cbsstatic.com/base/files/seo/ucl_social_1200x627_0.jpg" group-title="Champion Live",ဒေါ့မွန် Vs ဇင်းနစ်
-http://digitalxpress2.gcdn.co/live1/RTMP-bein5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://wwwimage-secure.cbsstatic.com/base/files/seo/ucl_social_1200x627_0.jpg" group-title="Champion Live",Brugge Vs လာဇီယို
-http://digitalxpress2.gcdn.co/live1/RTMP-bein4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://wwwimage-secure.cbsstatic.com/base/files/seo/ucl_social_1200x627_0.jpg" group-title="Champion Live",Ferencvaros Vs ဒိုင်နမို
-http://digitalxpress2.gcdn.co/live1/RTMP-bein6/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://wwwimage-secure.cbsstatic.com/base/files/seo/ucl_social_1200x627_0.jpg" group-title="Champion Live",ဂျူဗင်တပ် Vs ဘာဆီလိုနာ
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
-#EXTINF:-1 tvg-logo="https://wwwimage-secure.cbsstatic.com/base/files/seo/ucl_social_1200x627_0.jpg" group-title="Champion Live",မန်ယူ Vs လိုက်ဇစ်
-https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="One Champion"tvg-logo="",One Champion Live
+https://youtu.be/RjDV28mwZqU
 
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier-football-ph.png",Football sport 1
 
@@ -395,23 +381,6 @@ http://195.191.208.80:80/jwt/4497e44f4252b7acb1d1412d7e0fd83b882181e9-520-0-24h5
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/polsat_sport.png" group-title="Other Sports",SPORT PREMIUN
 http://130.193.165.50:4000/play/a004/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.thestatszone.com/uploads/thumbnails/_r169l/UCL_2021_Krasnodar_Vs_Chelsea.jpg" group-title="Champion League",Krasnodar_Vs_Chelsea
-http://185.246.210.53:2200/NL/elevensports2hd-por/index.m3u8?token=RED_oXmOwdI7_ELLZFQWLLhzBQ==,1603962634.2778340158&t=1&s=1&p=1&c=BR&r=65
-#EXTINF:-1 tvg-logo="https://cdn.thestatszone.com/uploads/thumbnails/_r43s/UCL_2021_IstanbulBasaksehir_Vs_PSG.jpg" group-title="Champion League",Basaksehir_Vs_PSG
-http://185.246.210.53:2200/NL/elevensports1hd-por/index.m3u8?token=RED_oXmOwdI7_ELLZFQWLLhzBQ==,1603962634.2778340158&t=1&s=1&p=1&c=BR&r=65
-#EXTINF:-1 tvg-logo="https://cdn.thestatszone.com/uploads/thumbnails/_r43s/UCL_2021_Sevilla_Vs_Rennes.jpg" group-title="Champion League",Sevilla_Vs_Rennes
-http://185.246.210.53:2200/NL/elevensports4-por/index.m3u8?token=RED_oXmOwdI7_ELLZFQWLLhzBQ==,1603962634.2778340158&t=1&s=1&p=1&c=BR&r=65
-#EXTINF:-1 tvg-logo="https://cdn.thestatszone.com/uploads/thumbnails/_r43s/UCL_2021_BorussiaDortmund_Vs_Zenit.jpg" group-title="Champion League",BorussiaDortmund_Vs_Zenit
-http://185.246.210.53:2200/NL/elevensports3-por/index.m3u8?token=RED_oXmOwdI7_ELLZFQWLLhzBQ==,1603962634.2778340158&t=1&s=1&p=1&c=BR&r=65
-#EXTINF:-1 tvg-logo="https://cdn.thestatszone.com/uploads/thumbnails/_r43s/UCL_2021_ClubBrugges_Vs_Lazio.jpg" group-title="Champion League",ClubBrugges_Vs_Lazio
-http://185.246.210.53:2200/NL/elevensports5-por/index.m3u8?token=RED_oXmOwdI7_ELLZFQWLLhzBQ==,1603962634.2778340158&t=1&s=1&p=1&c=BR&r=65
-#EXTINF:-1 tvg-logo="https://cdn.thestatszone.com/uploads/thumbnails/_r43s/UCL_2021_Ferencvaros_Vs_DynamoKyiv.jpg" group-title="Champion League",Ferencvaros_Vs_DynamoKyiv
-http://185.246.210.53:2200/NL/elevensports6-por/index.m3u8?token=RED_oXmOwdI7_ELLZFQWLLhzBQ==,1603962634.2778340158&t=1&s=1&p=1&c=BR&r=65
-#EXTINF:-1 tvg-logo="https://cdn.thestatszone.com/uploads/thumbnails/_r43s/UCL_2021_Juventus_Vs_Barcelona.jpg" group-title="Champion League",Juventus_Vs_Barcelona
-http://185.246.210.53:2200/NL/elevensports1hd-por/index.m3u8?token=RED_oXmOwdI7_ELLZFQWLLhzBQ==,1603962634.2778340158&t=1&s=1&p=1&c=BR&r=65
-#EXTINF:-1 tvg-logo="https://cdn.thestatszone.com/uploads/thumbnails/_r43s/UCL_2021_ManUtd_Vs_RBLeipzig.jpg" group-title="Champion League",ManUtd_Vs_RBLeipzig
-http://185.246.210.53:2200/NL/elevensports2hd-por/index.m3u8?token=RED_oXmOwdI7_ELLZFQWLLhzBQ==,1603962634.2778340158&t=1&s=1&p=1&c=BR&r=65
 
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/bmg/wp-content/uploads/2015/03/beIN-SPORTS-LOGO.png" group-title="Bein Sports",BEIN SPORTS 1HD
 http://live.darkside-iptv.com:8080/live/Pegx7EE5PD/aRIoIYawJu/114680.m3u8
