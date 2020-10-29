@@ -458,6 +458,8 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png" group-title="Discovery",BBC Earth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nasa_tv_us.png" group-title="Discovery",
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1603975726/ei/zmWaX_rgA6bt4-EPt8-0oAI/ip/37.111.14.147/id/21X5lGlDOfg.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgHhFmYdHascP6Jn_6tB-sUyYK5k-a26i8Y1yfukTOHakCIE2RQs9r5bK3S7nRWi7FbsS3G1pf4zMF5Y0ECBfTKtis/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.clipartkey.com/mpngs/m/71-719218_dance-word-clipart.png" group-title="MUSIC",THEBOX MUSIC
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
