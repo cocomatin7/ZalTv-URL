@@ -268,12 +268,6 @@ https://vcdnjt.useetv.com/dass/15/bein2/chunklist_w1901250353_b684100_sleng_enc=
 https://cdnmdc1.useetv.com/dass/15/champion1/chunklist_w2141102661_b894100_sleng_57560.m3u8
 #EXTINF: -1 tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Other Sports",Champion TV2 
 https://cdnmdc1.useetv.com/dass/15/champion2/chunklist_w670832473_b894100_sleng_4798.m3u8
-#EXTINF: -1 tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Other Sports",Champion TV3
-http://130.193.165.50:4000/play/a004/index.m3u8
-#EXTINF: -1 tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Other Sports",Champion TV4
-http://195.191.208.80:80/jwt/4497e44f4252b7acb1d1412d7e0fd83b882181e9-520-0-24h502315-None-90559203-1587035792--v2A0n6gqPo7LzFYq89o-QvUbXYdxs_gCJqlVLkKfy5o-0
-#EXTINF: -1 tvg-logo="https://asset.indosport.com/article/image/q/80/254446/logo_liga_champions1-169.jpg" group-title="Other Sports",Champion TV5
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/SUPERSPORT2.png" group-title="Other Sports",SUPER SPORT 2
 http://144.76.91.70:8081/streamrtmp/ss2/playlist.m3u8
@@ -349,16 +343,16 @@ http://live.darkside-iptv.com:8080/live/Pegx7EE5PD/aRIoIYawJu/111755.m3u8
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/BT_Sport_ESPN_Small.png" group-title="Other Sports",BT SPORT ESPN
 http://live.darkside-iptv.com:8080/live/Pegx7EE5PD/aRIoIYawJu/111756.m3u8
 
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/SportTV1-Small.png" group-title="Other Sports",SPORT TV 1
-
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/SportTV2-Small.png" group-title="Other Sports",SPORT TV 2
-
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/SportTV3-Small.png" group-title="Other Sports",SPORT TV 3
-
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/SportTV4-Small.png" group-title="Other Sports",SPORT TV 4
-
-#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/SportTV5-Small.png" group-title="Other Sports",SPORT TV 5
-
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/SportTV1-Small.png" group-title="Other Sports",Europa TV 1
+http://89.187.169.205:2200/NL/sporttv1-por/index.m3u8?token=RED_fGXGE1ncqcQ93rN2NYIQwQ==,1604038243.2778340158&t=1&s=1&p=1&c=BR&r=65
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/SportTV2-Small.png" group-title="Other Sports",Europa TV 2 
+http://89.187.169.205:2200/NL/sporttv2-por/index.m3u8?token=RED_fGXGE1ncqcQ93rN2NYIQwQ==,1604038243.2778340158&t=1&s=1&p=1&c=BR&r=65
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/SportTV3-Small.png" group-title="Other Sports",Europa TV 3
+http://89.187.169.205:2200/NL/sporttv3-por/index.m3u8?token=RED_fGXGE1ncqcQ93rN2NYIQwQ==,1604038243.2778340158&t=1&s=1&p=1&c=BR&r=65
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/SportTV4-Small.png" group-title="Other Sports",Europa TV 4
+http://89.187.169.205:2200/NL/sporttv4-por/index.m3u8?token=RED_fGXGE1ncqcQ93rN2NYIQwQ==,1604038243.2778340158&t=1&s=1&p=1&c=BR&r=65
+#EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/SportTV5-Small.png" group-title="Other Sports",Europa TV 5
+http://89.187.169.205:2200/NL/sporttv5-por/index.m3u8?token=RED_fGXGE1ncqcQ93rN2NYIQwQ==,1604038243.2778340158&t=1&s=1&p=1&c=BR&r=65
 
 #EXTINF:-1 tvg-logo="http://runnel.ir/ax/logo/Eleven-Sports-1-Poland-Small.png" group-title="Other Sports",Eleven Sports 1
 
