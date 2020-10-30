@@ -41,24 +41,24 @@ http://220.158.149.28:8180/live/TV00000000000000000169@HHZT
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/corp/mm/mv_tv_th.png" group-title="Myanmar TV",MVTV MYANMAR
 https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://images.iptvhero.com/channel/hd-foxaction.png",Fox Action
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_action.png",Fox Action
 http://qqtv.nl:8080/live/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20282.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://images.iptvhero.com/channel/hd-foxpremium.png",Fox Movies
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_asia.png",Fox Movies
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://images.iptvhero.com/channel/hd-foxfamily.png",Fox Family
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_family.png",Fox Family
 http://103.76.148.203:25461/live/sementara/sementara/7.ts
-#EXTINF:-1 group-title="Movies" tvg-logo="https://images.iptvhero.com/channel/hd-hbo.png",HBO HD
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png",HBO HD
 http://188.35.9.11:21151/udp/190z
 #EXTINF:-1 group-title="Movies"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg",Red by HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://images.iptvhero.com/channel/hd-hbohits.png",HBO HITS
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_hits.png",HBO HITS
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://images.iptvhero.com/channel/hd-hbofamily.png",HBO FAMILY
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_family_asia.png",HBO FAMILY
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://images.iptvhero.com/channel/hd-axn.png",AXN HD
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/aa/axn_east_asia.png",AXN HD
 http://ip2121.com:8081/live2/AXN_Y/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://images.iptvhero.com/channel/sd-fox.png",Fox Thai
-http://tv10.chang55.com/ch08-foxthai/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_global.png",Fox Thai
+https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_global.png",FOX HD 
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-life-us.png",FOX Life HD 
