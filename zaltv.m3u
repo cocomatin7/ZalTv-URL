@@ -116,15 +116,15 @@ https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa3
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_asia.png" group-title="Movies",CINEMAX Myanmar
 http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/stream_2.m3u8
 
-#EXTINF:-1 group-title="One Championship"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRJ2n27h8cfauyKEFVuaSlIo6e82WUQHKP8Q&usqp=CAU",One Champion Live1
+#EXTINF:-1 group-title="One Championship"tvg-logo="https://cdn.mmanews.com/wp-content/uploads/2018/11/oie_t2oNl2NvpjCe-696x392.jpg",One Champion Live1
 https://video.fmdl2-2.fna.fbcdn.net/v/t58.24163-29/10000000_3425047590897682_3345775169827502098_n.mp4?_nc_cat=110&ccb=2&_nc_sid=5aebc0&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfbGl2ZV9oZDFfdW1hX2ZyYWdfMl92aWRlbyJ9&_nc_eui2=AeEy7I3jPLr2np2udOXaIOQuXwhnucYpRGJfCGe5xilEYsUrWdO_DS4mGsdtUmS4wo4bPjE30Ir4VRcFM57qe_wJ&_nc_ohc=CSgRsdANymYAX-zwPoS&_nc_ht=video.fmdl2-2.fna&oh=0053ea94545bc5a74c819587ed23e7e1&oe=5F9C5179
-#EXTINF:-1 group-title="One Championship"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRJ2n27h8cfauyKEFVuaSlIo6e82WUQHKP8Q&usqp=CAU",One Champion Live2
+#EXTINF:-1 group-title="One Championship"tvg-logo="https://cdn.mmanews.com/wp-content/uploads/2018/11/oie_t2oNl2NvpjCe-696x392.jpg",One Champion Live2
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
-#EXTINF:-1 group-title="One Championship"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRJ2n27h8cfauyKEFVuaSlIo6e82WUQHKP8Q&usqp=CAU",One Champion Live3
+#EXTINF:-1 group-title="One Championship"tvg-logo="https://cdn.mmanews.com/wp-content/uploads/2018/11/oie_t2oNl2NvpjCe-696x392.jpg",One Champion Live3
 http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
-#EXTINF:-1 group-title="One Championship"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRJ2n27h8cfauyKEFVuaSlIo6e82WUQHKP8Q&usqp=CAU",One Champion Live4
+#EXTINF:-1 group-title="One Championship"tvg-logo="https://cdn.mmanews.com/wp-content/uploads/2018/11/oie_t2oNl2NvpjCe-696x392.jpg",One Champion Live4
 https://live.thairath.co.th/trtv2/playlist_480p/index.m3u8
-#EXTINF:-1 group-title="One Championship"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRJ2n27h8cfauyKEFVuaSlIo6e82WUQHKP8Q&usqp=CAU",One Champion Live5
+#EXTINF:-1 group-title="One Championship"tvg-logo="https://cdn.mmanews.com/wp-content/uploads/2018/11/oie_t2oNl2NvpjCe-696x392.jpg",One Champion Live5
 https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b464000.m3u8
 
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier-football-ph.png",Football sport 1
