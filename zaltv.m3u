@@ -144,7 +144,7 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_hk_select_hd_1.png" group-title="Sports",StarSports Select 1HD
-http://global.thunderbd.com/27/tracks-v1a1/mono.m3u8
+http://103.102.136.106:8080/cmcltv/tcm_live3.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_sports_hk_select_hd_2.png" group-title="Sports",StarSports Select 2HD
 http://global.thunderbd.com/28/tracks-v1a1/mono.m3u8
 
