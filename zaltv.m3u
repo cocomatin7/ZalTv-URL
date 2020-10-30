@@ -125,7 +125,7 @@ http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 #EXTINF:-1 group-title="One Championship"tvg-logo="https://cdn.mmanews.com/wp-content/uploads/2018/11/oie_t2oNl2NvpjCe-696x392.jpg",One Champion Live4
 https://live.thairath.co.th/trtv2/playlist_480p/index.m3u8
 #EXTINF:-1 group-title="One Championship"tvg-logo="https://cdn.mmanews.com/wp-content/uploads/2018/11/oie_t2oNl2NvpjCe-696x392.jpg",One Champion Live5
-https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b464000.m3u8
+http://103.102.136.106:8080/cmcltv/tcm_live3.m3u8
 
 #EXTINF:-1 group-title="Sports"tvg-logo="https://www.lyngsat.com/logo/tv/pp/premier-football-ph.png",Football sport 1
 
